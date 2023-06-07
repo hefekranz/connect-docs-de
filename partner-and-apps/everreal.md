@@ -1,0 +1,59 @@
+---
+description: Die digitale B2B Software für Immobilienvermietung & Verkauf
+---
+
+# EverReal
+
+## Übersicht
+
+* **Kategorien**: [Interessentenmanagement](../kategorien/interessentenmanagement.md), [Objektübergabe](../kategorien/objektuebergabe.md), [Reporting](../kategorien/reporting.md)
+* **Use Cases**: [Stammdaten](../use-cases/stammdaten.md)
+* **Marketplace**: [EverReal](https://marketplace.aareon.com/de/listings/everreal)
+* **API Dokumentation**: [Link](https://api-docs.everreal.co/endpoints)
+
+## Beschreibung
+
+EverReal ist eine professionelle B2B Software für digitalen Mieterwechsel und Verkauf. Unsere cloudbasierte, modulare Lösung deckt den kompletten Prozess vollständig digital ab, von der Vermarktung über Interessenten- und Bewerbermanagement bis hin zur Vertragsunterzeichnung und Wohnungsübergabe und spart Ihnen bis zu 80% Zeit. Ideal für Immobilienunternehmen mit 25 und mehr Transaktionen/Jahr.
+
+## Mit EverReal verbinden
+
+1. Um einen EverReal Use Case zu nutzten, müssen Sie sich gegenüber der EverReal API authentifizieren. Hierzu benötigen Sie:
+   1. **Benutzername**
+   2. **Password**
+   3. **Subdomain**:\
+      Die Subdomain finden Sie, wenn Sie in Ihrem EverReal Account eingeloggt sind oben in der URL Leiste. Hier wird ein Link mit folgender Anfangsstruktur zu sehen sein: [https://**aareon-connect**.everreal.co/app/](https://sandbox-aareon-connect.everreal.co/app/) Dort wo im Beispiel aareon-connect in fett und kursiv steht finden Sie Ihre Subdomain.
+2. Nachdem sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **EverReal Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+
+## Use Cases
+
+### 1. Stammdaten
+
+#### Übersicht
+
+* [Allgemeine Informationen](../use-cases/stammdaten.md)
+* Feld Mapping (_kommt in Kürze_)
+
+#### Entitäten
+
+| ERP                                                            | EverReal                                   |
+| -------------------------------------------------------------- | ------------------------------------------ |
+| [Wirtschaftseinheiten](../entitaeten/wirtschaftseinheiten.md)  | Objektgruppen                              |
+| [Gebäude](../entitaeten/gebaeude.md)                           | Objekte                                    |
+| [Verwaltungseinheiten](../kategorien/eigentuemerverwaltung.md) | Einheiten                                  |
+| [Mietverträge](../entitaeten/mietvertraege.md)                 | Vertragsinformationen hängen am Mieter     |
+| [Mieter](../entitaeten/mieter.md)                              | Mieter (Typ: Mieter)                       |
+| [Eigentümervertrag](../entitaeten/eigentuemervertraege.md)     | Vertragsinformationen hängen am Eigentümer |
+| [Eigentümer](../entitaeten/eigentuemer.md)                     | Eigentümer (Typ: Eigentümer)               |
+
+#### Einstellungen
+
+Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellungen nutzen:
+
+<table><thead><tr><th width="165">Name</th><th width="450.33333333333326">Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td>Separator für zusammengesetzte IDs</td><td>Dieser Seperator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind.</td><td><code>-</code>, <code>_</code>, <code>.</code>, <code>/</code>, <code>|</code></td></tr><tr><td>Mandanten Nummern</td><td>Es werden nur Daten für die eingetragenen Mandanten synchronisiert.</td><td></td></tr></tbody></table>
+
+#### Voraussetzungen
+
+* Es werden nur Mieter und Eigentümer mit einer hinterlegten E-Mail Adresse und Name synchronisiert
+* Es kann nur ein Eigentümer und ein Mieter pro Einheit hinterlegt werden
+
+[^1]: (Link zu ERP overview)
