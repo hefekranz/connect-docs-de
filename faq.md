@@ -8,9 +8,15 @@ A: Locoia ist ein Tochterunternehmen der Aareon, das sich darauf spezialisiert h
 
 
 
+Q: Wie viel Aufwand ist es für Kunden die aktuell das ERP Wodis Sigma nutzen und zukünftig auf Wodis Yuneo umziehen, Aareon Connect mit umzuziehen und bestehende Integrationen auf Yuneo weiter zu nutzen?
+
+A: Für alle Standard Use Cases wird die Umstellung der Integration voll automatisch vorgenommen und es wird lediglich etwas Zeit von Kunden für eine Prüfung der Datenqualität von ca. 2-3 Stunden  benötigt, bevor die Integration live geht. Somit minimaler Aufwand für Kunden bei der Umstellung.
+
+
+
 Q: Können Kunden die Aareon ERPs "in house" nutzen, also auf ihrem eigenen Server hosten, auch Aareon Connect nutzen?
 
-A: Ja, dies ist in aller Regel möglich und standardmäßig untersützt.
+A: Ja, dies ist in aller Regel möglich und standardmäßig unterstützt.
 
 
 
