@@ -35,7 +35,7 @@
   * [Eigentümerverwaltung](kategorien/eigentuemerverwaltung.md)
   * [Handwerkerportal & Auftragsmanagement](kategorien/handwerkerportal-and-auftragsmanagement.md)
   * [Interessentenmanagement](kategorien/interessentenmanagement.md)
-  * [Mieter-Analysen](kategorien/mieter-analysen.md)
+  * [Mieteranalysen](kategorien/mieter-analysen.md)
   * [Mieterkommunikation](kategorien/mieterkommunikation.md)
   * [Objektübergabe](kategorien/objektuebergabe.md)
   * [Reporting](kategorien/reporting.md)

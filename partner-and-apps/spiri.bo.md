@@ -19,9 +19,9 @@ Spiri.Bo ist ein PropTech-Unternehmen der meravis Immobiliengruppe. Spiri.Bo dig
 
 ## Mit Spiri.Bo verbinden
 
-1. Um einen Spiri.Bo Use Case zu nutzten benötigen Sie zur Aktivierung die **Spiri.Bo API Zugansdaten**. Diese erhalten Sie folgendermaßen:
-   1. Fordern Sie per Email an [dev+api-key@spiri.bo](mailto:dev+api-key@spiri.bo) mit dem Betreff "API-Key Aareon Connect" und Inhalt "Hallo, bitte sendet mir einen API-Key für Aareon Connect zu. Vielen Dank" den API Key an
-2. Nachdem sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **Spiri.Bo Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+1. Um einen Spiri.Bo-Use-Case zu nutzen benötigen Sie zur Aktivierung die **Spiri.Bo API Zugansdaten**. Diese erhalten Sie folgendermaßen:
+   1. Fordern Sie per Email an [dev+api-key@spiri.bo](mailto:dev+api-key@spiri.bo) mit dem Betreff "API-Key Aareon Connect" und Inhalt "Hallo, bitte sendet mir einen API-Key für Aareon Connect zu. Vielen Dank" den API Key an.&#x20;
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Spiri.Bo Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
 
 ## Use Cases
 
@@ -30,7 +30,7 @@ Spiri.Bo ist ein PropTech-Unternehmen der meravis Immobiliengruppe. Spiri.Bo dig
 #### Übersicht
 
 * [Allgemeine Informationen](spiri.bo.md#stammdaten)
-* Feld Mapping (_kommt in Kürze_)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 

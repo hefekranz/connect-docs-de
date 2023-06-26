@@ -17,11 +17,11 @@ casavi ist die zentrale Plattform für die Digitalisierung Ihrer Wohnungsverwalt
 
 ## Mit casavi verbinden
 
-1. Um einen casavi Use Case zu nutzten benötigen Sie zur Aktivierung die **casavi API Zugangsdaten**. Diese finden Sie folgendermaßen:
+1. Um einen casavi-Use-Case zu nutzen benötigen Sie zur Aktivierung die **casavi API Zugangsdaten**. Diese finden Sie folgendermaßen:
    1. Klicken Sie auf **Administration** > **API-Zugangsdaten**&#x20;
    2. Hier können Sie ein neues Paar **Schlüssel** und **Secret** generieren oder ein existierendes Paar nutzen.
 
-<figure><img src="../.gitbook/assets/casavi screenshot-1 (1).png" alt="" width="563"><figcaption><p>casavi API Zugansdaten</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/casavi screenshot-1.png" alt="" width="563"><figcaption><p>casavi API Zugansdaten</p></figcaption></figure>
 
 2. Nachdem sie Aareon Connect Kunde geworden sind können sie die verfügbaren **casavi Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
 
@@ -32,7 +32,7 @@ casavi ist die zentrale Plattform für die Digitalisierung Ihrer Wohnungsverwalt
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/stammdaten.md)
-* Feld Mapping (_kommt in Kürze_)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 

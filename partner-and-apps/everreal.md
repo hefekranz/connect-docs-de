@@ -17,12 +17,12 @@ EverReal ist eine professionelle B2B Software für digitalen Mieterwechsel und V
 
 ## Mit EverReal verbinden
 
-1. Um einen EverReal Use Case zu nutzten, müssen Sie sich gegenüber der EverReal API authentifizieren. Hierzu benötigen Sie:
+1. Um einen EverReal-Use-Case zu nutzen, müssen Sie sich gegenüber der **EverReal API** authentifizieren. Hierzu benötigen Sie:
    1. **Benutzername**
    2. **Password**
    3. **Subdomain**:\
       Die Subdomain finden Sie, wenn Sie in Ihrem EverReal Account eingeloggt sind oben in der URL Leiste. Hier wird ein Link mit folgender Anfangsstruktur zu sehen sein: [https://**aareon-connect**.everreal.co/app/](https://sandbox-aareon-connect.everreal.co/app/) Dort wo im Beispiel aareon-connect in fett und kursiv steht finden Sie Ihre Subdomain.
-2. Nachdem sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **EverReal Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **EverReal Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
 
 ## Use Cases
 
@@ -31,7 +31,7 @@ EverReal ist eine professionelle B2B Software für digitalen Mieterwechsel und V
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/stammdaten.md)
-* Feld Mapping (_kommt in Kürze_)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 

@@ -17,11 +17,11 @@ facilioo erweitert die bestehenden Aareon Connect Produkte für die Wohnungswirt
 
 ## Mit facilioo verbinden
 
-1. Um einen facilioo Use Case zu nutzten benötigen Sie zur Aktivierung die facilioo API Zugangsdaten. Diese finden Sie folgendermaßen:
+1. Um einen facilioo-Use-Case zu nutzen benötigen Sie zur Aktivierung die **facilioo API Zugangsdaten**. Diese finden Sie folgendermaßen:
    1. **Username**
    2. **Passwort**
    3. **Environment**
-2. Nachdem sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **facilioo Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **facilioo Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
 
 ## Use Cases
 
@@ -30,7 +30,7 @@ facilioo erweitert die bestehenden Aareon Connect Produkte für die Wohnungswirt
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/stammdaten.md)
-* Feld Mapping (_kommt in Kürze_)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 

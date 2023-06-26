@@ -16,9 +16,9 @@ Mit den Produkten Elevator Hub, Elevator Live und Elevator Managed Services hat 
 
 ## Mit Simplifa verbinden
 
-1. Um einen Simplifa Use Case zu nutzten benötigen Sie zur Aktivierung einen **Simplifa API Zugangsdaten**. Diesen finden Sie folgendermaßen:
+1. Um einen Simplifa-Use-Case zu nutzen benötigen Sie zur Aktivierung einen **Simplifa API Zugangsdaten**. Diesen finden Sie folgendermaßen:
    1. _kommt in Kürze_
-2. Nachdem sie Aareon Connect Kunde geworden sind können sie die verfügbaren **Simplifa Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem sSie Aareon Connect Kunde geworden sind können Sie die verfügbaren **Simplifa Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
 
 ## Use Cases
 
@@ -27,7 +27,7 @@ Mit den Produkten Elevator Hub, Elevator Live und Elevator Managed Services hat 
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/stammdaten.md)
-* Feld Mapping (_kommt in Kürze_)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 

@@ -17,12 +17,12 @@ iDWELL hat sich zum Ziel gesetzt, den Digitalisierungstrend in die traditionsrei
 
 ## Mit iDWELL verbinden
 
-1. Um einen iDWELL Use Case zu nutzten, müssen Sie sich gegenüber der iDWELL API authentifizieren. Hierzu benötigen Sie:
+1. Um einen iDWELL-Use-Case zu nutzen, müssen Sie sich gegenüber der **iDWELL** **API** authentifizieren. Hierzu benötigen Sie:
    1. **Benutzername**
    2. **Password**
    3. **Subdomain**: \
       Die Subdomain finden Sie, wenn Sie in Ihrem iDWELL Account eingeloggt sind oben in der URL Leiste. Hier wird ein Link mit folgender Anfangsstruktur zu sehen sein: [https://_**aareon-connect**_.idwell.com/](https://di-test.idwell.com/) Dort wo im Beispiel aareon-connect in fett und kursiv steht finden Sie Ihre Subdomain.
-2. Nachdem sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **iDWELL Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **iDWELL Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
 
 ## Use Cases
 
@@ -31,7 +31,7 @@ iDWELL hat sich zum Ziel gesetzt, den Digitalisierungstrend in die traditionsrei
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/stammdaten.md)
-* Feld Mapping (_kommt in Kürze_)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 

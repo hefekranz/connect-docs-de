@@ -17,8 +17,8 @@ etg24 ist das Onlineportal für Immobilienverwaltungen, die bereit dafür sind P
 
 ## Mit etg24 verbinden
 
-1. Um einen EverReal Use Case zu nutzten, müssen Sie sich gegenüber der etg24 API authentifizieren. Hierzu benötigen Sie den **API Token**.
-2. Nachdem sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **etg24 Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+1. Um einen etg24-Use-Case zu nutzen, müssen Sie sich gegenüber der **etg24 API authentifizieren**. Hierzu benötigen Sie den **API-Token**.
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **etg24 Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
 
 ## Use Cases
 
@@ -27,7 +27,7 @@ etg24 ist das Onlineportal für Immobilienverwaltungen, die bereit dafür sind P
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/stammdaten.md)
-* Feld Mapping (_kommt in Kürze_)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 

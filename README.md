@@ -6,10 +6,10 @@ description: Alles zu Aareon Connect
 
 ### Über diese Docs
 
-Auf dieser Webseite finden Sie alles technische rund um Aareon Connect und Integrationen. Wir erklären hier, wie Sie die einzelnen Partnern-Integrationen live stellen können, wie die Daten-Mappings aussehen und welche Use Cases möglich sind.
+Auf dieser Webseite finden Sie alles technische rund um Aareon Connect und damit verbundene Integrationen. Wir erklären hier, wie Sie die einzelnen Partnerintegrationen live stellen können, wie die Datenmappings aussehen und welche Use Cases möglich sind.
 
 1. [**Use Cases**](use-cases/) - Integrationen werden über Use Cases zur Verfügung gestellt
-2. [**Partner & Apps**](partner-and-apps/) - Alles wie Sie Partner & Apps konfigurieren und live schalten
+2. [**Partner & Apps**](partner-and-apps/) - Wie Sie Partner & Apps konfigurieren und live schalten
 3. [**FAQs**](faq.md)
 
 
@@ -18,7 +18,7 @@ Auf dieser Webseite finden Sie alles technische rund um Aareon Connect und Integ
 
 * [**Übersicht** zu Aareon Connect](https://connect.aareon.com/home)
 * [**Alle Partner** in der Übersicht](https://marketplace.aareon.com/de)
-* [Vertriebs **FAQs**](https://connect.aareon.com/faq-fragen-antworten)
+* [Vertriebs-**FAQs**](https://connect.aareon.com/faq-fragen-antworten)
 
 
 
@@ -40,4 +40,4 @@ Auf dieser Webseite finden Sie alles technische rund um Aareon Connect und Integ
 
 </div>
 
-:thumbsup: liken Sie unsere Videos uns abonnieren Sie [Aareon bei YouTube](https://www.youtube.com/@AareonDACH) und [LinkedIn](https://www.linkedin.com/company/aareon-dach/).
+:thumbsup: Liken Sie unsere Videos uns abonnieren Sie [Aareon bei YouTube](https://www.youtube.com/@AareonDACH) und [LinkedIn](https://www.linkedin.com/company/aareon-dach/).

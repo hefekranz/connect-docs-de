@@ -17,7 +17,7 @@ Plentific ist ein Online-Marktplatz für Haus- und Immobilienbesitzer, der es Be
 
 ## Mit Plentific verbinden
 
-1.  Um einen Plentific Use Case zu nutzten benötigen Sie zur Aktivierung die **Plentific API-Schlüssel**. Diese finden Sie folgendermaßen:
+1.  Um einen Plentific-Use-Case zu nutzen benötigen Sie zur Aktivierung die **Plentific API-Schlüssel**. Diese finden Sie folgendermaßen:
 
     1. Klicken Sie auf **Konto** > **API-Schlüssel**
     2. Hier können Sie ihre **Client id** und **Client secret** einsehen oder neu rotieren.
@@ -25,7 +25,7 @@ Plentific ist ein Online-Marktplatz für Haus- und Immobilienbesitzer, der es Be
 
 
     <figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption><p>Plentific API Schlüssel</p></figcaption></figure>
-2. Nachdem sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **Plentific Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Plentific Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
 
 ## Use Cases
 
@@ -34,7 +34,7 @@ Plentific ist ein Online-Marktplatz für Haus- und Immobilienbesitzer, der es Be
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/stammdaten.md)
-* Feld Mapping (_kommt in Kürze_)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 

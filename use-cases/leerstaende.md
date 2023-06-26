@@ -1,9 +1,13 @@
+---
+description: Synchronisierung von leerstehenden Einheiten aus dem ERP in das Partnersystem
+---
+
 # Leerstände
 
 ## Übersicht
 
 * **Interval**: Stündlich
-* **Richtung**: ERP -> Partner System
+* **Richtung**: ERP -> Partnersystem
 * **Entitäten**:
   * [Leerstände](../entitaeten/leerstaende.md)
 * **Partner**:

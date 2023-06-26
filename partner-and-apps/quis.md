@@ -19,7 +19,7 @@ QUIS ist entstanden aus der Analyse & Konzepte Beratungsgesellschaft und nutzt s
 
 ## Mit QUIS verbinden
 
-1.  Um einen QUIS Use Case zu nutzten benötigen Sie zur Aktivierung einen **QUIS API Key**. Diesen finden Sie folgendermaßen:
+1.  Um einen QUIS-Use-Case zu nutzen benötigen Sie zur Aktivierung einen **QUIS API Key**. Diesen finden Sie folgendermaßen:
 
     1. Klicken Sie auf **Meine Marktdaten > API**
     2. Hier können Sie ihre **API-Keys** einsehen
@@ -27,7 +27,7 @@ QUIS ist entstanden aus der Analyse & Konzepte Beratungsgesellschaft und nutzt s
 
 
     <figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>QUIS API-Keys</p></figcaption></figure>
-2. Nachdem sie Aareon Connect Kunde geworden sind können sie die verfügbaren **QUIS Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind können Sie die verfügbaren **QUIS Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
 
 ## Use Cases
 
@@ -36,7 +36,7 @@ QUIS ist entstanden aus der Analyse & Konzepte Beratungsgesellschaft und nutzt s
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/stammdaten.md)
-* Feld Mapping (_kommt in Kürze_)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 

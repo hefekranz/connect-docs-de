@@ -20,14 +20,14 @@ Immomio - Die 360° Plattform für die Wohnungswirtschaft. Von der Neubauprojekt
 HINWEIS: Für eine Integration wird zum sauberen Testen eine **Sandbox von Immomio benötigt**. Bitte wenden Sie sich mit **ausreichend Vorlauf** an Ihren Account Manager, damit diese beantragt und eingerichtet werden kann und dieser Vorgang den Integrations-Zeitplan nicht verzögert.
 {% endhint %}
 
-1. Um einen Immomio Use Case zu nutzten benötigen Sie zur Aktivierung die **Immomio API Zugangsdaten**. Diese finden Sie folgendermaßen:
+1. Um einen Immomio-Use-Case zu nutzen benötigen Sie zur Aktivierung die **Immomio API Zugangsdaten**. Diese finden Sie folgendermaßen:
    1. Klicken Sie auf der **Task-Leiste** zur linken auf das **Steuerrad**
    2. Klicken Sie dort auf **Konfiguration**
    3. Daraufhin wird sich eine Seite öffnen, wo oben **API Benutzer** steht. Hier können neue API Zugangsdaten erstellt oder existierende abgerufen werden. Speichern Sie sich ihren **API Benutzername** und das **Passwort** ab. Diese werden für die Aktivierung im ERP benötigt.
 
 <figure><img src="../.gitbook/assets/immomio_api_access.png" alt=""><figcaption></figcaption></figure>
 
-2. Nachdem sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **Immomio Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Immomio Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
 
 ### **Sonderfall: DIT System**
 
@@ -37,7 +37,7 @@ Sollte Ihr Immomio Account über ein altes DIT System laufen, werden sie zusätz
 2. Klicken Sie dort auf **Bestandsimport**
 3. Hier können die benötigten Zugangsdaten abgerufen werden:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-01 at 17.25.58 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-01 at 17.25.58.png" alt=""><figcaption></figcaption></figure>
 
 ## Use Cases
 
@@ -67,7 +67,7 @@ Sollte Ihr Immomio Account über ein altes DIT System laufen, werden sie zusätz
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/stammdaten.md)
-* Feld Mapping (_kommt in Kürze)_
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 
