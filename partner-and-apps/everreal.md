@@ -56,4 +56,8 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 * Es werden nur Mieter und Eigentümer mit einer hinterlegten E-Mail Adresse und Name synchronisiert
 * Es kann nur ein Eigentümer und ein Mieter pro Einheit hinterlegt werden
 
+### 2. Leerstände und Interessenten
+
+Coming soon.
+
 [^1]: (Link zu ERP overview)
