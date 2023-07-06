@@ -13,6 +13,7 @@ description: Synchronisierung von leerstehenden Einheiten aus dem ERP in das Par
 * **Partner**:
   * [Immomio](../partner-and-apps/immomio.md)
   * [Wohnungshelden](../partner-and-apps/immomio.md)
+  * [EverReal](../partner-and-apps/everreal.md)
 
 ## Beschreibung
 
