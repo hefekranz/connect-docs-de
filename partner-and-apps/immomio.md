@@ -60,7 +60,7 @@ Sollte Ihr Immomio Account über ein altes DIT System laufen, werden sie zusätz
 | Separator für zusammengesetzte IDs | Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind. | `-`, `_`, `.`, `/`, `\|` |
 | Mandanten Nummern                  | Es werden nur Daten für die eingetragenen Mandanten synchronisiert.                                                                 |                          |
 
-#### Prüfen
+#### Test der Integration
 
 Nachdem Sie die Integration aktiviert haben und die ersten Leerstände in Ihrem Immomio Account zusehen sind, prüfen Sie bitte, ob alle Daten wie gewünscht übertragen wurden. Eine Checkliste dazu finden Sie hier:
 
