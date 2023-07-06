@@ -60,7 +60,38 @@ Sollte Ihr Immomio Account über ein altes DIT System laufen, werden sie zusätz
 | Separator für zusammengesetzte IDs | Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind. | `-`, `_`, `.`, `/`, `\|` |
 | Mandanten Nummern                  | Es werden nur Daten für die eingetragenen Mandanten synchronisiert.                                                                 |                          |
 
+#### Prüfen
 
+Nachdem Sie die Integration aktiviert haben und die ersten Leerstände in Ihrem Immomio Account zusehen sind, prüfen Sie bitte, ob alle Daten wie gewünscht übertragen wurden. Eine Checkliste dazu finden Sie hier:
+
+* Wurden die Einheitstypen richtig überspielt?
+  * Gewerbe, Wohnen, Parkplatz
+* Ist die Anzahl der Leerstände korrekt übertragen worden?
+* Sind die Felder richtig angekommen
+  * Adresse
+  * Details
+    * Objekt ID
+    * Anzahl Räume
+    * Etage
+    * Baujahr
+    * Verfügbarkeitsdatum
+    * Fehlen welche?
+* Kosten:&#x20;
+  * Grundmiete
+  * Gesamtmiete
+  * Heizkosten
+  * Betriebskosten
+* Ist die Ausstattung korrekt übertragen:&#x20;
+  * Keller
+  * Einbauküche
+  * Gegensprechanlage
+  * Aufzug
+  * Fahrradraum
+  * Gäste WC
+  * Fehlen welche?
+* Energieeffizienz
+  * Zentral Heizung
+  * Fehlen welche?
 
 ### 2. Stammdaten
 

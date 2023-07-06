@@ -10,6 +10,7 @@ description: Synchronisierung von Interessenten aus dem Partnersystem in das ERP
   * [Interessenten](../entitaeten/interessenten.md)
 * **Partner**:
   * [Immomio](../partner-and-apps/immomio.md)
+  * [EverReal](../partner-and-apps/everreal.md)
 
 ## Beschreibung
 
