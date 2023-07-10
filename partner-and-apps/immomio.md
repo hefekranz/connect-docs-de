@@ -41,7 +41,35 @@ Sollte Ihr Immomio Account über ein altes DIT System laufen, werden sie zusätz
 
 ## Use Cases
 
-### 1. Leerstände & Interessenten
+### 1. Stammdaten
+
+#### Übersicht
+
+* [Allgemeine Informationen](../use-cases/stammdaten.md)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
+
+#### Entitäten
+
+| ERP                                                            | Immomio              |
+| -------------------------------------------------------------- | -------------------- |
+| [Wirtschaftseinheiten](../entitaeten/wirtschaftseinheiten.md)  | Wirtschaftseinheiten |
+| [Gebäude](../entitaeten/gebaeude.md)                           | _Kommt in Kürze_     |
+| [Verwaltungseinheiten](../kategorien/eigentuemerverwaltung.md) | Verwaltungseinheiten |
+| [Mietverträge](../entitaeten/mietvertraege.md)                 | _Kommt in Kürze_     |
+| [Mieter](../entitaeten/mieter.md)                              | _Kommt in Kürze_     |
+| [Eigentümervertrag](../entitaeten/eigentuemervertraege.md)     | _Kommt in Kürze_     |
+| [Eigentümer](../entitaeten/eigentuemer.md)                     | _Kommt in Kürze_     |
+
+#### Einstellungen
+
+<table><thead><tr><th width="328.3333333333333">Name</th><th>Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td>Separator für zusammengesetzte IDs</td><td>Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind.</td><td><code>-</code>, <code>_</code>, <code>.</code>, <code>/</code>, <code>|</code></td></tr><tr><td>Mandanten Nummern</td><td>Es werden nur Daten für die eingetragenen Mandanten synchronisiert.</td><td></td></tr></tbody></table>
+
+#### Voraussetzungen
+
+* Es werden nur Mieter mit einer hinterlegten E-Mail Adresse synchronisiert
+  * Mietverträge von Mietern, die dies nicht erfüllen, werden ebenfalls nicht synchronisiert
+
+### 2. Leerstände & Interessenten
 
 #### Übersicht
 
@@ -60,7 +88,7 @@ Sollte Ihr Immomio Account über ein altes DIT System laufen, werden sie zusätz
 | Separator für zusammengesetzte IDs | Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind. | `-`, `_`, `.`, `/`, `\|` |
 | Mandanten Nummern                  | Es werden nur Daten für die eingetragenen Mandanten synchronisiert.                                                                 |                          |
 
-#### Test der Integration
+#### Test der Integration: Leerstand von ERP nach Immomio
 
 Nachdem Sie die Integration aktiviert haben und die ersten Leerstände in Ihrem Immomio Account zusehen sind, prüfen Sie bitte, ob alle Daten wie gewünscht übertragen wurden. Eine Checkliste dazu finden Sie hier:
 
@@ -93,35 +121,21 @@ Nachdem Sie die Integration aktiviert haben und die ersten Leerstände in Ihrem 
   * Zentral Heizung
   * Fehlen welche?
 
-### 2. Stammdaten
+#### Test der Integration: Mieter aus Immomio nach ERP
 
-#### Übersicht
+Mieter in Immomio anlegen zum prüfen:
 
-* [Allgemeine Informationen](../use-cases/stammdaten.md)
-* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
-
-#### Entitäten
-
-| ERP                                                            | Immomio              |
-| -------------------------------------------------------------- | -------------------- |
-| [Wirtschaftseinheiten](../entitaeten/wirtschaftseinheiten.md)  | Wirtschaftseinheiten |
-| [Gebäude](../entitaeten/gebaeude.md)                           | _Kommt in Kürze_     |
-| [Verwaltungseinheiten](../kategorien/eigentuemerverwaltung.md) | Verwaltungseinheiten |
-| [Mietverträge](../entitaeten/mietvertraege.md)                 | _Kommt in Kürze_     |
-| [Mieter](../entitaeten/mieter.md)                              | _Kommt in Kürze_     |
-| [Eigentümervertrag](../entitaeten/eigentuemervertraege.md)     | _Kommt in Kürze_     |
-| [Eigentümer](../entitaeten/eigentuemer.md)                     | _Kommt in Kürze_     |
-
-#### Einstellungen
-
-| Name                               | Beschreibung                                                                                                                        | Optionen                 |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| Separator für zusammengesetzte IDs | Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind. | `-`, `_`, `.`, `/`, `\|` |
-| Mandanten Nummern                  | Es werden nur Daten für die eingetragenen Mandanten synchronisiert.                                                                 |                          |
-
-#### Voraussetzungen
-
-* Es werden nur Mieter mit einer hinterlegten E-Mail Adresse synchronisiert
-  * Mietverträge von Mietern, die dies nicht erfüllen, werden ebenfalls nicht synchronisiert
+1. Interessenten aufnehmen:&#x20;
+   1. Bei importierten Objekten auf 3 Punkte und dann “Objekt Link kopieren” und in privates Fenster kopieren
+   2. Interessenteninfos ausfüllen, um einen anzulegen
+   3. Resultat: Objekt hat einen Interessenten. Dies ist an (+1) zu erkennen.
+2. Objekt nach Offline verschieben
+   1. Objekt bearbeiten und immer next (mindestens Pflichtfelder ausfüllen, die mit \* markiert sind)
+   2. Resultat: Objekt springt nach “offline” und hat einen Interessenten
+3. Interessenten zu Mieter machen
+   1. Objekt in “offline” Reiter suchen
+   2. Auf Interessenten clicken, um anzeigen zu lassen
+   3. “Als Mieter akzeptieren” clicken
+   4. Resultat: Der Mieter wird nun von der Integration synchronisiert
 
 [^1]: (Link zu ERP overview)
