@@ -38,6 +38,7 @@ etg24 ist das Onlineportal für Immobilienverwaltungen, die bereit dafür sind P
 | [Verwaltungseinheiten](../kategorien/eigentuemerverwaltung.md) | Einheiten     |
 | [Mietverträge](../entitaeten/mietvertraege.md)                 | Mietvertrag   |
 | [Mieter](../entitaeten/mieter.md)                              | Mieter        |
+| [Eigentümer](../entitaeten/eigentuemer.md)                     | Eigentümer    |
 
 #### Einstellungen
 
