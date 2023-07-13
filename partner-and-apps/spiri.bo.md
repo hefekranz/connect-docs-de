@@ -57,28 +57,29 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 
 Die im ERP hinterlegt Nutzungsart (des Mietvertrags) wird wie folgt auf die Wohnungstypen in Spiri.Bo gemappt:
 
-| ERP                 | Spiri.Bo   |
-| ------------------- | ---------- |
-| Wohnraum            | living     |
-| Wohnung             | living     |
-| Praxis              | commercial |
-| Einzelhandel        | commercial |
-| Büro                | commercial |
-| Gastronomie         | commercial |
-| Pflegedienst        | commercial |
-| Werkstatt           | commercial |
-| Gewerbe             | commercial |
-| Produktion          | commercial |
-| Logistik            | commercial |
-| gewerbliche Nutzung | commercial |
-| Garagen             | parking    |
-| Stellplatz außen    | parking    |
-| Carport             | parking    |
-| Tiefgarage          | parking    |
-| Fahrradraum         | parking    |
-| Hochgarage          | parking    |
-| Garage              | parking    |
-| Lager               | storage    |
+| ERP                          | Spiri.Bo   |
+| ---------------------------- | ---------- |
+| Wohnraum                     | living     |
+| Wohnung                      | living     |
+| Praxis                       | commercial |
+| Einzelhandel                 | commercial |
+| Büro                         | commercial |
+| Gastronomie                  | commercial |
+| Pflegedienst                 | commercial |
+| Werkstatt                    | commercial |
+| Gewerbe                      | commercial |
+| Produktion                   | commercial |
+| Logistik                     | commercial |
+| gewerbliche Nutzung          | commercial |
+| Garagen                      | parking    |
+| Stellplatz außen             | parking    |
+| Carport                      | parking    |
+| Tiefgarage                   | parking    |
+| Fahrradraum                  | parking    |
+| Hochgarage                   | parking    |
+| Garage                       | parking    |
+| Lager                        | storage    |
+| _Alle anderen Nutzungsarten_ | other      |
 
 {% hint style="info" %}
 Da die Nutzungsart im ERP System frei definierbar ist, wird das Mapping laufend erweitert.
