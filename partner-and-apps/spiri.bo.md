@@ -53,4 +53,35 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 * Es werden nur Stammdaten synchronisert, welche mit einem Mieter verknüpft sind
   * Beispiel: Ein Wohnung welche leer ist, wird nicht synchronisert
 
+#### Wohnungstypen Mapping
+
+Die im ERP hinterlegt Nutzungsart (des Mietvertrags) wird wie folgt auf die Wohnungstypen in Spiri.Bo gemappt:
+
+| ERP                 | Spiri.Bo   |
+| ------------------- | ---------- |
+| Wohnraum            | living     |
+| Wohnung             | living     |
+| Praxis              | commercial |
+| Einzelhandel        | commercial |
+| Büro                | commercial |
+| Gastronomie         | commercial |
+| Pflegedienst        | commercial |
+| Werkstatt           | commercial |
+| Gewerbe             | commercial |
+| Produktion          | commercial |
+| Logistik            | commercial |
+| gewerbliche Nutzung | commercial |
+| Garagen             | parking    |
+| Stellplatz außen    | parking    |
+| Carport             | parking    |
+| Tiefgarage          | parking    |
+| Fahrradraum         | parking    |
+| Hochgarage          | parking    |
+| Garage              | parking    |
+| Lager               | storage    |
+
+{% hint style="info" %}
+Da die Nutzungsart im ERP System frei definierbar ist, wird das Mapping laufend erweitert.
+{% endhint %}
+
 [^1]: (Link zu ERP overview)
