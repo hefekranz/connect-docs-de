@@ -58,7 +58,7 @@ Bitte überprüfen Sie, ob die übertragenen Informationen in den Reitern Info, 
 
 **Einheiten**
 
-Bitte überprüfen Sie, ob die übertragenen Informationen in den Reitern Info, Kunden und Addresse korrekt übertragen wurden. Historische Mieter mit abgelaufenen Mietverträgen werden auch aus dem ERP nach iDWELL übertragen. Jedoch erhalten sie den Status "blocked" und sind nur zu sehen, wenn Sie dies in den Einstellungen anpassen. Dazu müssen Sie oben rechts auf das Dropdownmenu clicken und dann weiter zum Reiter Unternehmen, welcher mit einem Zahnrad versehen ist. Hier können Sie die Einstellungen unter "Historie der archivierten Nutzer" vornehmen.
+Bitte überprüfen Sie, ob die übertragenen Informationen in den Reitern Info, Kunden und Adresse korrekt übertragen wurden. Historische Mieter mit abgelaufenen Mietverträgen werden auch aus dem ERP nach iDWELL übertragen. Jedoch erhalten sie den Status "blocked" und sind nur zu sehen, wenn Sie dies in den Einstellungen anpassen. Dazu müssen Sie oben rechts auf das Dropdown-Menu clicken und dann weiter zum Reiter Unternehmen, welcher mit einem Zahnrad versehen ist. Hier können Sie die Einstellungen unter "Historie der archivierten Nutzer" vornehmen.
 
 **Mieter/Eigentümer**
 
