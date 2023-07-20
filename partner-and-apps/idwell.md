@@ -48,9 +48,10 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 
 <table><thead><tr><th width="187">Name</th><th width="549.3333333333333">Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td>Mandanten Nummern Filtern</td><td>Es werden nur Daten für die eingetragenen Mandanten synchronisiert.</td><td></td></tr><tr><td>Objekt Nummern Filtern</td><td>Es werden nur Daten für die eingetragenen Objekte synchronisiert.</td><td></td></tr></tbody></table>
 
-#### Voraussetzungen
+#### Test der Integration: Stammdaten von ERP nach iDWELL
 
-* Es werden nur Mieter mit einer hinterlegten E-Mail Adresse synchronisiert
-  * Mietverträge von Mietern, die dies nicht erfüllen, werden ebenfalls nicht synchronisiert
+Nachdem Sie die Integration aktiviert haben und die ersten Stammdaten in Ihrem iDWELL Account zusehen sind, prüfen Sie bitte, ob alle Daten wie gewünscht übertragen wurden. Eine Checkliste dazu finden Sie hier:
+
+
 
 [^1]: (Link zu ERP overview)
