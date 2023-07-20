@@ -35,16 +35,18 @@ iDWELL hat sich zum Ziel gesetzt, den Digitalisierungstrend in die traditionsrei
 
 #### Entitäten
 
-| ERP                                  | iDWELL    |
-| ------------------------------------ | --------- |
-| [Gebäude](../entitaeten/gebaeude.md) | Gebäude   |
-| [Mieter](../entitaeten/mieter.md)    | Ersteller |
+| ERP                                                         | iDWELL             |
+| ----------------------------------------------------------- | ------------------ |
+| [Gebäude](../entitaeten/gebaeude.md)                        | Gebäude            |
+| [Verwaltungseinheit](../entitaeten/verwaltungseinheiten.md) | Verwaltungseinheit |
+| [Mieter](../entitaeten/mieter.md)                           | Mieter             |
+| [Eigentümer](../entitaeten/eigentuemer.md)                  | Eigentümer         |
 
 #### Einstellungen
 
 Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellungen nutzen:
 
-<table><thead><tr><th>Name</th><th width="549.3333333333333">Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td>Separator für zusammengesetzte IDs</td><td>Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind.</td><td><code>-</code>, <code>_</code>, <code>.</code>, <code>/</code>, <code>|</code></td></tr><tr><td>Mandanten Nummern</td><td>Es werden nur Daten für die eingetragenen Mandanten synchronisiert.</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="187">Name</th><th width="549.3333333333333">Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td>Mandanten Nummern Filtern</td><td>Es werden nur Daten für die eingetragenen Mandanten synchronisiert.</td><td></td></tr><tr><td>Objekt Nummern Filtern</td><td>Es werden nur Daten für die eingetragenen Objekte synchronisiert.</td><td></td></tr></tbody></table>
 
 #### Voraussetzungen
 
