@@ -50,7 +50,7 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 
 #### Test der Integration: Stammdaten von ERP nach iDWELL
 
-Nachdem Sie die Integration aktiviert haben und die ersten Stammdaten in Ihrem iDWELL Account zusehen sind, prüfen Sie bitte, ob alle Daten wie gewünscht übertragen wurden. Eine Checkliste dazu finden Sie hier:
+Nachdem Sie die Integration aktiviert haben und die ersten Stammdaten in Ihrem iDWELL Account zusehen sind, prüfen Sie bitte, ob alle Daten wie gewünscht übertragen wurden. Die verfügbaren Felder für ihr ERP und iDWELL finden Sie [**hier**](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279). Prüfen Sie die Entitäten folgendermaßen:
 
 **Objekte**
 
