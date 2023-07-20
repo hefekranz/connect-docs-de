@@ -62,7 +62,7 @@ Bitte überprüfen Sie, ob die übertragenen Informationen in den Reitern Info, 
 
 **Mieter/Eigentümer**
 
-Bitte überprüfen Sie bei den Mietern, sowie Eigentümern, die Reiter Kontaktdaten, Info udn Einheiten.
+Bitte überprüfen Sie bei den Mietern, sowie Eigentümern, die Reiter Kontaktdaten, Info und Einheiten.
 
 
 
