@@ -44,6 +44,7 @@ Für diese Integration werden keine Einstellungen von Ihnen benötigt. Es werden
 
 #### Voraussetzungen
 
+* Voraussetzung ist das Modul DSGVO
 * Es werden nur Mieter beachtet, die im ERP zugestimmt haben.
 
 [^1]: (Link zu ERP overview)
