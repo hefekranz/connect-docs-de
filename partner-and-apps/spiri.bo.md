@@ -87,7 +87,7 @@ Da die Nutzungsart im ERP System frei definierbar ist, wird das Mapping laufend 
 
 ### 2. Tickets
 
-Übersicht
+**Übersicht**
 
 Die Aareon Connect Integration für das Übertragen von Meldungen aus Spiri.bo ins ERP besteht us 4 Komponenten:
 
@@ -101,9 +101,11 @@ Die Aareon Connect Integration für das Übertragen von Meldungen aus Spiri.bo i
 4. **Update Kontakt Informationen**\
    Der letzte Teil der Integration leitet Änderungen von Kontaktinformationen (Telefonnummern) aus Spiri.bo an das ERP weiter.&#x20;
 
-Einstellungen
+**Einstellungen**
 
-Voraussetzungen
+**Voraussetzungen**
+
+Damit die Synchronisation von Meldungen, Formularen und Kontaktänderungen im ERP ankommen, muss Teil 1 ("_Meldungskategorien und -typen Synchronisation_") aus der Übersicht erfüllt sein.
 
 
 
