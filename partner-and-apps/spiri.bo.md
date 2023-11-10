@@ -85,4 +85,26 @@ Die im ERP hinterlegt Nutzungsart (des Mietvertrags) wird wie folgt auf die Wohn
 Da die Nutzungsart im ERP System frei definierbar ist, wird das Mapping laufend erweitert.
 {% endhint %}
 
+### 2. Tickets
+
+Übersicht
+
+Die Aareon Connect Integration für das Übertragen von Meldungen aus Spiri.bo ins ERP besteht us 4 Komponenten:
+
+1.  **Meldungskategorien und -typen Synchronisation**
+
+    Dieser Teil muss initial aktiviert werden, um die Kategorien und Typen von Meldungen aus dem ERP an Spiri.bo zu übergeben. Es werden die Kategorien und Typen aus dem ERP abgeholt und per Mail an Spiri.bo weitergeleitet. Dort werden sie anschließend hinterlegt.
+2. **Claims/Meldungen Synchronisation**\
+   Nachdem die Kategorien und Typen in Spiri.bo angelegt wurden, kann dieser und alle weiteren Teile (3 & 4) aktiviert werden. In diesem Teil der Integration werden die Schadensmeldungen an das ERP weitergeleitet und erscheinen dort als Meldung.
+3. **Forms Synchronisation**\
+   Dieser Teil der Integration synchronisiert neu angelegte Formulare (Anfragen, Lärmbeschwerden, etc.) aus Spiri.bo in das ERP.
+4. **Update Kontakt Informationen**\
+   Der letzte Teil der Integration leitet Änderungen von Kontaktinformationen (Telefonnummern) aus Spiri.bo an das ERP weiter.&#x20;
+
+Einstellungen
+
+Voraussetzungen
+
+
+
 [^1]: (Link zu ERP overview)
