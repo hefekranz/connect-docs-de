@@ -9,7 +9,7 @@ description: >-
 ## Übersicht
 
 * **Kategorien**: [Mieterkommunikation](../kategorien/mieterkommunikation.md)
-* **Use Cases**: [Stammdaten](spiri.bo.md#stammdaten)
+* **Use Cases**: [Stammdaten](spiri.bo.md#stammdaten), [Tickets](../use-cases/tickets.md)
 * **Marketplace**: [Spiri.Bo](https://marketplace.aareon.com/de/listings/spiribo)
 * **API Dokumentation**: [Link](https://api.spiri.bo/v1/docs/silo#tag/building)
 

@@ -4,6 +4,7 @@
 * [Use Cases](use-cases/README.md)
   * [Stammdaten](use-cases/stammdaten.md)
   * [Leerstände](use-cases/leerstaende.md)
+  * [Tickets](use-cases/tickets.md)
   * [Interessenten](use-cases/interessenten.md)
 * [Partner & Apps](partner-and-apps/README.md)
   * [AiBATROS](partner-and-apps/aibatros.md)
