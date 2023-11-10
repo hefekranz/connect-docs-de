@@ -103,9 +103,17 @@ Die Aareon Connect Integration für das Übertragen von Meldungen aus Spiri.bo i
 
 **Einstellungen**
 
+Sie müssen keine weiteren Einstellungen vornehmen.
+
 **Voraussetzungen**
 
 Damit die Synchronisation von Meldungen, Formularen und Kontaktänderungen im ERP ankommen, muss Teil 1 ("_Meldungskategorien und -typen Synchronisation_") aus der Übersicht erfüllt sein.
+
+**Achtung**
+
+Je nach Einstellung im ERP kann es vorkommen, dass Meldungen nicht direkt angezeigt werden. Fragen Sie hierzu Ihren ERP berater, wie häufig temporäre Meldungen temporäre Meldungen aus der Datenbank ins ERP übertragen werden.
+
+
 
 
 
