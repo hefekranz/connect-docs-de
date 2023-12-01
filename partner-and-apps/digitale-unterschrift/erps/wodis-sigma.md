@@ -22,7 +22,7 @@ Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](..
    2.  Dokumententyp **Mietvertrag** auswählen:\
 
 
-       <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/Group 25.png" alt=""><figcaption></figcaption></figure>
    3. Auf den Ordner **Dateisyteme** oben in der Leiste klicken und dann Mietvertrag auswählen und dann oben links in der Leiste auf **Archivieren** drücken
 3. Neue Anfrage erstellen
    1. Klicken Sie oben rechts in der Taskleiste auf **Daten neu** (Symbol mit dem grünen + Zeichen)
@@ -46,7 +46,7 @@ Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](..
    6. Somit wird das Dokument zum geplanten Zeitpunkt per Scrive an die angegebene E-Mail-Adressen versendet
 6.
 
-    <figure><img src="../../../.gitbook/assets/Sigma Anchor Tags.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Group 26.png" alt=""><figcaption></figcaption></figure>
 
 ### Empfangen und Sichten von unterschriebenen Dokumenten
 

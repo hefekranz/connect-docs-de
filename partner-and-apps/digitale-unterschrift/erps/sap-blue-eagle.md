@@ -39,7 +39,7 @@ Die folgenden Schritte müssen Sie nur einmalig je Dokumentenvorlage durchführe
 
 Die Anchor Tags werden im Unterzeichnungsvorgang den passenden Unterzeichnern zugeordnet, sodass diese an den von Ihnen vorgesehenen Stellen Unterschreiben oder Felder ausfüllen.
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Gewoge geschwärzt.png" alt=""><figcaption></figcaption></figure>
 
 1. Sammeln Sie Ihre Dokumente in Dynamic Forms
 2. Allgemein > Customizing > Dynamics Forms > Dynamic Forms bearbeiten
@@ -49,24 +49,23 @@ Die Anchor Tags werden im Unterzeichnungsvorgang den passenden Unterzeichnern zu
 
 Einrichten und Versenden von Dokumenten
 
-<figure><img src="../../../.gitbook/assets/Group 1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Group 24.png" alt=""><figcaption></figcaption></figure>
 
 1. Klicken Sie auf **Kundenkontakte** und dann in dem sich öffnende Drop Down Feld auf **"Mietsache"**
 
 ### 1.1 Anlage neuer KKM Vorgang &#x20;
 
-1.  Klicken Sie auf **Vorgang anlegen** und wählen Sie die Art im Drop Down Feld aus. (Der Vorgang kann auch automatisiert bei Vertragsanlage erstellt werden (kostenpflichtiges Addon -> Beraterlösung)
+1. Klicken Sie auf **Vorgang anlegen** und wählen Sie die Art im Drop Down Feld aus. (Der Vorgang kann auch automatisiert bei Vertragsanlage erstellt werden (kostenpflichtiges Addon -> Beraterlösung.
 
+<figure><img src="../../../.gitbook/assets/Vorgang anlegen Mietsache geschwärzt.png" alt=""><figcaption></figcaption></figure>
 
+1. Wählen Sie über **Vorgangsgruppe** den **digitalen Mietvertrag** aus
+2.
 
-    <figure><img src="../../../.gitbook/assets/Vorgang anlegen Mietsache.png" alt=""><figcaption></figcaption></figure>
-2. Wählen Sie über **Vorgangsgruppe** den **digitalen Mietvertrag** aus
-
-<figure><img src="../../../.gitbook/assets/Group 10.png" alt=""><figcaption></figcaption></figure>
-
-1. Wählen Sie in dem sich öffnenden Fenster den **digitalen Mietvertrag** aus und klicken sie auf Ausgang
-2. Speichern Sie den Vorgang
-3.  Klicken Sie auf **"Aktion/Maßnahmen/Folgevorgänge"**
+    <figure><img src="../../../.gitbook/assets/Vorgabgsgruppe digitaler Mietvertrag geschwärzt.png" alt=""><figcaption></figcaption></figure>
+3. Wählen Sie in dem sich öffnenden Fenster den **digitalen Mietvertrag** aus und klicken sie auf Ausgang
+4. Speichern Sie den Vorgang
+5.  Klicken Sie auf **"Aktion/Maßnahmen/Folgevorgänge"**
 
 
 
@@ -78,7 +77,7 @@ Einrichten und Versenden von Dokumenten
 
 ### 1.3 Dokumentenauswahl und Archivierung
 
-<figure><img src="../../../.gitbook/assets/Ablagemodus Drop Down Feld.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Nur Ablegen Drucken geschwärzt.png" alt=""><figcaption></figcaption></figure>
 
 1. Wählen Sie ihre Dokumente aus (In diesem Beispiel Online Mietvertrag)
 2. Stellen Sie den Ablagemodus im Drop Down Feld wie oben rechts auf dem Screenshot zu erkennen ist auf **2 Nur Ablegen** ( kann auch voreingestellt werden)
@@ -94,7 +93,7 @@ Einrichten und Versenden von Dokumenten
 
 ### 1.5 Versand erfolgreich
 
-<figure><img src="../../../.gitbook/assets/Versand erfolgreich.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Group 49 Versand erfolgreich geschwärzt.png" alt=""><figcaption></figcaption></figure>
 
 1. Das Dokument wurde erfolgreich versendet und Sie erhalten, wie auf dem Screenshot zu erkennen ist, einfache Zweifache- Bestätigung.
 2. Alle nötigen Unterzeichner bekommen das Dokumenten nun in DocuSign zu Verfügung gestellt und können ihre Signatur darunter setzten- Vertrag wird abgeschlossen.
@@ -103,7 +102,7 @@ Einrichten und Versenden von Dokumenten
 
 ### 2. Empfangen und Sichten von unterschriebenen Dokumenten
 
-<figure><img src="../../../.gitbook/assets/Group 20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/MicrosoftTeams-image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Statusaktualisierung erfolgt automatisiert, optional manuell
 2. Ihr Status Text ändert sich zu: **"Wartet auf Unterzeichnung"**
@@ -112,7 +111,7 @@ Einrichten und Versenden von Dokumenten
 
 ### 2.1 Nach Ausgang des Mietvertrags
 
-<figure><img src="../../../.gitbook/assets/Group 22 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Letztes Bild geschwärzt.png" alt=""><figcaption></figcaption></figure>
 
 1. Anhand des **grünen Rechtecks** sehen Sie, dass der Ausgang des digitalen Mietvertrags abgeschlossen ist.
 2. Anhand der **Vorgangsnummer** sehen Sie, dass der rücklaufende digitale Mietvertrag nun die entsprechenden Anlagen der Mietverträge und des jeweiligen Zertifikats hat.
