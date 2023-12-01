@@ -13,7 +13,7 @@ Seit Dezember 2023 ist unser Technologie Partner Scrive, mit dem wir Ihnen mehr 
 Bestandskunden, werden über die kommenden Jahre von DocuSign zu Scrive migriert, damit Sie auch von den neuen Funktionen profitieren können.
 {% endhint %}
 
-Scrive ist ein ISO/IEC 27001:2013 zertifizierter Signaturdienst welcher 2010 gegründet wurde und heute zu führenden Anbietern für digitale Signaturen in Nordeuropa zählt.
+Scrive ist ein ISO/IEC 27001:2022 zertifizierter Signaturdienst welcher 2010 gegründet wurde und heute zu führenden Anbietern für digitale Signaturen in Nordeuropa zählt.
 
 Weitere generelle Informationen zu Scrive, finden Sie [hier auf der Scrive Website](https://www.scrive.com/de).
 
