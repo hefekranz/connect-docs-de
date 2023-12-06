@@ -148,14 +148,6 @@ Ja, das kleinste mögliche Paket ist 100.
 
 <details>
 
-<summary>TODO Nadine - Wie erfolgt die Abrechnung?</summary>
-
-Rechnungs-Beispiele
-
-</details>
-
-<details>
-
 <summary>Ich habe 3.000 Envelopes gekauft. Wie lange kann ich diese nutzen?</summary>
 
 Die Envelopes können im Standard ein Jahr genutzt werden.

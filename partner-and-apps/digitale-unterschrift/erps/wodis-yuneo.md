@@ -6,11 +6,7 @@
 Diese Einrichtung wird aktuell von einem Aareon Berater für Sie vorgenommen.
 {% endhint %}
 
-Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") beschrieben aktiviert haben muss zuletzt die Verknüpfung zwischen WODIS Yuneo und Aareon Connect eingerichtet werden:
-
-1. **TODO**: Beschreiben von Hinterlegen der Locoia Proxy Daten
-2. Gehen Sie auf **Planung Arbeitsaufträge** > **Neu anlegen**
-3. **TODO**: Restlichen Prozess beschreiben
+Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") beschrieben aktiviert haben muss zuletzt die Verknüpfung zwischen WODIS Yuneo und Aareon Connect eingerichtet werden.
 
 ## Einmalige Einrichtung je Dokumentvorlage
 
