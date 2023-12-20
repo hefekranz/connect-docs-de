@@ -8,6 +8,14 @@ Diese Einrichtung wird aktuell von einem Aareon Berater für Sie vorgenommen.
 
 Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") beschrieben aktiviert haben muss zuletzt die Verknüpfung zwischen WODIS Yuneo und Aareon Connect eingerichtet werden.
 
+1. Gehen Sie auf **Sytemeinrichtung** > **Optionen** > **Optionen Allgemein** > **Digitale Unterschrift**
+2. Setzen Sie **Digitale Unterschrift** auf **Konfigurieren**
+3. Wählen Sie **Scrive** bei **Technologiepartner** aus
+4. Tragen sie den **Benutzernamen**, **Passwort** und **Integrations ID** ein, welche Ihnen nach der [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") angezeigt wurden
+5. Klicken Sie auf **Speichern**
+
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
 ## Einmalige Einrichtung je Dokumentvorlage
 
 Die folgenden Schritte müssen Sie nur einmalig je Dokumentvorlage durchführen. Durch diese Schritte fügen Sie so genannte "Anchor Tags" zu Ihren Dokumentvorlagen hinzu.
