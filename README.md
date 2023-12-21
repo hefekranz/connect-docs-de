@@ -4,7 +4,7 @@ description: Alles zu Aareon Connect
 
 # Wie starte ich?
 
-### Über diese Docs
+## Über diese Docs
 
 Auf dieser Webseite finden Sie alles technische rund um Aareon Connect und damit verbundene Integrationen. Wir erklären hier, wie Sie die einzelnen Partnerintegrationen live stellen können, wie die Datenmappings aussehen und welche Use Cases möglich sind.
 
@@ -12,9 +12,7 @@ Auf dieser Webseite finden Sie alles technische rund um Aareon Connect und damit
 2. [**Partner & Apps**](partner-and-apps/) - Wie Sie Partner & Apps konfigurieren und live schalten
 3. [**FAQs**](faq.md)
 
-
-
-### Wichtige externe Seiten
+## Wichtige externe Seiten
 
 * [**Übersicht** zu Aareon Connect](https://connect.aareon.com/home)
 * [**Alle Partner** in der Übersicht](https://marketplace.aareon.com/de)
@@ -22,7 +20,7 @@ Auf dieser Webseite finden Sie alles technische rund um Aareon Connect und damit
 
 
 
-### Aareon Connect per Video verstehen
+## Aareon Connect per Video verstehen
 
 1\. [Wie **funktionieren** Aareon Connect Integrationen **technisch**?](https://www.youtube.com/watch?v=2DByfCeYRgQ)
 
@@ -41,3 +39,16 @@ Auf dieser Webseite finden Sie alles technische rund um Aareon Connect und damit
 </div>
 
 :thumbsup: Liken Sie unsere Videos uns abonnieren Sie [Aareon bei YouTube](https://www.youtube.com/@AareonDACH) und [LinkedIn](https://www.linkedin.com/company/aareon-dach/).
+
+## Aareon Connect im ERP aktivieren
+
+Nachdem Sie den Aareon Connect Vertrag unterschrieben haben muss die Lizenz noch in das jeweilige ERP System geladen werden.
+
+### WODIS Yuneo
+
+1. Gehen Sie auf **Systemeinrichtung** > **Organisation und Datenmanagement** > **Lizenzen**
+2.  Klicken Sie im Kopf-Menü auf **Mehr** > **Lizenzen vom Server importieren**\
+
+
+    <figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+3. Bestätigen Sie den eingeblendeten Dialog mit **Importieren**
