@@ -102,6 +102,14 @@ Ja, sie können z.B. folgende Dokumente in einer Aktivität hinterlegen und somi
 
 </details>
 
+<details>
+
+<summary>Gibt es eine Erinnerungsfunktion, sodass die Unterzeichnenden erinnert werden, dass es noch ein Dokument zur Unterschrift gibt?</summary>
+
+Ja, dies kann man wie [hier beschrieben](https://helpcenter.scrive.com/kb/guide/en/delivery-settings-pDLbwCk7Ki/Steps/1697969,2094619,2094617) einstellen.
+
+</details>
+
 ## Sicherheitsstufen
 
 <details>
