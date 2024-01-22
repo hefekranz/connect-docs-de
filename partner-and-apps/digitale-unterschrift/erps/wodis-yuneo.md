@@ -2,19 +2,35 @@
 
 ## Initiale Einrichtung
 
-{% hint style="info" %}
-Diese Einrichtung wird aktuell von einem Aareon Berater für Sie vorgenommen.
-{% endhint %}
+### Lizenzen Einlesen
+
+Lesen Sie wie [hier beschrieben](../../../#wodis-yuneo) die aktuellen Lizenzen ein.
+
+### Verknüpfung zwischen WODIS Yuneo und Aareon Connect herstellen
 
 Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") beschrieben aktiviert haben muss zuletzt die Verknüpfung zwischen WODIS Yuneo und Aareon Connect eingerichtet werden.
 
-1. Gehen Sie auf **Sytemeinrichtung** > **Optionen** > **Optionen Allgemein** > **Digitale Unterschrift**
+1. Gehen Sie auf **Systemeinrichtung** > **Optionen** > **Optionen Allgemein** > **Digitale Unterschrift**
 2. Setzen Sie **Digitale Unterschrift** auf **Konfigurieren**
 3. Wählen Sie **Scrive** bei **Technologiepartner** aus
 4. Tragen sie den **Benutzernamen**, **Passwort** und **Integrations ID** ein, welche Ihnen nach der [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") angezeigt wurden
 5. Klicken Sie auf **Speichern**
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+### Arbeitsaufträge Einrichten
+
+Nun müssen noch die passenden Arbeitsaufträge angelegt werden:
+
+1. Gehen Sie auf **Systemeinrichtung** > **Organisation und Datenmanagement** > **Planung Arbeitsaufträge**
+2. Klicken Sie oben links auf **Neu anlegen**
+3. Suchen Sie im **Typ** Feld nach **Digitale Unterschrift - Dokumente versenden**
+4. Geben Sie dem Arbeitsauftrag einen Namen
+5. Stellen Sie einen Zeitraum ein. Wir empfehlen den Job mehrmals täglich ausführen zu lassen (z.B. alle 2 Stunden), damit&#x20;
+6. Klicken Sie auf **Speichern**
+7. Wiederholen Sie die Schritte 2-6 für den Arbeitsauftrags-Typ **Digitale Unterschrift - Dokumente empfangen**
+
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ## Einmalige Einrichtung je Dokumentvorlage
 
