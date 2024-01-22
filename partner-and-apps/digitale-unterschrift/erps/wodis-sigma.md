@@ -2,11 +2,77 @@
 
 ## Initiale Einrichtung
 
-{% hint style="info" %}
-Diese Einrichtung wird aktuell von einem Aareon Berater für Sie vorgenommen.
-{% endhint %}
+### Lizenzen Einlesen
+
+Lesen Sie wie [hier beschrieben](../../../#wodis-sigma) die aktuellen Lizenzen ein.
+
+### Verknüpfung zwischen WODIS Sigma und Aareon Connect herstellen
 
 Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") beschrieben aktiviert haben muss zuletzt die Verknüpfung zwischen WODIS Sigma und Aareon Connect eingerichtet werden.
+
+1. Gehen Sie auf **Zentrale Funktionen** > **Aktivitätenmanagement** > **Stammdaten** > **Aktivitätenmanagement Einstellungen**
+2.  Tragen Sie für das Feld **Digitale Signatur Logins** den Wert **Scrive** in die Spalte **Benutzerwert** ein\
+
+
+    <figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+3. Somit erscheinen die benötigten Felder
+4. Tragen sie die Daten welche Sie nach der [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") erhalten haben in die entsprechenden Felder ein:
+   1. **Benutzernamen** in das Feld **Scrive: Digitale Signatur User**
+   2. das **Passwort** in das Feld **Scrive: Digitale Signatur Password**
+   3. die **URL** in das Feld **Scrive: Digitale Signatur Url**
+   4. und die **Authentication URL** in das Feld **Scrive: Digitale Signatur Auth Url**
+
+{% hint style="info" %}
+Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Signatur Tenant Id** können Sie leer lassen.
+{% endhint %}
+
+### Arbeitsaufträge Einrichten
+
+{% hint style="warning" %}
+Dokumentation folgt in Kürze
+{% endhint %}
+
+## Vorbereitung Ihrer Dokumente
+
+Für die Digitale Unterschrift nutzen Sie wie gewohnt den Schriftverkehr in WODIS Sigma ([weitere Informationen](https://www.aareon.de/Support\_und\_Wissen/Dossier\_Schriftverkehr\_mit\_Wodis\_Sigma.212684.html) \[Verlinkung auf Aareon Support und Beratung, Zugang nur mit Login möglich]).
+
+Verschiedenste Anchor Tags, die im Unterzeichnungsvorgang den passenden Unterzeichnern zugeordnet werden, sodass diese an den von Ihnen vorgesehenen Stellen Unterschreiben oder Felder ausfüllen, können hinzugefügt werden.
+
+Dabei gibt es folgende Möglichkeiten:
+
+1. <mark style="background-color:blue;">Unterzeichner</mark>
+   1. Intern _- Unternehmensinternem (z.B. Sachbearbeiter_
+   2. Extern _- Externe Person (z.B. Mieter)_
+2. <mark style="background-color:purple;">Unterzeichner Nummer</mark> - _Zuordnung der Unterzeichner innerhalb der jeweiligen Internen bzw. Externen Unterzeichner_
+3. <mark style="background-color:orange;">Feldart</mark>
+   1. Unterschrift
+   2. Unterschriftsdatum _- Das aktuelle Datum_
+   3. Datum
+   4. Name
+   5. Checkbox
+   6. Text
+   7. Email
+   8. Initialen _- Die jeweils ersten Buchstaben des Vor- und Nachnamens (z.B. bei Erika Mustermann: EM)_
+4. <mark style="background-color:green;">Feld Nummer</mark> _- Zuordnung der Felder innerhalb der jeweiligen Feldarten_
+5. <mark style="background-color:red;">Feldeigenschaft</mark>
+   1. \* _- Das Feld muss zwingend ausgefüllt werden_
+   2. ? _- Das Feld kann ausgefüllt werden_
+
+Dies muss in dem folgendem Syntax zusammengesetzt werden (die einzelnen Bestandsteile sind farblich markiert), hier z.B. für das erste Unterschriftsfeld für den ersten internen Unterzeichner:
+
+DU.<mark style="background-color:blue;">Intern</mark>.<mark style="background-color:purple;">01</mark>.<mark style="background-color:orange;">Unterschrift</mark>.<mark style="background-color:green;">01</mark><mark style="background-color:red;">\*</mark>
+
+Das dritte optionale E-Mail Feld für den zweiten externen Unterzeichner muss entsprechend wie folgt in dem Dokument hinterlegt werden:
+
+DU.<mark style="background-color:blue;">Extern</mark>.<mark style="background-color:purple;">02</mark>.<mark style="background-color:orange;">Email</mark>.<mark style="background-color:green;">03</mark><mark style="background-color:red;">?</mark>
+
+{% hint style="warning" %}
+Der Syntax muss genau befolgt werden, damit die Anchor Tags ausgelesen werden können.
+
+Alle Anchor Tags müssen mit **DU.** starten.
+{% endhint %}
+
+Die Anchor Tags sollten mit weißer Schrift in den Dokumenten hinterlegt werden, damit diese für die Unterzeichner nicht sichtbar sind, aber vom ERP und Scrive ausgelesen werden können.
 
 ## Prozess je Dokument
 

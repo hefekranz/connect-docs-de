@@ -117,7 +117,7 @@ Nachdem Sie die [#initiale-einrichtung-in-scrive](scrive-technologie-partner.md#
 4. Klicken Sie auf **Autorisieren**
    1. Die Nutzerdaten werden direkt überprüft und bei falschen Informationen erhalten Sie eine Meldung mit weiteren Informationen
 5. Die Integration ist nun aktiviert
-6. Ihr technischer Aareon Ansprechpartner erhält somit automatisch die nötigen Informationen um die Integration im ERP System fertig einzurichten.
+6. Sie erhalten somit in den kommenden Stunden via E-Mail die nötigen Informationen um die Integration im ERP System fertig einzurichten
 
 ## Ablauf von QES in Scrive
 

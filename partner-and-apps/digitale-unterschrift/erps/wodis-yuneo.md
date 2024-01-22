@@ -13,7 +13,7 @@ Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](..
 1. Gehen Sie auf **Systemeinrichtung** > **Optionen** > **Optionen Allgemein** > **Digitale Unterschrift**
 2. Setzen Sie **Digitale Unterschrift** auf **Konfigurieren**
 3. Wählen Sie **Scrive** bei **Technologiepartner** aus
-4. Tragen sie den **Benutzernamen**, **Passwort** und **Integrations ID** ein, welche Ihnen nach der [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") angezeigt wurden
+4. Tragen sie den **Benutzernamen**, **Passwort** und **Integrations ID** ein, welche Sie nach der [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") erhalten haben
 5. Klicken Sie auf **Speichern**
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
@@ -26,7 +26,7 @@ Nun müssen noch die passenden Arbeitsaufträge angelegt werden:
 2. Klicken Sie oben links auf **Neu anlegen**
 3. Suchen Sie im **Typ** Feld nach **Digitale Unterschrift - Dokumente versenden**
 4. Geben Sie dem Arbeitsauftrag einen Namen
-5. Stellen Sie einen Zeitraum ein. Wir empfehlen den Job mehrmals täglich ausführen zu lassen (z.B. alle 2 Stunden), damit&#x20;
+5. Stellen Sie einen Zeitraum ein. Wir empfehlen den Job mehrmals täglich ausführen zu lassen (z.B. alle 2 Stunden)
 6. Klicken Sie auf **Speichern**
 7. Wiederholen Sie die Schritte 2-6 für den Arbeitsauftrags-Typ **Digitale Unterschrift - Dokumente empfangen**
 
@@ -49,7 +49,7 @@ Die Anchor Tags werden im Unterzeichnungsvorgang den passenden Unterzeichnern zu
       1. Unterzeichner
          1. Intern _- Unternehmensinternem (z.B. Sachbearbeiter_
          2. Extern _- Externe Person (z.B. Mieter)_
-      2. Nr. _- In welcher Reihenfolge das Feld befüllt werden soll_
+      2. Unterzeichner Nr. _- Zuordnung der Unterzeichner innerhalb der jeweiligen Internen bzw. Externen Unterzeichner_
       3. Feldart
          1. Unterschrift
          2. Unterschriftsdatum _- Das aktuelle Datum_
@@ -59,7 +59,8 @@ Die Anchor Tags werden im Unterzeichnungsvorgang den passenden Unterzeichnern zu
          6. Text
          7. Email
          8. Initialen _- Die jeweils ersten Buchstaben des Vor- und Nachnamens (z.B. bei Erika Mustermann: EM)_
-      4. Feldeigenschaft
+      4. Feld Nr. - _Zuordnung der Felder innerhalb der jeweiligen Feldarten_
+      5. Feldeigenschaft
          1. Pflicht _- Das Feld muss zwingend ausgefüllt werden_
          2. Optional _- Das Feld kann ausgefüllt werden_
 7. Nachdem Sie alle Anchor Tags eingefügt haben, gelangen Sie zurück in die Vorlagenverwaltung mit Klick auf **Datei**
