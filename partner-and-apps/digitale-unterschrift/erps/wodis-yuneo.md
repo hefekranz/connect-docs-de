@@ -89,6 +89,16 @@ Bei dem Schriftverkehr Erstellungs-Prozess müssen Sie dafür folgende Dinge bea
    1. Bei **Intern** wählen Sie einen oder mehrere Yuneo Benutzer (Unternehmensinterne Person) aus
    2. Bei **Extern** wählen Sie einen oder mehrere Kontakt(e) aus (externe Personen)
 
+#### Vor-Ort-Unterschrift
+
+Um die Vor-Ort-Unterschrift zu nutzen, müssen diese drei Schritte befolgt werden:
+
+1. Klicken Sie bei **Vor-Ort-Unterschrift** auf **Ermöglichen**
+2. Tragen Sie eine E-Mail Adresse in dem Feld **E-Mail Adresse für Vor-Ort-Unterschrift** ein
+3. Klicken Sie in die Checkbox **Vor Ort unterschreiben** für die Unterzeichner die vor Ort unterschreiben sollen
+
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
 ### Empfangen und Sichten von unterschriebenen Dokumenten
 
 Yuneo holt sich regelmäßig (Standard: alle 30 Minuten) den aktuellen Stand aller Dokumente.\

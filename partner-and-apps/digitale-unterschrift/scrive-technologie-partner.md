@@ -178,11 +178,20 @@ Bei der Nutzung von QES sind folgende Besonderheiten zu beachten:
 
 ## Vor-Ort-Unterschrift - In Entwicklung
 
-{% hint style="danger" %}
-Diese Funktion ist aktuell in der Entwicklung und wird in den kommenden Monaten für WODIS Sigma, WODIS Yuneo und SAP Blue Eagle verfügbar sein.
-{% endhint %}
-
 Mit der Vor-Ort-Unterschrift können Ihre Kunden Verträge direkt bei Ihnen vor Ort digital unterschreiben, z.B. auf einem iPad oder Computer eines Mitarbeiters.
+
+Dafür können Sie bei dem Versenden eines Dokuments im ERP eine E-Mail Adresse angeben, an welche die Unterzeichnungs-Links gesammelt zum Unterschreiben gesendet werden sollen (mehr Details in [#funktionsumfang-und-roadmap-je-erp](erps/#funktionsumfang-und-roadmap-je-erp "mention")).
+
+Diese E-Mail kann dann vor Ort geöffnet werden und die Unterzeichner öffnen ihren jeweiligen Link:
+
+<figure><img src="../../.gitbook/assets/image (37).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Die Unterzeichnungs-Bestätigung inklusive Kopie des unterzeichneten Dokuments wird weiterhin an die jeweiligen eigenen E-Mail Adressen der Unterzeichner gesendet.
+
+{% hint style="info" %}
+Die Unterzeichner die vor Ort unterschreiben sollen können frei ausgewählt werden.\
+Somit müssen nicht alle Unterzeichner vor Ort unterschreiben.
+{% endhint %}
 
 ## Standalone - Nutzung ohne ERP System
 

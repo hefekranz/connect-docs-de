@@ -99,8 +99,7 @@ Die Anchor Tags sollten mit weißer Schrift in den Dokumenten hinterlegt werden,
       1. Zum Hinzufügen der Unterzeichner klicken Sie auf **Hinzufügen** und wählen Sie dann den Unterzeichner aus
       2. Ordnen Sie die Unterzeichnern den im Dokument definierten Anchor Tags zu
    2. Den selben Prozess können Sie dann für die anderen Anchor Tags Feldtypen folgen
-5. Durchführen der Jobplanung\
-
+5. Durchführen der Jobplanung
    1. Wählen Sie das Modul **Job Planung** aus
    2. Gehen Sie oben in der Taskleiste auf **die Lupe** und suchen Sie den Jobplanungseintrag **(DS Anchortags)** in der Tabelle
    3. Geben Sie den Auftrag bei dem Kästchen **Status** frei.
@@ -110,6 +109,14 @@ Die Anchor Tags sollten mit weißer Schrift in den Dokumenten hinterlegt werden,
 6.
 
     <figure><img src="../../../.gitbook/assets/Group 26.png" alt=""><figcaption></figcaption></figure>
+
+#### Vor-Ort-Unterschrift
+
+Um die Vor-Ort-Unterschrift zu nutzen, müssen diese zwei Schritte befolgt werden:
+
+1. Tragen Sie eine E-Mail Adresse in dem Feld **E-Mail Adresse für Vor-Ort-Unterschrift** ein
+2. Tragen sie ein **,** am Ende (hinter der Telefonnummer) der Unterzeichner ein die vor Ort unterschreiben sollen
+   1. Somit wird automatisch **, vor Ort** hinter die jeweiligen Unterzeichner geschrieben
 
 ### Empfangen und Sichten von unterschriebenen Dokumenten
 
