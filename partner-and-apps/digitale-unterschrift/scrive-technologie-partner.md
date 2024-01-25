@@ -176,7 +176,7 @@ Bei der Nutzung von QES sind folgende Besonderheiten zu beachten:
 * Alle Unterzeichner des Dokumentes müssen mit QES unterschreiben
 * Alle Unterzeichner benötigen eine gültige Mobilnummer (es ist _nicht_ erforderlich, dass dies im ERP hinterlegt ist)
 
-## Vor-Ort-Unterschrift - In Entwicklung
+## Vor-Ort-Unterschrift
 
 Mit der Vor-Ort-Unterschrift können Ihre Kunden Verträge direkt bei Ihnen vor Ort digital unterschreiben, z.B. auf einem iPad oder Computer eines Mitarbeiters.
 
