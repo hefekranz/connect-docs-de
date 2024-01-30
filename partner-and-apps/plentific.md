@@ -1,5 +1,5 @@
 ---
-description: Wir helfen Immobilienverwaltungen und Wohnungsunternehmen
+description: Plentific hilft Immobilienverwaltungen und Wohnungsunternehmen
 ---
 
 # Plentific
@@ -25,7 +25,7 @@ Plentific ist ein Online-Marktplatz für Haus- und Immobilienbesitzer, der es Be
 
 
     <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption><p>Plentific API Schlüssel</p></figcaption></figure>
-2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Plentific Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Plentific Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -56,4 +56,9 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 * Es werden nur Mieter mit einer hinterlegten E-Mail Adresse synchronisiert
   * Mietverträge von Mietern, die dies nicht erfüllen, werden ebenfalls nicht synchronisiert
 
-[^1]: (Link zu ERP overview)
+### 2. Tickets - In Bearbeitung
+
+#### Übersicht
+
+* [Allgemeine Informationen](../use-cases/tickets.md)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=388591826\&fvid=1169857418)

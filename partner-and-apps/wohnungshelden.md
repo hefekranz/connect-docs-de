@@ -20,7 +20,7 @@ Wohnungshelden bildet den kompletten Vermietungsprozess von Anfang bis Ende digi
 
 1. Um einen Wohnungshelden-Use-Case zu nutzen benötigen Sie zur Aktivierung den **Wohnungshelden API Token**. Diesen erhalten Sie folgendermaßen:
    1. Kontaktieren Sie hierfür Ihren Wohnungshelden Ansprechpartner, dieser wird Ihnen den API Token bereitstellen.
-2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Wohnungshelden Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Wohnungshelden Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -40,5 +40,3 @@ Wohnungshelden bildet den kompletten Vermietungsprozess von Anfang bis Ende digi
 #### Voraussetzungen
 
 * Die Leerstände müssen im ERP System zur Vermarktung freigegeben sein
-
-[^1]: (Link zu ERP overview)

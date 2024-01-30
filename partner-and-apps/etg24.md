@@ -18,7 +18,7 @@ etg24 ist das Onlineportal für Immobilienverwaltungen, die bereit dafür sind P
 ## Mit etg24 verbinden
 
 1. Um einen etg24-Use-Case zu nutzen, müssen Sie sich gegenüber der **etg24 API authentifizieren**. Hierzu benötigen Sie den **API-Token**.
-2. Nachdem Sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **etg24 Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können sie die verfügbaren **etg24 Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -51,6 +51,3 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 * Es werden nur Mieter mit einer hinterlegten E-Mail Adresse synchronisiert
   * Mietverträge von Mietern, die dies nicht erfüllen, werden ebenfalls nicht synchronisiert
 
-
-
-[^1]: (Link zu ERP overview)

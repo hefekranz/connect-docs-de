@@ -22,7 +22,7 @@ EverReal ist eine professionelle B2B Software für digitalen Mieterwechsel und V
    2. **Password**
    3. **Subdomain**:\
       Die Subdomain finden Sie, wenn Sie in Ihrem EverReal Account eingeloggt sind oben in der URL Leiste. Hier wird ein Link mit folgender Anfangsstruktur zu sehen sein: [https://**aareon-connect**.everreal.co/app/](https://sandbox-aareon-connect.everreal.co/app/) Dort wo im Beispiel aareon-connect in fett und kursiv steht finden Sie Ihre Subdomain.
-2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **EverReal Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **EverReal Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -59,5 +59,3 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 ### 2. Leerstände und Interessenten
 
 Coming soon.
-
-[^1]: (Link zu ERP overview)

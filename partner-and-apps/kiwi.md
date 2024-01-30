@@ -19,7 +19,7 @@ KIWI bietet einfachen digitalen Zugang für Mehrfamilienhäuser. Wir machen phys
 1. Um einen KIWI Use Case zu nutzen müssen Sie sich gegenüber der **KIWI API** authentifizieren. Hierzu benötigen Sie:
    1. **Benutzername**
    2. **Password**
-2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **KIWI Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **KIWI Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -48,5 +48,3 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 
 * Es werden nur Mieter mit einer hinterlegten E-Mail Adresse synchronisiert
   * Mietverträge von Mietern, die dies nicht erfüllen, werden ebenfalls nicht synchronisiert
-
-[^1]: (Link zu ERP overview)

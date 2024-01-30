@@ -21,7 +21,7 @@ facilioo erweitert die bestehenden Aareon Connect Produkte für die Wohnungswirt
    1. **Username**
    2. **Passwort**
    3. **Environment**
-2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **facilioo Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **facilioo Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -55,5 +55,3 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 
 * Es werden nur Mieter mit einer hinterlegten E-Mail Adresse synchronisiert
   * Mietverträge von Mietern, die dies nicht erfüllen, werden ebenfalls nicht synchronisiert
-
-[^1]: (Link zu ERP overview)

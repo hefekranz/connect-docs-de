@@ -50,7 +50,7 @@ Nachdem Sie den Aareon Connect Vertrag unterschrieben haben muss die Lizenz noch
 2.  Klicken Sie im Kopf-Menü auf **Mehr** > **Lizenzen vom Server importieren**\
 
 
-    <figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 3. Bestätigen Sie den eingeblendeten Dialog mit **Importieren**
 
 ### **WODIS Sigma**

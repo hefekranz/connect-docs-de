@@ -23,7 +23,7 @@ PriceHubble ist ein B2B-Unternehmen, das innovative digitale Lösungen für die 
 2. Sobald Sie auf PriceHubble geklickt haben, benötigen Sie folgende Daten um die Integration abzuschließen:
    1. **Nutzernamen**&#x20;
    2. **Passwort**&#x20;
-3. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **PriceHubble Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+3. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **PriceHubble Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -38,14 +38,9 @@ PriceHubble ist ein B2B-Unternehmen, das innovative digitale Lösungen für die 
 
 <table><thead><tr><th width="331.5">ERP</th><th>PriceHubble</th></tr></thead><tbody><tr><td><a href="../entitaeten/gebaeude.md">Gebäude</a></td><td>Property </td></tr><tr><td><a href="../entitaeten/verwaltungseinheiten.md">Verwaltungseinheit</a></td><td>Dossier</td></tr></tbody></table>
 
-#### Einstellungen
+### 2. Tickets - In Bearbeitung
 
-Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellungen nutzen:
+#### Übersicht
 
-<table><thead><tr><th width="168">Name</th><th width="549.3333333333333">Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td><em>Kommt in Kürze</em></td><td><em>Kommt in Kürze</em></td><td><em>Kommt in Kürze</em></td></tr><tr><td><em>Kommt in Kürze</em></td><td><em>Kommt in Kürze</em></td><td><em>Kommt in Kürze</em></td></tr></tbody></table>
-
-#### Voraussetzungen
-
-*
-
-[^1]: (Link zu ERP overview)
+* [Allgemeine Informationen](../use-cases/tickets.md)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=388591826\&fvid=1169857418)

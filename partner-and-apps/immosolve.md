@@ -14,3 +14,18 @@ description: >-
 ## Beschreibung
 
 Seit 2005 stattet Immosolve Wohnungsunternehmen, Genossenschaften und Hausverwaltungen mit hochkonfigurierbaren Software-Lösungen in den Bereichen Interessentenmanagement und Vermietung aus. Bundesweit vertrauen über 150 Unternehmen mit mehr als 1,5 Millionen Wohneinheiten auf Immosolve.
+
+## Mit Immosolve verbinden
+
+1. Um einen Immosolve-Use-Case zu nutzen benötigen Sie zur Aktivierung die **Immosolve API Zugansdaten**. Diese erhalten Sie folgendermaßen:
+   1. _kommt in Kürze_
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Immosolve Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
+
+## Use Cases
+
+### 1. Leerstände - In Bearbeitung
+
+#### Übersicht
+
+* [Allgemeine Informationen](../entitaeten/leerstaende.md)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=96033489\&fvid=276732562)

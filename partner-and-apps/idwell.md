@@ -22,7 +22,7 @@ iDWELL hat sich zum Ziel gesetzt, den Digitalisierungstrend in die traditionsrei
    2. **Password**
    3. **Subdomain**: \
       Die Subdomain finden Sie, wenn Sie in Ihrem iDWELL Account eingeloggt sind oben in der URL Leiste. Hier wird ein Link mit folgender Anfangsstruktur zu sehen sein: [https://_**aareon-connect**_.idwell.com/](https://di-test.idwell.com/) Dort wo im Beispiel aareon-connect in fett und kursiv steht finden Sie Ihre Subdomain.
-2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **iDWELL Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **iDWELL Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -64,6 +64,3 @@ Bitte überprüfen Sie, ob die übertragenen Informationen in den Reitern Info, 
 
 Bitte überprüfen Sie bei den Mietern, sowie Eigentümern, die Reiter Kontaktdaten, Info und Einheiten.
 
-
-
-[^1]: (Link zu ERP overview)

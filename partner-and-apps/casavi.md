@@ -23,7 +23,7 @@ casavi ist die zentrale Plattform für die Digitalisierung Ihrer Wohnungsverwalt
 
 <figure><img src="../.gitbook/assets/casavi screenshot-1.png" alt="" width="563"><figcaption><p>casavi API Zugansdaten</p></figcaption></figure>
 
-2. Nachdem sie Aareon Connect Kunde geworden sind können sie die verfügbaren **casavi Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem sie Aareon Connect Kunde geworden sind können sie die verfügbaren **casavi Integrationen innerhalb Ihres ERP Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -56,5 +56,3 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 
 * Es werden nur Mieter mit einer hinterlegten E-Mail Adresse synchronisiert
   * Mietverträge von Mietern, die dies nicht erfüllen, werden ebenfalls nicht synchronisiert
-
-[^1]: (Link zu ERP overview)

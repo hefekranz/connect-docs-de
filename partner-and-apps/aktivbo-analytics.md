@@ -17,7 +17,7 @@ AktivBo ist eine auf die Immobilienbranche zugeschnittene Analyseplattform, die 
 ## Mit AktivBo Analytics verbinden
 
 1. Um einen AktivBo-Use-Case zu nuten benötigen Sie zur Aktivierung den **API-Token**. Diesen erhalten Sie auf Anfrage bei Ihrem AktivBo Account Manager.
-2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **AktivBo Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **AktivBo Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -46,5 +46,3 @@ Für diese Integration werden keine Einstellungen von Ihnen benötigt. Es werden
 
 * Voraussetzung ist das Modul DSGVO
 * Es werden nur Mieter beachtet, die im ERP zugestimmt haben.
-
-[^1]: (Link zu ERP overview)

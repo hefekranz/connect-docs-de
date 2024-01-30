@@ -21,7 +21,7 @@ Spiri.Bo ist ein PropTech-Unternehmen der meravis Immobiliengruppe. Spiri.Bo dig
 
 1. Um einen Spiri.Bo-Use-Case zu nutzen benötigen Sie zur Aktivierung die **Spiri.Bo API Zugansdaten**. Diese erhalten Sie folgendermaßen:
    1. Fordern Sie per Email an [dev+api-key@spiri.bo](mailto:dev+api-key@spiri.bo) mit dem Betreff "API-Key Aareon Connect" und Inhalt "Hallo, bitte sendet mir einen API-Key für Aareon Connect zu. Vielen Dank" den API Key an.&#x20;
-2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Spiri.Bo Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren. Mehr Details dazu finden Sie hier[^1].
+2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Spiri.Bo Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
 
@@ -87,7 +87,10 @@ Da die Nutzungsart im ERP System frei definierbar ist, wird das Mapping laufend 
 
 ### 2. Tickets
 
-**Übersicht**
+#### Übersicht
+
+* [Allgemeine Informationen](../use-cases/tickets.md)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=388591826\&fvid=1169857418)
 
 Die Aareon Connect Integration für das Übertragen von Meldungen aus Spiri.bo ins ERP besteht us 4 Komponenten:
 
@@ -112,9 +115,3 @@ Damit die Synchronisation von Meldungen, Formularen und Kontaktänderungen im ER
 **Achtung**
 
 Je nach Einstellung im ERP kann es vorkommen, dass Meldungen nicht direkt angezeigt werden. Fragen Sie hierzu Ihren ERP berater, wie häufig temporäre Meldungen temporäre Meldungen aus der Datenbank ins ERP übertragen werden.
-
-
-
-
-
-[^1]: (Link zu ERP overview)
