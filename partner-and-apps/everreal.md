@@ -56,6 +56,23 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 * Es werden nur Mieter und Eigentümer mit einer hinterlegten E-Mail Adresse und Name synchronisiert
 * Es kann nur ein Eigentümer und ein Mieter pro Einheit hinterlegt werden
 
-### 2. Leerstände und Interessenten
+### 2. Leerstände & Interessenten
 
-Coming soon.
+#### Übersicht
+
+* [Allgemeine Informationen Leerstände](../entitaeten/leerstaende.md)
+* [Allgemeine Informationen Interessenten](../use-cases/interessenten.md)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=96033489\&fvid=276732562)
+
+| ERP                                           | EverReal             |
+| --------------------------------------------- | -------------------- |
+| [Leerstand](../entitaeten/leerstaende.md)     | Anzeigen             |
+| [Interessent](../entitaeten/interessenten.md) | Interessent / Mieter |
+
+#### Einstellungen
+
+| Name                                 | Beschreibung                                                                                                                                                                                                                        | Optionen         |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| System für Auswahl von Interessenten | <p>Wenn die Auswahl von Interessenten im ERP geschieht, werden  alle Interessenten von EverReal zum ERP synchronosiert.<br>Wenn die Auswahl in EverReal stattfindet, werden nur die ausgewählten Mieter zum ERP synchronisiert.</p> | `ERP`, `Partner` |
+
+Detaillierte Einstellungen für den Export von Leerstanden werden direkt im ERP vorgenommen.
