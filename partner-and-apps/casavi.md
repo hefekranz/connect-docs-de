@@ -54,5 +54,6 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 
 #### Voraussetzungen
 
-* Es werden nur Mieter mit einer hinterlegten E-Mail Adresse synchronisiert
-  * Mietverträge von Mietern, die dies nicht erfüllen, werden ebenfalls nicht synchronisiert
+* Es werden nur Mieter mit einem hinterlegten Nachnamen synchronisiert
+* Es werden nur Stammdaten synchronisiert, welche mit einem Mieter verknüpft sind
+  * Beispiel: Ein Wohnung welche leer ist, wird nicht synchronisiert
