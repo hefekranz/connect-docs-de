@@ -2,10 +2,6 @@
 
 Mit der Migration von der Digitalen Unterschrift zu Aareon Connect, wird die Verbindung zwischen WODIS Sigma/SAP Blue Eagle und DocuSign über Locoia hergestellt, statt wie bisher über einen API Service von Aareon selber.
 
-{% hint style="warning" %}
-Für einen Unterbrechungsfreien Ablauf sollten die unteren Schritte bis zum **TBD** durchgeführt werden. Die Integration wird dann am **TBD** im Hintergrund für Sie zu Locoia umgestellt.
-{% endhint %}
-
 Dies ermöglicht die Migration zu [scrive-technologie-partner.md](scrive-technologie-partner.md "mention"), wodurch wir Ihnen neue Funktionen anbieten können ([#vorteile-scrive](scrive-technologie-partner.md#vorteile-scrive "mention")).
 
 Als **DocuSign Bestandskunde** können Sie bis auf weiteres weiterhin DocuSign für die Digitale Unterschrift nutzen und müssen einmalig folgende Schritte für die Migration durchführen:
