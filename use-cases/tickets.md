@@ -6,7 +6,7 @@ description: Synchronisierung von Meldungen aus dem Partnersystem in das ERP
 
 ## Übersicht
 
-* **Interval**: Instant
+* **Interval**: Echtzeit
 * **Richtung**: Partnersystem --> ERP
 * **Entitäten**:
   * Tickets/Meldungen
