@@ -61,7 +61,7 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/dokumente.md)
-* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1303538867)
 
 #### Entitäten
 
