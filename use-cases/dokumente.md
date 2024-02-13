@@ -28,3 +28,7 @@ Die Dokumenten Speicherung funktioniert je nach Partnersystem unterschiedlich:
 
 1. **Echtzeit-Abruf**: Im Partnersystem werden Datei-Metadaten (z.B. Titel, Erstellungsdatum) abgespeichert und beim Anklicken einer Datei in dem Partnersystem, wird das Dokumente vom jeweiligen ERP in Echtzeit abgerufen und im Partnersystem angezeigt
 2. **Speicherung im Partnersystem**: Die Dateien werden im Partnersystem selber gespeichert und bei der täglichen Aktualisierung bei Änderungen entsprechend aktualisiert
+
+## Einschränkungen
+
+Dokumente die größer als 50MB sind, werden nicht synchronisiert.

@@ -37,13 +37,13 @@ Diese Schritte müssen Sie nur einmalig durchführen, um danach die integrierte 
 
 1. Kurz nachdem Sie den Digitalen Unterschrifts-Vertrag abgeschlossen haben, erhalten Sie eine Einladungs-E-Mail wie diese von Scrive:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Nachdem Sie auf **Kontoaktivierung** klicken, können Sie ein Passwort und weitere Informationen hinterlegen:
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="534"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="534"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Im Hintergrund haben wir für Sie nach Vertragsabschluss ein Account bei Scrive angelegt und einen initialen Admin Nutzer erstellt. Dieser initiale Nutzer erhält die gezeigte E-Mail.
@@ -107,7 +107,7 @@ Nun können Sie mit der [#aktivierung-in-aareon-connect](scrive-technologie-part
 
 Nachdem Sie die [#initiale-einrichtung-in-scrive](scrive-technologie-partner.md#initiale-einrichtung-in-scrive "mention") abgeschlossen haben, können Sie die Digitalen Unterschrift mit Scrive in Aareon Connect zu aktivieren:
 
-1. Öffnen Sie **Aareon Connect** in Ihrem ERP System ([mehr Details](../../#aareon-connect-per-video-verstehen))
+1. Öffnen Sie **Aareon Connect** in Ihrem ERP System ([mehr Details](../../erps/))
 2. Gehen Sie auf **Scrive**
 3.  Geben Sie bei der Integration **Digitale Unterschrift mit Scrive** die Zugangsdaten für den Scrive Nutzter ein (muss ein Admin Nutzer sein), den Sie für die Integration verwenden möchten
 

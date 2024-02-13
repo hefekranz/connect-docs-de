@@ -4,7 +4,7 @@
 
 ### Lizenzen Einlesen
 
-Lesen Sie wie [hier beschrieben](../../../#wodis-yuneo) die aktuellen Lizenzen ein.
+Lesen Sie wie [hier beschrieben](../../../erps/wodis-yuneo.md#aareon-connect-in-wodis-yuneo-aktivieren-lizenzen-einlesen) die aktuellen Lizenzen ein.
 
 ### Verknüpfung zwischen WODIS Yuneo und Aareon Connect herstellen
 

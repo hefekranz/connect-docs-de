@@ -4,7 +4,7 @@
 
 ### Lizenzen Einlesen
 
-Lesen Sie wie [hier beschrieben](../../../#wodis-sigma) die aktuellen Lizenzen ein.
+Lesen Sie wie [hier beschrieben](../../../erps/wodis-sigma.md#aareon-connect-in-wodis-sigma-aktivieren-lizenzen-einlesen) die aktuellen Lizenzen ein.
 
 ### Verknüpfung zwischen WODIS Sigma und Aareon Connect herstellen
 
