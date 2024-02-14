@@ -10,7 +10,8 @@ Aareon arbeitet mit **Scrive** für die digitale Unterschrift zusammen, dem füh
 
 {% hint style="info" %}
 Seit Dezember 2023 ist unser Technologie Partner Scrive, mit dem wir Ihnen mehr und komfortablere Unterschrifts-Lösungen anbieten können.\
-Bestandskunden, werden über die kommenden Jahre von DocuSign zu Scrive migriert, damit Sie auch von den neuen Funktionen profitieren können.
+\
+Bestandskunden bieten wir optional an, von DocuSign auf Scrive zu migrieren, damit Sie auch von den neuen Funktionen profitieren können.
 {% endhint %}
 
 Scrive ist ein ISO/IEC 27001:2022 zertifizierter Signaturdienst welcher 2010 gegründet wurde und heute zu führenden Anbietern für digitale Signaturen in Nordeuropa zählt.
