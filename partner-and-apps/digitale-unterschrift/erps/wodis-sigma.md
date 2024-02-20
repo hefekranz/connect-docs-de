@@ -40,23 +40,23 @@ Verschiedenste Anchor Tags, die im Unterzeichnungsvorgang den passenden Unterzei
 
 Dabei gibt es folgende Möglichkeiten:
 
-1. <mark style="background-color:blue;">Unterzeichner</mark>
-   1. Intern _- Unternehmensinternem (z.B. Sachbearbeiter_
-   2. Extern _- Externe Person (z.B. Mieter)_
-2. <mark style="background-color:purple;">Unterzeichner Nummer</mark> - _Zuordnung der Unterzeichner innerhalb der jeweiligen Internen bzw. Externen Unterzeichner_
-3. <mark style="background-color:orange;">Feldart</mark>
-   1. Unterschrift
-   2. Unterschriftsdatum _- Das aktuelle Datum_
-   3. Datum
-   4. Name
-   5. Checkbox
-   6. Text
-   7. Email
-   8. Initialen _- Die jeweils ersten Buchstaben des Vor- und Nachnamens (z.B. bei Erika Mustermann: EM)_
-4. <mark style="background-color:green;">Feld Nummer</mark> _- Zuordnung der Felder innerhalb der jeweiligen Feldarten_
-5. <mark style="background-color:red;">Feldeigenschaft</mark>
-   1. \* _- Das Feld muss zwingend ausgefüllt werden_
-   2. ? _- Das Feld kann ausgefüllt werden_
+* <mark style="background-color:blue;">Unterzeichner</mark>
+  * Intern _- Unternehmensinternem (z.B. Sachbearbeiter_
+  * Extern _- Externe Person (z.B. Mieter)_
+* <mark style="background-color:purple;">Unterzeichner Nummer</mark> - _Zuordnung der Unterzeichner innerhalb der jeweiligen Internen bzw. Externen Unterzeichner_
+* <mark style="background-color:orange;">Feldart</mark>
+  * Unterschrift
+  * Unterschriftsdatum _- Das aktuelle Datum_
+  * Datum
+  * Name
+  * Checkbox
+  * Text
+  * Email
+  * Initialen _- Die jeweils ersten Buchstaben des Vor- und Nachnamens (z.B. bei Erika Mustermann: EM)_
+* <mark style="background-color:green;">Feld Nummer</mark> _- Zuordnung der Felder innerhalb der jeweiligen Feldarten_
+* <mark style="background-color:red;">Feldeigenschaft</mark>
+  * \* _- Das Feld muss zwingend ausgefüllt werden_
+  * ? _- Das Feld kann ausgefüllt werden_
 
 Dies muss in dem folgendem Syntax zusammengesetzt werden (die einzelnen Bestandsteile sind farblich markiert), hier z.B. für das erste Unterschriftsfeld für den ersten internen Unterzeichner:
 
@@ -78,78 +78,71 @@ Die Anchor Tags sollten mit weißer Schrift in den Dokumenten hinterlegt werden,
 
 ### Einrichten und Versenden von Dokumenten
 
-1. Mietvertragsauswahl
-   1. **Modul Mietvertrag** auswählen und dann in der Suchleiste den betroffenen Mietvertrag eingeben
-2. Archivieren des Vertrags
-   1. klicken Sie auf oben rechts auf **Dokumente** und dann **Archivieren**
-   2.  Dokumententyp **Mietvertrag** auswählen:\
+#### 1. Serienbrief Erstellung&#x20;
 
+1. Gehen Sie auf **Mietenbuchhaltung** > **Stammdaten** > **Mietvertrag**
+2. Wählen Sie im Kopf-Menü **Dokumente > Schriftverkehr**.
+3. Wählen Sie nun unter **Dokumente > Schriftverkehr > Anschreiben** die Anschreibeart **Mietvertrag** aus.
+4. Laden Sie den Mietvertrag.
+5. Wählen Sie unter  **Dokumente > Schriftverkehr > Archivierung**  bei **„Auswahl Dokumententyp für Serienbrief**“ die Option **Mietvertrag**.
+6. Setzen Sie einen Haken bei **Serienbrief sofort archivieren**.
+7. Gehen Sie zurück auf **Dokumente > Schriftverkehr > Anschreiben** und wählen Sie **Anschreiben drucken**. Damit wird der Serienbrief erstellt.
 
-       <figure><img src="../../../.gitbook/assets/Group 25.png" alt=""><figcaption></figcaption></figure>
-   3. Auf den Ordner **Dateisyteme** oben in der Leiste klicken und dann Mietvertrag auswählen und dann oben links in der Leiste auf **Archivieren** drücken
-3. Neue Anfrage erstellen
-   1. Klicken Sie oben rechts in der Taskleiste auf **Daten neu** (Symbol mit dem grünen + Zeichen)
-   2. Passen Sie die Unterzeichner an
-   3. Geben Sie: **"$" + "Name"** ein für die Schnellauswahl des internen Unterzeichners
-   4. In dem Feld **neue Aktivität zum Mietvertrag** geben Sie den Betreff für die Anfrage der digitalen Signatur an
-   5. Dann klicken Sie eine Zeile drunter auf **Anhang** du suchen durch die Nummer das Vertragsdokument aus
-   6. Wählen Sie das Dokument aus, durch den Klick auf **Übernehmen**.
-4. Hinzufügen von Anchor Tags
-   1. Klicken Sie auf **Digitale Signatur** rechts unter **Anhang** und dann auf das Kästchen **Signatur**
-      1. Zum Hinzufügen der Unterzeichner klicken Sie auf **Hinzufügen** und wählen Sie dann den Unterzeichner aus
-      2. Ordnen Sie die Unterzeichnern den im Dokument definierten Anchor Tags zu
-   2. Den selben Prozess können Sie dann für die anderen Anchor Tags Feldtypen folgen
-5. Durchführen der Jobplanung
-   1. Wählen Sie das Modul **Job Planung** aus
-   2. Gehen Sie oben in der Taskleiste auf **die Lupe** und suchen Sie den Jobplanungseintrag **(DS Anchortags)** in der Tabelle
-   3. Geben Sie den Auftrag bei dem Kästchen **Status** frei.
-   4. Legen Sie den Zeitpunkt der Ausführung fest
-   5. Klicken Sie dann auf **Speichern**
-   6. Somit wird das Dokument zum geplanten Zeitpunkt per Scrive an die angegebene E-Mail-Adressen versendet
-6.
+#### **2. Dokument-ID ermitteln**
 
-    <figure><img src="../../../.gitbook/assets/Group 26.png" alt=""><figcaption></figcaption></figure>
+1. Kehren Sie zum Menü **Mietenbuchhaltung** > **Stammdaten** > **Mietvertrag** zurück.
+2. Wählen Sie oben **Dokumente > Recherche**.
+3. Unter **Dokumententyp** wählen Sie **Mietvertrag** und geben das Erstellungsdatum ein.
+4. Klicken Sie auf **Ausführen** und notieren Sie sich die Dokumentennummer des passenden Dokuments.
 
-#### Vor-Ort-Unterschrift
+#### 3.  Aktivität anlegen
 
-Um die Vor-Ort-Unterschrift zu nutzen, müssen diese zwei Schritte befolgt werden:
+1. Gehen Sie zurück auf den Mietvertrag und wählen Sie oben **Daten > Aktivitäten > Neu**.
+2. **Anfrage für Digitale Signatur** sollte nun ausgewählt sein.
+3. Wählen Sie **Daten** > **Anhang**.
+4. Geben Sie die notierte Nummer ein und klicken Sie auf **Suchen**.
+5. Neben **Dokumentauswahl** klicken Sie auf das **+** und dann auf **Übernehmen**.
+6. Unter **Digitale Signaturanker** sehen Sie das automatische Auslesen und die Zuordnung der Anchors
+7. Geben Sie einen Betreff für die Aufgabe ein.
+8. _Optional:_ Geben Sie unter **Email-Adresse für vor Ort Unterschrift** eine E-Mail Adresse (z.B. E-Mail die auf einem iPad angezeigt wird) ein, damit ein Mieter direkt vor Ort unterschreiben kann. Fügen Sie hinter dem Unterzeichner-Tag des Mieters ein Komma, ein Leerzeichen und „vor Ort“ ein.
+   * Mehr Details zur [#vor-ort-unterschrift](../scrive-technologie-partner.md#vor-ort-unterschrift "mention")
+9. Wählen Sie eine Authentifizierungsart unter **Authentifizierung zum Signieren**
+10. Klicken Sie auf **Speichern**, um die Aktivität abzuspeichern und das Dokument zu versenden.
 
-1. Tragen Sie eine E-Mail Adresse in dem Feld **E-Mail Adresse für Vor-Ort-Unterschrift** ein
-2. Tragen sie ein **,** am Ende (hinter der Telefonnummer) der Unterzeichner ein die vor Ort unterschreiben sollen
-   1. Somit wird automatisch **, vor Ort** hinter die jeweiligen Unterzeichner geschrieben
+#### 4. Versenden des Dokumente
 
-### Empfangen und Sichten von unterschriebenen Dokumenten
+Das Dokument wird mit der nächsten geplanten Ausführung des Arbeitsauftrags ([#arbeitsauftraege-einrichten](wodis-sigma.md#arbeitsauftraege-einrichten "mention")) versendet.
 
-1. Durchführung der Job Planung zum Einholen der Vertragsdaten
-   1. Wählen Sie das Modul **Job Planung** aus
-   2. Suchen Sie den Jobplanungseintrag **DS Anchortags** abholen
-   3. Setzten Sie den **Status** auf Freigeben
-   4. Legen Sie den Zeitpunkt der Ausführung fest
-   5. Klicken Sie dann auf **Speichern**
-2. Durchsicht des signierten Dokuments
-   1. Klicken Sie rechts neben dem Reiter Aufgaben **auf Anhang**
-   2. Klicken Sie auf das zutreffende Dokument
-   3. Klicken Sie dann oben in der Taskleiste **auf Anhänge**
-   4. Wählen Sie das Dokument per Klick aus
+Alternativ kann der Arbeitsauftrag auch ad-hoc ausgeführt werden:
 
-## Erfolgskontrolle der Durchführung des Jobs
+1. Gehen Sie zu **Zentrale Funktionen > Job Planung** und wählen Sie die entsprechende Aktivität aus.
+2. Setzen Sie unter **Zeitplan** > **nächste Ausführung** eine zeitnahe Uhrzeit und den Status auf **Freigegeben**.
+3. Klicken Sie auf **Speichern**
 
-Falls Sie ungewöhnlich lange auf ein Dokument warten oder eine Fehlermeldung in der Job Durchführung erhalten haben, können Sie wie folgt Erfolgskontrollen durchführen.
+#### 5.  Abholen des unterschrieben Dokuments
 
-### Erfolgskontrolle im Job
+1. Mit der Ausführung der Aktivität **Digitale Signatur Scrive abholen**, werden alle unterschriebenen Dokumente abgeholt
+   1. Alternativ kann der Arbeitsauftrag auch wie in [#id-4.-versenden-des-dokumente](wodis-sigma.md#id-4.-versenden-des-dokumente "mention") ad-hoc gestartet werden
+2. In der Aktivitätenliste (**Mietvertrag > Daten** > **Listen**) können Sie eine Übersicht aller Aktvitäten einsehen.
+3. Im Anhang der Digitalen Unterschriftsaktivität befindet sich das unterschriebene Dokument mit dem Siegel von Scrive.
 
-1. Klicken Sie auf Meldung: **(Uhrzeit) Der Job (…) wurde erfolgreich beendet.**
-2. Klicken Sie auf **Report anzeigen**
-3. Fehlerkontrolle, wenn bei Ihnen steht kein Fehler wurde das Dokument erfolgreich gesendet.
-4. Kontrollieren Sie, ob der Job erfolgreich durchgeführt worden ist in dem Sie auf “der Job wurde erfolgreich beendet” klicken und dann auf Report anzeigen
-5. Kontrollieren Sie die Anzahl der Signierten Dokumente und ob der Signaturprozess erfolgreich durchgeführt worden ist. Dies ist der Fall, wenn in den Meldungen der Satz: (Fehler: Kein Fehler steht)
+{% hint style="info" %}
+Die Aktivitäten Erstellung erfolgt immer in dem Mietvertrag, von dort können ebenfalls Dokumente versendet werden die in einem anderem Modul erstellt wurden.
+{% endhint %}
 
-### Erfolgskontrolle im Mietvertrag
+**Schritte zur Erstellung eines nicht-Mietvertrag Dokuments am Beispiel Kautionsvertrag**
 
-1. Wählen Sie das Modul Mietvertrag aus
-2. Wählen Sie den passenden Mietvertrag aus
-3. Klicken Sie oben rechts in der Taskleiste auf Liste
-4. Klicken Sie rechts neben dem Mietvertrag auf **Aktivitätenmanagement**
-5. Wählen Sie die zutreffende Aktivität aus und klicken SIe auf **den Eintrag**
-6. Klicken Sie in dann oben links auf **Aufgabe**
-7. Kontrollieren Sie, ob der Signaturprozess erfolgreich durchgeführt worden ist
+1. **Schriftverkehr erstellen**:
+   * Gehen Sie in das Modul, das für Kautionsverträge vorgesehen ist.
+   * Erstellen Sie den Schriftverkehr für den Kautionsvertrag. Dieser Schritt erfolgt ähnlich wie bei einem Mietvertrag. Beachten Sie, dass die Benutzeroberfläche hier leicht abweichend gestaltet ist.
+2. #### **Dokument-ID ermitteln**
+   * Ermitteln Sie die ID des erstellten Dokument, genau wie Sie es bei einem Mietvertrag tun würden.
+
+**Integration mit Mietvertrag**
+
+3. **Aktivität im Mietvertrag anlegen**:
+   * Erstellen Sie nun eine Aktivität im Mietvertrag-Modul.
+   * Wählen Sie dabei das zuvor archivierte Kautionsvertrags-Dokument aus.
+4. **Bündelung der Dokumente**:
+   * Der Ablauf sieht vor, dass Sie zunächst alle benötigten Dokumente in ihren jeweiligen Modulen erstellen.
+   * Anschließend senden Sie diese Dokumente gebündelt über das Mietvertrag-Modul.

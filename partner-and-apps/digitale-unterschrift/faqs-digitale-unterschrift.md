@@ -72,6 +72,16 @@ Jede Vertragspartei durchläuft den Unterschriftsprozess individuell. Dadurch k�
 
 <details>
 
+<summary><strong>Wie viele Unterzeichner können je Dokument hinterlegt werden?</strong></summary>
+
+Es können theoretisch unbegrenzt Unterzeichner eingetragen werden. Das Produkt wurde ausgibig für bis zu 10 Unterzeichnern getestet. Bei deutlich mehr Unterzeichnern könnte es zu zu langen Wartezeiten der Job Bearbeitung kommen, sodass diese abbricht.
+
+Dabei muss jeder Unterzeichner eine andere E-Mail-Adresse besitzen, da diese als eindeutige Identifizierung dient.
+
+</details>
+
+<details>
+
 <summary>Welche Dokumente können digital unterschrieben werden?</summary>
 
 Komplett integriert können je nach ERP entweder alle Dokumente oder Dokumente die auf Mietverträgen basieren unterschrieben werden, weiter Details:[#funktionsumfang-und-roadmap-je-erp](erps/#funktionsumfang-und-roadmap-je-erp "mention").
