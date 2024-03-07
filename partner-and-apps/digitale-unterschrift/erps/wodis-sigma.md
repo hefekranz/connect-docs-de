@@ -67,7 +67,7 @@ Das dritte optionale E-Mail Feld für den zweiten externen Unterzeichner muss en
 DU.<mark style="background-color:blue;">Extern</mark>.<mark style="background-color:purple;">02</mark>.<mark style="background-color:orange;">Email</mark>.<mark style="background-color:green;">03</mark><mark style="background-color:red;">?</mark>
 
 {% hint style="warning" %}
-Der Syntax muss genau befolgt werden, damit die Anchor Tags ausgelesen werden können.
+Der Syntax muss genau befolgt werden (inkl. Groß- und Kleinschreibung), damit die Anchor Tags ausgelesen werden können.
 
 Alle Anchor Tags müssen mit **DU.** starten.
 {% endhint %}
