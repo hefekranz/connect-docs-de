@@ -115,3 +115,35 @@ Damit die Synchronisation von Meldungen, Formularen und Kontaktänderungen im ER
 **Achtung**
 
 Je nach Einstellung im ERP kann es vorkommen, dass Meldungen nicht direkt angezeigt werden. Fragen Sie hierzu Ihren ERP berater, wie häufig temporäre Meldungen temporäre Meldungen aus der Datenbank ins ERP übertragen werden.
+
+
+
+### 3. Dokumente
+
+#### Übersicht
+
+* [Allgemeine Informationen](../use-cases/dokumente.md)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1303538867\&fvid=677380363)
+
+#### Entitäten
+
+| ERP       | Spiri.Bo  |
+| --------- | --------- |
+| Archive   | N/A       |
+| Ordner    | N/A       |
+| Dokumente | Dokumente |
+
+#### Einstellungen
+
+Im Zuge der Aktivierung des Dokumenten Use Cases, können Sie folgende Einstellungen nutzen:
+
+<table><thead><tr><th width="151">Name</th><th width="487.33333333333326">Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td>Separator für zusammengesetzte IDs</td><td>Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind.</td><td><code>-</code>, <code>_</code>, <code>.</code>, <code>/</code>, <code>|</code></td></tr><tr><td>Relevante Archiv IDs </td><td>IDs der Archive von welchen Dokumente übertragen werden sollen. </td><td></td></tr><tr><td>Wirtschaftseinheits Index ID</td><td>Index ID der Wirtschaftseinheitsnummer. </td><td></td></tr><tr><td>Gebäude Index ID</td><td>Index ID der Gebäudenummer. </td><td></td></tr><tr><td>Verwaltungseinheits Index ID</td><td>Index ID der Verwaltungseinheitsnummer. </td><td></td></tr><tr><td>Mietvertrags Index ID</td><td>Index ID der Mietvertragsnummer. </td><td></td></tr></tbody></table>
+
+#### Voraussetzungen
+
+* Indexe für Stammdatennummern müssen gesetzt sein
+
+#### Besonderheiten
+
+* Der Use Case enthält 2 Integrationen die beide aktiviert werden müssen&#x20;
+
