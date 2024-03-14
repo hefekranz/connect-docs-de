@@ -56,6 +56,22 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 * Es werden nur Mieter und Eigentümer mit einer hinterlegten E-Mail Adresse und Name synchronisiert
 * Es kann nur ein Eigentümer und ein Mieter pro Einheit hinterlegt werden
 
+#### Besonderheiten
+
+* Die Etagennummer wird wie folgt ermittelt:
+
+| Etage/Lage (ERP)                           | Etage (EverReal)     | Beispiel                 |
+| ------------------------------------------ | -------------------- | ------------------------ |
+| Nicht angegeben oder enthält "Erdgeschoss" | 0                    | Erdgeschoss, links -> 0  |
+| Enthält "Keller"                           | -1                   | Keller, links -> -1      |
+| Ist eine Zahle                             | Die Zahl             | 2 -> 2                   |
+| Zahl kann extrahiert werden                | Die extrahierte Zahl | 3. Etage, links -> 3     |
+| Keine Zahlen gefunden                      | 0                    | Dachgeschoss, mitte -> 0 |
+
+{% hint style="info" %}
+Alle Prüfungen sind unabhängig von Groß-und Kleinschreibung und werden in der dargestellten Reihenfolge ausgeführt (d.h. wenn "Erdgeschoss" gefunden wurde, werden die weiteren Prüfungen nicht mehr ausgeführt).
+{% endhint %}
+
 ### 2. Leerstände & Interessenten
 
 #### Übersicht
