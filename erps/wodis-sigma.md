@@ -43,13 +43,14 @@ Nachdem Sie den Aareon Connect Vertrag unterschrieben haben muss die Lizenz noch
 
 * Die Etagennummer (`unit_floor`) wird wie folgt ermittelt:
 
-| Etage/Lage (Wodis Sigma)                   | Etagennummer         | Beispiel                 |
-| ------------------------------------------ | -------------------- | ------------------------ |
-| Nicht angegeben oder enthält "Erdgeschoss" | 0                    | Erdgeschoss, links -> 0  |
-| Enthält "Keller"                           | -1                   | Keller, links -> -1      |
-| Ist eine Zahle                             | Die Zahl             | 2 -> 2                   |
-| Zahl kann extrahiert werden                | Die extrahierte Zahl | 3. Etage, links -> 3     |
-| Keine Zahlen gefunden                      | 0                    | Dachgeschoss, mitte -> 0 |
+| Etage/Lage (Wodis Sigma)    | Etagennummer         | Beispiel                      |
+| --------------------------- | -------------------- | ----------------------------- |
+| Nicht angegeben             | _Leer_               | _Leer_ -> _Leer_              |
+| Enthält "Erdgeschoss"       | 0                    | Erdgeschoss, links -> 0       |
+| Enthält "Keller"            | -1                   | Keller, links -> -1           |
+| Ist eine Zahle              | Die Zahl             | 2 -> 2                        |
+| Zahl kann extrahiert werden | Die extrahierte Zahl | 3. Etage, links -> 3          |
+| Keine Zahlen gefunden       | _Leer_               | Dachgeschoss, mitte -> _Leer_ |
 
 {% hint style="info" %}
 Alle Prüfungen sind unabhängig von Groß-und Kleinschreibung und werden in der dargestellten Reihenfolge ausgeführt (d.h. wenn "Erdgeschoss" gefunden wurde, werden die weiteren Prüfungen nicht mehr ausgeführt).
