@@ -10,8 +10,9 @@ Mehr Details finden Sie im UTS KARTHAGO Handbuch.
 
 ### Allgemein
 
-Bei allen Use Cases werden die Mandanten direkt im ERP System für die Schnittstelle freigegeben.\
-Deswegen, gibt es bei den UTS KARTHAGO Integrationen keine Mandanten Filterung bei der Aareon Connect Aktivierung selber.
+* Bei allen Use Cases werden die Mandanten direkt im ERP System für die Schnittstelle freigegeben.\
+  Deswegen, gibt es bei den UTS KARTHAGO Integrationen keine Mandanten Filterung bei der Aareon Connect Aktivierung selber.
+* In UTS KARTHAGO gibt es keine Wirtschaftseinheiten, entsprechend sind alle Einstellungen dazu in allen Use Cases für UTS KARTHAGO irrelevant
 
 ### Stammdaten
 
@@ -29,7 +30,7 @@ Deswegen, gibt es bei den UTS KARTHAGO Integrationen keine Mandanten Filterung b
 
 #### Besonderheiten
 
-N/A
+* Mietkosten werden bei UTS KARTHAGO nicht übertragen, entsprechend sind alle Einstellungen dazu für UTS KARTHAGO irrelevant
 
 ### Dokumente
 
