@@ -194,6 +194,41 @@ Die Unterzeichner die vor Ort unterschreiben sollen können frei ausgewählt wer
 Somit müssen nicht alle Unterzeichner vor Ort unterschreiben.
 {% endhint %}
 
+## Vertreter Lösung
+
+### ERP Vertreter Lösung
+
+Die nativen Vertreter Lösungen der ERPs können ganz regulär genutzt werden, sodass der Vertreter den Aktivitäten der vertretenden Person zugeordnet ist und diese somit nachverfolgen kann.
+
+### Weiterleitung / Ändern des Unterzeichners bei aktiven Prozessen
+
+Wenn Sie den Vertreter erst nach dem Versenden des Dokuments benennen können, können sie die Weiterleitung Aktivieren.
+
+#### Einstellungsmöglichkeiten
+
+Bei der [#aktivierung-in-aareon-connect](scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") können Sie folgende Einstellungen vornehmen, diese gilt für alle Dokumente die über die Digitale Unterschrift versendet werden:
+
+<figure><img src="../../.gitbook/assets/image (40).png" alt="" width="563"><figcaption><p>Weiterleitungseinstellungen bei der Aktivierung in Aareon Connect</p></figcaption></figure>
+
+| Name                      | Beschreibung                                                                                       | Optionen                                                                                                               |
+| ------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Weiterleitung erlaubt für | Wenn keine Option ausgewählt ist, wird  `Nicht erlaubt` genutzt.                                   | <ul><li>Nicht erlaubt</li><li>Interne Unterzeichner</li><li>Externe Unterzeichner</li><li>Alle Unterzeichner</li></ul> |
+| Interne E-Mail Domain     | Ihre E-Mail Domain, damit zwischen internen und externen Unterzeichnern unterschieden werden kann. |                                                                                                                        |
+
+#### Ablauf der Weiterleitung bei Scrive
+
+Der initial hinterlegte Unterzeichner erhält ganz regulär das Dokument zum Zeichnen via E-Mail.
+
+Nach dem Öffnen des Dokuments kann eine Weiterleitung ganz unten auf dem Dokument mit **Weiterleiten an eine andere Partei** eingerichtet werden:
+
+<figure><img src="../../.gitbook/assets/image (41).png" alt="" width="563"><figcaption><p><strong>Weiterleiten an eine andere Partei</strong> Option</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (42).png" alt="" width="375"><figcaption><p>Weiterleiten Dialog</p></figcaption></figure>
+
+{% hint style="info" %}
+Damit Sie dies auch während einer unerwarteten Abwesenheit des Unterzeichners einstellen können, empfehlen wir, dass Sie Dokumente, welche häufiger durch einen Vertreter unterzeichnet werden, an ein allgemeines Postfach senden, sodass auch der Vertreter Zugriff auf die E-Mails hat und über die Weiterleitungsfunktion den neuen Unterzeichner Namen eintragen kann.
+{% endhint %}
+
 ## Standalone - Nutzung ohne ERP System
 
 Sie können Scrive auch direkt in der Scrive Oberfläche nutzen, dies ist in folgenden Fällen hilfreich:
