@@ -245,6 +245,10 @@ Um diese Funktion zu aktivieren, müssen Sie die Integration **Digitale Untersch
 
 Dabei müssen Sie ihre Ihre interne E-Mail Domain angeben (z.B. `@wohnungs-unternehmen.de`), damit zwischen internen und externen Unterzeichnern unterschieden werden kann.
 
+{% hint style="info" %}
+Diese Prüfung läuft automatisch alle 24 Stunden.
+{% endhint %}
+
 ## Standalone - Nutzung ohne ERP System
 
 Sie können Scrive auch direkt in der Scrive Oberfläche nutzen, dies ist in folgenden Fällen hilfreich:
