@@ -33,7 +33,7 @@ Nachdem Sie den Aareon Connect Vertrag unterschrieben haben muss die Lizenz noch
 15. Verschieben Sie das Modul **Integrations Platform as a Service** mit dem Einzelpfeil von links nach rechts\
 
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 ## Use Cases
 

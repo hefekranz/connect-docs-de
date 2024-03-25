@@ -229,6 +229,22 @@ Nach dem Öffnen des Dokuments kann eine Weiterleitung ganz unten auf dem Dokume
 Damit Sie dies auch während einer unerwarteten Abwesenheit des Unterzeichners einstellen können, empfehlen wir, dass Sie Dokumente, welche häufiger durch einen Vertreter unterzeichnet werden, an ein allgemeines Postfach senden, sodass auch der Vertreter Zugriff auf die E-Mails hat und über die Weiterleitungsfunktion den neuen Unterzeichner Namen eintragen kann.
 {% endhint %}
 
+## Unterschriftsreihenfolge
+
+Sie können die Unterschriftsreihenfolge der Unterzeichner festlegen, sodass z.B. externe Unterzeichner zu erst unterschreiben müssen, bevor die internen Unterzeichner die Unterzeichnungsaufforderung per E-Mail erhalten.
+
+Dabei können mehrere Unterzeichner die selbe Reihenfolge haben, z.B. können zweit externe Unterzeichner die Reihenfolge 1 haben und der interne Unterzeichner die Reihenfolge 2, somit müssen die externen Unterzeichner nicht auf die Unterschrift des jeweils anderen externen Unterzeichners warten und im Anschluss kann der interne Unterzeichner unterzeichnen.
+
+### Erinnerung nach Unterzeichnung von externen Unterzeichnern (Temporäre Alternative für WODIS ERPs)
+
+Da in den WODIS ERPs die Unterschriftsreihenfolge aktuell noch in Planung ist (mehr Details:[#funktionsumfang-und-roadmap-je-erp](erps/#funktionsumfang-und-roadmap-je-erp "mention")), wird dort, als temporäre Alternative, die Funktion angeboten, dass interne Unterzeichner nach der Unterzeichnung aller externen Unterzeichner eine Erinnerung erhalten, sodass diese automatisch benachrichtigt werden, sobald sie unterzeichnen sollen:
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Um diese Funktion zu aktivieren, müssen Sie die Integration **Digitale Unterschrift - Erinnerung nach Unterzeichnung von externen Unterzeichnern** ähnlich wie in [#aktivierung-in-aareon-connect](scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") beschrieben aktivieren.
+
+Dabei müssen Sie ihre Ihre interne E-Mail Domain angeben (z.B. `@wohnungs-unternehmen.de`), damit zwischen internen und externen Unterzeichnern unterschieden werden kann.
+
 ## Standalone - Nutzung ohne ERP System
 
 Sie können Scrive auch direkt in der Scrive Oberfläche nutzen, dies ist in folgenden Fällen hilfreich:
