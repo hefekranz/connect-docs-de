@@ -41,6 +41,7 @@ Nachdem Sie den Aareon Connect Vertrag unterschrieben haben muss die Lizenz noch
 
 #### Besonderheiten
 
+* Die Synchronisierung der Daten in das Partnersystem erfolgt jeden Sonntag, Dienstag, und Donnerstag
 * Die Etagennummer (`unit_floor`) wird wie folgt ermittelt:
 
 | Etage/Lage (Wodis Sigma)    | Etagennummer         | Beispiel                      |
