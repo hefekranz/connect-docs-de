@@ -19,29 +19,32 @@ Bots4You bietet K.I.-gestützte Chatbots und Voicebots, die speziell für den Ei
 
 ## Mit Bots4You verbinden
 
-1.
+1. Um einen Bots4You-Use-Case zu nutzen benötigen Sie zur Aktivierung die **Bots4You API Zugangsdaten**. Diese sind folgendermaßen:
+   1. **Username**
+   2. **Passwort**
 
 ## Use Cases
 
-### 1.
+### 1. Stammdaten
 
 #### Übersicht
 
-*
-*
+* [Allgemeine Informationen](https://connect-docs-de.locoia.com/use-cases/stammdaten)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
 #### Entitäten
 
-| ERP | AktivBo Analytics |
-| --- | ----------------- |
-|     |                   |
-|     |                   |
-|     |                   |
-|     |                   |
-|     |                   |
+| ERP                                                                         | Boty   |
+| --------------------------------------------------------------------------- | ------ |
+| [Mieter](https://connect-docs-de.locoia.com/entitaeten/mieter)              | Mieter |
+| [Mietverträge](https://connect-docs-de.locoia.com/entitaeten/mietvertraege) | Mieter |
 
 #### Einstellungen
 
+Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellungen nutzen:
 
+| **Name**          | **Beschreibung**                                                    | **Optionen** |
+| ----------------- | ------------------------------------------------------------------- | ------------ |
+| Mandanten Nummern | Es werden nur Daten für die eingetragenen Mandanten synchronisiert. |              |
 
-#### Voraussetzungen
+\
