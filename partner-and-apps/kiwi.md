@@ -12,7 +12,7 @@ description: KIWI - das digitale Schließsystem für die Wohnungswirtschaft
 
 ## Beschreibung
 
-KIWI bietet einfachen digitalen Zugang für Mehrfamilienhäuser. Wir machen physische Schlüssel für Wohnungsbaugesellschaften für alle Türen und Anwendungsfälle überflüssig und reduzieren so die Kosten, während wir gleichzeitig die Sicherheit und den Komfort erhöhen.
+KIWI bietet einfachen digitalen Zugang für Mehrfamilienhäuser. Wir machen physische Schlüssel für Wohnungsbaugesellschaften für alle Türen und Anwendungsfälle überflüssig und reduzieren so die Kosten, während wir gleichzeitig die Sicherheit und den Komfort erhöhen. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei KIWI.
 
 ## Mit KIWI verbinden
 

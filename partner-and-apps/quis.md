@@ -15,7 +15,7 @@ description: >-
 
 ## Beschreibung
 
-QUIS ist entstanden aus der Analyse & Konzepte Beratungsgesellschaft und nutzt seine über 25-jährige Erfahrung am Wohnungsmarkt und unzählige Standortgutachten für die Wohnungswirtschaft, um datengestützte Softwarelösungen (SaaS) für Standortbewertungen, Mieten- und Kaufpreisanalysen und prädikative Marktanalysen anzubieten. Unser webbasierter Service bietet täglich Insights zu mehr als 2,2 Millionen Wohnquartieren in Deutschland und über 500.000 Miet- und Kaufpreisen.
+QUIS ist entstanden aus der Analyse & Konzepte Beratungsgesellschaft und nutzt seine über 25-jährige Erfahrung am Wohnungsmarkt und unzählige Standortgutachten für die Wohnungswirtschaft, um datengestützte Softwarelösungen (SaaS) für Standortbewertungen, Mieten- und Kaufpreisanalysen und prädikative Marktanalysen anzubieten. Unser webbasierter Service bietet täglich Insights zu mehr als 2,2 Millionen Wohnquartieren in Deutschland und über 500.000 Miet- und Kaufpreisen. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei QUIS.
 
 ## Mit QUIS verbinden
 

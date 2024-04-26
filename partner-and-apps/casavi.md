@@ -13,7 +13,7 @@ description: casavi ist die maßgeschneiderte Lösung für Ihr Wohnungsunternehm
 
 ## Beschreibung
 
-casavi ist die zentrale Plattform für die Digitalisierung Ihrer Wohnungsverwaltung. Transparentes und automatisiertes Vorgangsmanagement, ein moderner Markenauftritt, elektronischer Briefversand und die Zentralisierung der Kommunikation innerhalb Ihrer Liegenschaften sind die Grundlage unserer Lösung.
+casavi ist die zentrale Plattform für die Digitalisierung Ihrer Wohnungsverwaltung. Transparentes und automatisiertes Vorgangsmanagement, ein moderner Markenauftritt, elektronischer Briefversand und die Zentralisierung der Kommunikation innerhalb Ihrer Liegenschaften sind die Grundlage unserer Lösung. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei casavi.
 
 ## Mit casavi verbinden
 

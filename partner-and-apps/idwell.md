@@ -13,7 +13,7 @@ description: iDWELL revolutioniert die Servicequalität im Immobilienmanagement
 
 ## Beschreibung
 
-iDWELL hat sich zum Ziel gesetzt, den Digitalisierungstrend in die traditionsreiche Immobilienbranche zu übersetzen und Unternehmen aktiv zu unterstützen, aufwändige Prozesse zu automatisieren. Die durchdachte Softwarelösung schafft Klarheit zwischen Immobilienverwaltungen, MieterInnen/EigentümerInnen und Dienstleistern.
+iDWELL hat sich zum Ziel gesetzt, den Digitalisierungstrend in die traditionsreiche Immobilienbranche zu übersetzen und Unternehmen aktiv zu unterstützen, aufwändige Prozesse zu automatisieren. Die durchdachte Softwarelösung schafft Klarheit zwischen Immobilienverwaltungen, MieterInnen/EigentümerInnen und Dienstleistern. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei iDWELL.
 
 ## Mit iDWELL verbinden
 

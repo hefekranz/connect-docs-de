@@ -13,7 +13,7 @@ description: >-
 
 ## Beschreibung
 
-Seit 2005 stattet Immosolve Wohnungsunternehmen, Genossenschaften und Hausverwaltungen mit hochkonfigurierbaren Software-Lösungen in den Bereichen Interessentenmanagement und Vermietung aus. Bundesweit vertrauen über 150 Unternehmen mit mehr als 1,5 Millionen Wohneinheiten auf Immosolve.
+Seit 2005 stattet Immosolve Wohnungsunternehmen, Genossenschaften und Hausverwaltungen mit hochkonfigurierbaren Software-Lösungen in den Bereichen Interessentenmanagement und Vermietung aus. Bundesweit vertrauen über 150 Unternehmen mit mehr als 1,5 Millionen Wohneinheiten auf Immosolve. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei Immosolve.
 
 ## Mit Immosolve verbinden
 

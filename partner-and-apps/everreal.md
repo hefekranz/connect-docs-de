@@ -13,7 +13,7 @@ description: Die digitale B2B Software für Immobilienvermietung & Verkauf
 
 ## Beschreibung
 
-EverReal ist eine professionelle B2B Software für digitalen Mieterwechsel und Verkauf. Unsere cloudbasierte, modulare Lösung deckt den kompletten Prozess vollständig digital ab, von der Vermarktung über Interessenten- und Bewerbermanagement bis hin zur Vertragsunterzeichnung und Wohnungsübergabe und spart Ihnen bis zu 80% Zeit. Ideal für Immobilienunternehmen mit 25 und mehr Transaktionen/Jahr.
+EverReal ist eine professionelle B2B Software für digitalen Mieterwechsel und Verkauf. Unsere cloudbasierte, modulare Lösung deckt den kompletten Prozess vollständig digital ab, von der Vermarktung über Interessenten- und Bewerbermanagement bis hin zur Vertragsunterzeichnung und Wohnungsübergabe und spart Ihnen bis zu 80% Zeit. Ideal für Immobilienunternehmen mit 25 und mehr Transaktionen/Jahr. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei EverReal.
 
 ## Mit EverReal verbinden
 

@@ -12,7 +12,7 @@ description: Qualität und Effizienz durch Kunden-Insights steuern
 
 ## Beschreibung
 
-AktivBo ist eine auf die Immobilienbranche zugeschnittene Analyseplattform, die es allen in Ihrer Organisation erleichtert, die richtigen Prioritäten zu setzen und bessere Entscheidungen zu treffen. Verfolgen Sie das Erlebnis Ihrer Kund\*innen in Echtzeit, analysieren und steuern Sie dementsprechend. AktivBo bietet Immobilienunternehmen umfassende Unterstützung von der Datenerhebung bis hin zu kundenorientierten Verbesserungen.
+AktivBo ist eine auf die Immobilienbranche zugeschnittene Analyseplattform, die es allen in Ihrer Organisation erleichtert, die richtigen Prioritäten zu setzen und bessere Entscheidungen zu treffen. Verfolgen Sie das Erlebnis Ihrer Kund\*innen in Echtzeit, analysieren und steuern Sie dementsprechend. AktivBo bietet Immobilienunternehmen umfassende Unterstützung von der Datenerhebung bis hin zu kundenorientierten Verbesserungen. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei AktivBo.&#x20;
 
 ## Mit AktivBo Analytics verbinden
 

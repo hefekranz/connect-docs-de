@@ -12,7 +12,7 @@ description: Wir kümmern uns um alle Prozesse und technische Fragen rund um Fö
 
 ## Beschreibung
 
-Mit den Produkten Elevator Hub, Elevator Live und Elevator Managed Services hat Simplifa maßgeschneiderte Lösungen für die Aufzugsbewirtschaftung entwickelt. Grundlage sind modernste IoT-Technologien, durch die das Betreiben von Aufzugsanlagen bewertbar, nachhaltig und kosteneffizient wird. Ergebnis sind höhere Lebensdauer der Aufzüge, vermeidung von Energieverlusten, niedrigere CO2-Bilanz und kostenersparnisse für Eigentümer und Mieter.&#x20;
+Mit den Produkten Elevator Hub, Elevator Live und Elevator Managed Services hat Simplifa maßgeschneiderte Lösungen für die Aufzugsbewirtschaftung entwickelt. Grundlage sind modernste IoT-Technologien, durch die das Betreiben von Aufzugsanlagen bewertbar, nachhaltig und kosteneffizient wird. Ergebnis sind höhere Lebensdauer der Aufzüge, vermeidung von Energieverlusten, niedrigere CO2-Bilanz und kostenersparnisse für Eigentümer und Mieter.  Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei Simplifa.
 
 ## Mit Simplifa verbinden
 

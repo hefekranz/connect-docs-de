@@ -12,7 +12,7 @@ description: Immomio - Die 360° Plattform für die Wohnungswirtschaft
 
 ## Beschreibung
 
-Immomio - Die 360° Plattform für die Wohnungswirtschaft. Von der Neubauprojekt-Vermarktung, über die Bestandsvermietung, den digitalen Mietvertrag bis zur Mieterapp. Mit den digitalen Lösungen von Immomio verbinden Sie alle Prozesse rund um Ihre Wohnungen und Mieter.
+Immomio - Die 360° Plattform für die Wohnungswirtschaft. Von der Neubauprojekt-Vermarktung, über die Bestandsvermietung, den digitalen Mietvertrag bis zur Mieterapp. Mit den digitalen Lösungen von Immomio verbinden Sie alle Prozesse rund um Ihre Wohnungen und Mieter. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei Immomio.
 
 ## Mit Immomio verbinden
 

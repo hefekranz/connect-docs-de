@@ -15,7 +15,7 @@ description: >-
 
 ## Beschreibung
 
-COUNT IT letterscan, ein Produkt von d.velop documents, bietet Dokumentenmanagement-Lösungen speziell für die Immobilien- und Wohnungswirtschaft. Als Produkt eines d.velop Platinum Partners garantiert es Revisionssicherheit und Datenschutzkonformität. Die Software ermöglicht standortunabhängiges Arbeiten und digitale Belegprüfung, erleichtert die Verarbeitung von Rechnungseingängen und vereinfacht Objektübergaben. Darüber hinaus bietet COUNT IT letterscan fortschrittliches Workflowmanagement, um die Effizienz und Organisation im Dokumentenmanagement zu steigern.
+COUNT IT letterscan, ein Produkt von d.velop documents, bietet Dokumentenmanagement-Lösungen speziell für die Immobilien- und Wohnungswirtschaft. Als Produkt eines d.velop Platinum Partners garantiert es Revisionssicherheit und Datenschutzkonformität. Die Software ermöglicht standortunabhängiges Arbeiten und digitale Belegprüfung, erleichtert die Verarbeitung von Rechnungseingängen und vereinfacht Objektübergaben. Darüber hinaus bietet COUNT IT letterscan fortschrittliches Workflowmanagement, um die Effizienz und Organisation im Dokumentenmanagement zu steigern. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei COUNT IT letterscan.
 
 ## Mit COUNT IT letterscan verbinden
 

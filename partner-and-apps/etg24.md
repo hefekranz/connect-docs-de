@@ -13,7 +13,7 @@ description: Das Onlineportal für ganzheitlich Optimierung von Prozessen
 
 ## Beschreibung
 
-etg24 ist das Onlineportal für Immobilienverwaltungen, die bereit dafür sind Prozesse ganzheitlich zu optimieren und gleichzeitig ihren Kunden modernen sowie begeisternden Service bieten möchten. Mithilfe der bereits langjährig im Verwalteralltag bewährten Cloud-Lösung ist es möglich, Arbeitsprozesse ins digitale Zeitalter zu heben. Verwaltungsmitarbeiter und Kunden benötigen für die Nutzung von etg24 nur einen Web-Browser oder die mobile App.
+etg24 ist das Onlineportal für Immobilienverwaltungen, die bereit dafür sind Prozesse ganzheitlich zu optimieren und gleichzeitig ihren Kunden modernen sowie begeisternden Service bieten möchten. Mithilfe der bereits langjährig im Verwalteralltag bewährten Cloud-Lösung ist es möglich, Arbeitsprozesse ins digitale Zeitalter zu heben. Verwaltungsmitarbeiter und Kunden benötigen für die Nutzung von etg24 nur einen Web-Browser oder die mobile App. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei etg24.
 
 ## Mit etg24 verbinden
 

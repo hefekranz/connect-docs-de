@@ -13,7 +13,7 @@ description: Anfragen schneller, transparenter und nachhaltiger Bearbeiten
 
 ## Beschreibung
 
-facilioo erweitert die bestehenden Aareon Connect Produkte für die Wohnungswirtschaft und erfüllt die Bedürfnisse von Mietern, Mitgliedern und Mitarbeitern. Von Funktionen wie Vorgangsmanagement und Visualisierung von Verbräuchen bis Mieterkommunikation bietet facilioo eine Vielzahl von praxisnahen Lösungen.
+facilioo erweitert die bestehenden Aareon Connect Produkte für die Wohnungswirtschaft und erfüllt die Bedürfnisse von Mietern, Mitgliedern und Mitarbeitern. Von Funktionen wie Vorgangsmanagement und Visualisierung von Verbräuchen bis Mieterkommunikation bietet facilioo eine Vielzahl von praxisnahen Lösungen. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei facilioo.
 
 ## Mit facilioo verbinden
 

@@ -14,7 +14,7 @@ description: >-
 
 ## Beschreibung
 
-Yarowa ist eine SaaS-Lösung, die speziell für Immobilienunternehmen entwickelt wurde, um das Dienstleister- und Auftragsmanagement zu digitalisieren und zu professionalisieren. Die Plattform ermöglicht Immobilienunternehmen, Dienstleister aus ihrem eigenen Netzwerk oder dem von Yarowa basierend auf verschiedenen Kriterien auszuwählen. Sie können Angebote anfordern, vergleichen und Aufträge für Reparaturen und Instandhaltungen vergeben sowie deren Ausführung überwachen. Yarowa erleichtert auch die Prüfung und Freigabe von Rechnungen und bietet eine Plattform, die hohe Sicherheitsstandards erfüllt. Sie ermöglicht den direkten Einbezug von Eigentümern, Asset Managern, Mietern und Dienstleistern, wodurch alle Beteiligten stets über den aktuellen Stand und den Fortschritt der Arbeiten informiert sind.
+Yarowa ist eine SaaS-Lösung, die speziell für Immobilienunternehmen entwickelt wurde, um das Dienstleister- und Auftragsmanagement zu digitalisieren und zu professionalisieren. Die Plattform ermöglicht Immobilienunternehmen, Dienstleister aus ihrem eigenen Netzwerk oder dem von Yarowa basierend auf verschiedenen Kriterien auszuwählen. Sie können Angebote anfordern, vergleichen und Aufträge für Reparaturen und Instandhaltungen vergeben sowie deren Ausführung überwachen. Yarowa erleichtert auch die Prüfung und Freigabe von Rechnungen und bietet eine Plattform, die hohe Sicherheitsstandards erfüllt. Sie ermöglicht den direkten Einbezug von Eigentümern, Asset Managern, Mietern und Dienstleistern, wodurch alle Beteiligten stets über den aktuellen Stand und den Fortschritt der Arbeiten informiert sind. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei Yarowa.
 
 ## Mit Yarowa verbinden
 

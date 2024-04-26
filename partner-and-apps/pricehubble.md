@@ -15,7 +15,7 @@ description: >-
 
 ### Beschreibung <a href="#beschreibung" id="beschreibung"></a>
 
-PriceHubble ist ein B2B-Unternehmen, das innovative digitale Lösungen für die Immobilien- und Finanzwirtschaft entwickelt. Dafür werden mehrere hundert Datenpunkte rund um die Immobilie gesammelt, strukturiert und mit Hilfe von Big Data Analytics, hochmodernen Prognose-Algorithmen, maschinellem Lernen und Künstlicher Intelligenz analysiert. Dies ermöglicht es den Kunden, Immobilien- und Investitionsentscheidungen auf Grundlage präzisester Erkenntnisse (wie etwa Bewertungen, Marktanalysen, Wertprognosen oder Bausimulationen) zu fällen.
+PriceHubble ist ein B2B-Unternehmen, das innovative digitale Lösungen für die Immobilien- und Finanzwirtschaft entwickelt. Dafür werden mehrere hundert Datenpunkte rund um die Immobilie gesammelt, strukturiert und mit Hilfe von Big Data Analytics, hochmodernen Prognose-Algorithmen, maschinellem Lernen und Künstlicher Intelligenz analysiert. Dies ermöglicht es den Kunden, Immobilien- und Investitionsentscheidungen auf Grundlage präzisester Erkenntnisse (wie etwa Bewertungen, Marktanalysen, Wertprognosen oder Bausimulationen) zu fällen. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei PriceHubble.
 
 ### Mit PriceHubble verbinden <a href="#mit-casavi-verbinden" id="mit-casavi-verbinden"></a>
 

@@ -14,7 +14,7 @@ description: >-
 
 ## Beschreibung
 
-Wohnungshelden bildet den kompletten Vermietungsprozess von Anfang bis Ende digital ab – mit Fallbeispielen für jeden Anwendungsbereich. Nutzer können die Vermarktung starten indem sie ihre Objekte vorbereiten. Dies beinhaltet zum Beispiel die Erstellung von 360° Rundgängen oder die automatisierte Pflege von Bildern und Texten. Die Objekte können dann auf diversen Portalen veröffentlicht werden, um passgenaue Interessenten zu finden.
+Wohnungshelden bildet den kompletten Vermietungsprozess von Anfang bis Ende digital ab – mit Fallbeispielen für jeden Anwendungsbereich. Nutzer können die Vermarktung starten indem sie ihre Objekte vorbereiten. Dies beinhaltet zum Beispiel die Erstellung von 360° Rundgängen oder die automatisierte Pflege von Bildern und Texten. Die Objekte können dann auf diversen Portalen veröffentlicht werden, um passgenaue Interessenten zu finden. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei Wohnungshelden.
 
 ## Mit Wohnungshelden verbinden
 

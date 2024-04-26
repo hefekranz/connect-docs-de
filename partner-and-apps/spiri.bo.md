@@ -15,7 +15,7 @@ description: >-
 
 ## Beschreibung
 
-Spiri.Bo ist ein PropTech-Unternehmen der meravis Immobiliengruppe. Spiri.Bo digitalisiert die Wohnungswirtschaft für Mieterservice der begeistert. Spiri.Bo's Kern-Produkt ist die Spiri.Bo Mieterapp als All-In-One-Lösung:
+Spiri.Bo ist ein PropTech-Unternehmen der meravis Immobiliengruppe. Spiri.Bo digitalisiert die Wohnungswirtschaft für Mieterservice der begeistert. Spiri.Bo's Kern-Produkt ist die Spiri.Bo Mieterapp als All-In-One-Lösung. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei Spiri.Bo.
 
 ## Mit Spiri.Bo verbinden
 

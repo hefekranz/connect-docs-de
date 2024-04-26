@@ -10,12 +10,12 @@ description: >-
 ## Übersicht
 
 * **Kategorien**: [Mieterkommunikation](../kategorien/mieterkommunikation.md), [Reporting](../kategorien/reporting.md), [Dokumentenmanagement](../kategorien/dokumentenmanagement.md)
-* **Use Cases**:&#x20;
+* **Use Cases**: [Stammdaten](../use-cases/stammdaten.md)
 * **Marketplace**: [Bots4You](https://marketplace.aareon.com/de/listings/bots4you)
 
 ## Beschreibung
 
-Bots4You bietet K.I.-gestützte Chatbots und Voicebots, die speziell für den Einsatz im Immobilienmanagement entwickelt wurden. Diese Technologie zielt darauf ab, die Kommunikation zwischen Immobilienunternehmen und ihren Kunden oder Mitarbeitern zu verbessern. Die Plattform von Bots4You, die keine Programmierkenntnisse erfordert, ermöglicht es Nutzern, K.I.-Lösungen einfach zu implementieren. Die Bots sind mehrsprachig, anpassbar und können auf verschiedenen Plattformen wie Websites oder als Telefon-Assistenten eingesetzt werden, wobei sie stets datenschutzkonforme Richtlinien befolgen. Durch die Integration mit internen Systemen der Unternehmen können die Bots effektiv Informationen austauschen, wodurch Prozesse optimiert und die Kundenzufriedenheit potenziell gesteigert wird. Bots4You bietet somit eine Vielzahl von Anwendungsmöglichkeiten für die interne und externe Kommunikation im Immobiliensektor.
+Bots4You bietet K.I.-gestützte Chatbots und Voicebots, die speziell für den Einsatz im Immobilienmanagement entwickelt wurden. Diese Technologie zielt darauf ab, die Kommunikation zwischen Immobilienunternehmen und ihren Kunden oder Mitarbeitern zu verbessern. Die Plattform von Bots4You, die keine Programmierkenntnisse erfordert, ermöglicht es Nutzern, K.I.-Lösungen einfach zu implementieren. Die Bots sind mehrsprachig, anpassbar und können auf verschiedenen Plattformen wie Websites oder als Telefon-Assistenten eingesetzt werden, wobei sie stets datenschutzkonforme Richtlinien befolgen. Durch die Integration mit internen Systemen der Unternehmen können die Bots effektiv Informationen austauschen, wodurch Prozesse optimiert und die Kundenzufriedenheit potenziell gesteigert wird. Bots4You bietet somit eine Vielzahl von Anwendungsmöglichkeiten für die interne und externe Kommunikation im Immobiliensektor. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei Bots4You.
 
 ## Mit Bots4You verbinden
 
