@@ -27,7 +27,7 @@ Auf dieser Webseite finden Sie alles technische rund um Aareon Connect und damit
 
 <div data-full-width="true">
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption><p><a href="https://www.youtube.com/watch?v=2DByfCeYRgQ">KLICKEN SIE HIER</a> - Dabei wird YouTube in einem neuem Tab, außerhalb von Aareon Connect, geöffnet</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p><a href="https://www.youtube.com/watch?v=2DByfCeYRgQ">KLICKEN SIE HIER</a> - Dabei wird YouTube in einem neuem Tab, außerhalb von Aareon Connect, geöffnet</p></figcaption></figure>
 
 </div>
 
@@ -35,7 +35,7 @@ Auf dieser Webseite finden Sie alles technische rund um Aareon Connect und damit
 
 <div data-full-width="true">
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption><p><a href="https://www.youtube.com/watch?v=tL99ysI9hBY">KLICKEN SIE HIER</a> - Dabei wird YouTube in einem neuem Tab, außerhalb von Aareon Connect, geöffnet</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p><a href="https://www.youtube.com/watch?v=tL99ysI9hBY">KLICKEN SIE HIER</a> - Dabei wird YouTube in einem neuem Tab, außerhalb von Aareon Connect, geöffnet</p></figcaption></figure>
 
 </div>
 

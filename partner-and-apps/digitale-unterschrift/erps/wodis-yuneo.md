@@ -30,7 +30,7 @@ Nun müssen noch die passenden Arbeitsaufträge angelegt werden:
 6. Klicken Sie auf **Speichern**
 7. Wiederholen Sie die Schritte 2-6 für den Arbeitsauftrags-Typ **Digitale Unterschrift - Dokumente empfangen**
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Einmalige Einrichtung je Dokumentvorlage
 

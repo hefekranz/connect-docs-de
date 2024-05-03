@@ -24,7 +24,7 @@ Plentific ist ein Online-Marktplatz für Haus- und Immobilienbesitzer, der es Be
 
 
 
-    <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption><p>Plentific API Schlüssel</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption><p>Plentific API Schlüssel</p></figcaption></figure>
 2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Plentific Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases

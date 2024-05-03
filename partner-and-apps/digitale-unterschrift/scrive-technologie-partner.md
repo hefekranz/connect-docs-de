@@ -38,13 +38,13 @@ Diese Schritte müssen Sie nur einmalig durchführen, um danach die integrierte 
 
 1. Kurz nachdem Sie den Digitalen Unterschrifts-Vertrag abgeschlossen haben, erhalten Sie eine Einladungs-E-Mail wie diese von Scrive:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Nachdem Sie auf **Kontoaktivierung** klicken, können Sie ein Passwort und weitere Informationen hinterlegen:
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="534"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="534"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Im Hintergrund haben wir für Sie nach Vertragsabschluss ein Account bei Scrive angelegt und einen initialen Admin Nutzer erstellt. Dieser initiale Nutzer erhält die gezeigte E-Mail.
@@ -114,7 +114,7 @@ Nachdem Sie die [#initiale-einrichtung-in-scrive](scrive-technologie-partner.md#
 
     1. Wie in [#3.-nutzer-einladen](scrive-technologie-partner.md#3.-nutzer-einladen "mention") beschrieben, empfehlen wir, dass Sie einen Admin Nutzer speziell für die Integration nutzen um Probleme bei z.B. Passwort Änderung eines regulären Nutzers zu vermeiden
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 4. Klicken Sie auf **Autorisieren**
    1. Die Nutzerdaten werden direkt überprüft und bei falschen Informationen erhalten Sie eine Meldung mit weiteren Informationen
 5. Die Integration ist nun aktiviert
@@ -130,7 +130,7 @@ Der Ablauf von QES unterscheidet sich je nachdem, ob QES das erste Mal von den j
 2.  Auf der Seite zum Unterschreiben wird nach der Mobilnummer des Unterzeichners gefragt:\
 
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
     1. Falls die Mobilnummer bereits im ERP hinterlegt ist, wird immer die Mobilnummer aus dem ERP genutzt
 3. Nun wird von Swisscom geprüft, ob die Mobilnummer bereits mit QES registriert wurde, wenn dies _nicht_ der Fall ist, ist, dann geht der Prozess bei [#initiale-nutzung-von-qes-inklusive-registrierung-qes-mit-srs](scrive-technologie-partner.md#initiale-nutzung-von-qes-inklusive-registrierung-qes-mit-srs "mention") weiter, ansonsten geht der Prozess bei [#erneute-nutzung-von-qes](scrive-technologie-partner.md#erneute-nutzung-von-qes "mention") weiter.
@@ -140,7 +140,7 @@ Der Ablauf von QES unterscheidet sich je nachdem, ob QES das erste Mal von den j
 4.  Der Unterzeichner erhält die Möglichkeit sich entweder via Video-Identifikation oder Persönlich auszuweisen:\
 
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Alle weiteren beschriebenen Prozessschritte basieren auf der Auswahl von **Video-Identifikation**
@@ -239,7 +239,7 @@ Dabei können mehrere Unterzeichner die selbe Reihenfolge haben, z.B. können zw
 
 Da in den WODIS ERPs die Unterschriftsreihenfolge aktuell noch in Planung ist (mehr Details:[#funktionsumfang-und-roadmap-je-erp](erps/#funktionsumfang-und-roadmap-je-erp "mention")), wird dort, als temporäre Alternative, die Funktion angeboten, dass interne Unterzeichner nach der Unterzeichnung aller externen Unterzeichner eine Erinnerung erhalten, sodass diese automatisch benachrichtigt werden, sobald sie unterzeichnen sollen:
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Um diese Funktion zu aktivieren, müssen Sie die Integration **Digitale Unterschrift - Erinnerung nach Unterzeichnung von externen Unterzeichnern** ähnlich wie in [#aktivierung-in-aareon-connect](scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") beschrieben aktivieren.
 

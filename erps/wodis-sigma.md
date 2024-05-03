@@ -1,6 +1,8 @@
 # Wodis Sigma
 
-## Aareon Connect in Wodis Sigma aktivieren (Lizenzen Einlesen)
+## Aareon Connect in Wodis Sigma aktivieren
+
+### 1. Lizenzen Einlesen
 
 Nachdem Sie den Aareon Connect Vertrag unterschrieben haben muss die Lizenz noch in Wodis Sigma eingespielt werden werden:
 
@@ -34,6 +36,28 @@ Nachdem Sie den Aareon Connect Vertrag unterschrieben haben muss die Lizenz noch
 
 
     <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+### 2. Aareon Connect öffnen
+
+Um Aareon Connect in Wodis Sigma zu öffnen und somit Integrationen zu aktivieren müssen Sie auf das **Start** Menü gehen und dort, ganz rechts, auf **Aareon Connect** klicken:
+
+<figure><img src="../.gitbook/assets/Bild.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Wenn der **Aareon Connect** Button ausgegraut ist, sind die Lizenzen noch nicht richtig eingespielt.
+
+Kontaktieren Sie bei Fragen dazu gerne den Wodis Sigma Support.
+{% endhint %}
+
+Dann geht Aareon Connect in einem Browser Fenster auf.
+
+{% hint style="warning" %}
+Wenn die Partner Logos in Aareon Connect nicht angezeigt werden, dann werden diese von Ihrem Server blockiert und es werden ebenfalls andere wichtige Funktionen blockiert.
+
+In dem Fall müssen Sie die Aareon Connect URL kopieren und außerhalb der Wodis Server Umgebung in einem anderem Browser öffnen.
+
+Diese URL ist aus Sicherheitsgründen nur einige Stunden gültig, entsprechend können Sie sich diese _nicht_ abspeichern.&#x20;
+{% endhint %}
 
 ## Use Cases
 

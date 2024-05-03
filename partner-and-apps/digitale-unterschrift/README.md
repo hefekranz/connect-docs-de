@@ -6,7 +6,7 @@ description: Dokumente voll integriert digital unterschreiben
 
 Die Digitale Unterschrift ist eine vollständig integrierte Lösung mit welcher Unterzeichnungs­prozesse digitalisiert und automatisiert werden.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://www.youtube.com/watch?v=StS6iB2DtOM">KLICKEN SIE HIER</a> - Dabei wird YouTube in einem neuem Tab, außerhalb von Aareon Connect, geöffnet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><a href="https://www.youtube.com/watch?v=StS6iB2DtOM">KLICKEN SIE HIER</a> - Dabei wird YouTube in einem neuem Tab, außerhalb von Aareon Connect, geöffnet</p></figcaption></figure>
 
 [Mehr generelle Informationen finden Sie hier](https://www.aareon.de/L%C3%B6sungen/Digitale-Unterschrift.510544.html).
 
