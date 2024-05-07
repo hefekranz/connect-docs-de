@@ -10,7 +10,7 @@ description: >-
 ## Übersicht
 
 * **Kategorien**: [Mieterkommunikation](../kategorien/mieterkommunikation.md), [Reporting](../kategorien/reporting.md), [Dokumentenmanagement](../kategorien/dokumentenmanagement.md)
-* **Use Cases**: [Stammdaten](../use-cases/stammdaten.md)
+* **Use Cases**: [Stammdaten](../use-cases/stammdaten.md), [Tickets](../use-cases/tickets.md)
 * **Marketplace**: [Bots4You](https://marketplace.aareon.com/de/listings/bots4you)
 
 ## Beschreibung
@@ -41,10 +41,38 @@ Bots4You bietet K.I.-gestützte Chatbots und Voicebots, die speziell für den Ei
 
 #### Einstellungen
 
-Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellungen nutzen:
+Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellungen nutzen:\
 
-| **Name**          | **Beschreibung**                                                    | **Optionen** |
-| ----------------- | ------------------------------------------------------------------- | ------------ |
-| Mandanten Nummern | Es werden nur Daten für die eingetragenen Mandanten synchronisiert. |              |
 
-\
+### 2. Tickets
+
+
+
+### FAQs
+
+**Wie sind die Authentifizierungsmöglichkeiten?**
+
+Klassische Authentifizierung über Mietvertragsnummer sowie andere gewünschte Parameter (individuell einstellbar). \
+
+
+**Wie kann ich eine Telefonanlage für den VoiceBot verbinden?**
+
+Es gibt folgende Möglichkeiten:
+
+1. Weiterleitung einer Rufnummer and die Rufnummer des Bots. Diese wird von Bots4You eingerichtet.
+2. Man kann zu verschiedenen Telefonzeiten verschiedene Aktionen durchführen, wobei die  Möglichkeiten von der Telefonanlage abhängt.
+
+
+
+**Welche Telefonnummern kann man hinter den VoiceBot schalten?**
+
+1. Mit SIP Trunk kann man die Nummer einer Telefonanlage direkt nutzen.
+2. Ansonsten wird eine Nummer von Bots4You vorgegeben auf diese üblicherweise weitergeleitet.
+
+
+
+**EmailBot: Wie kann dieser mit Outlook verknüpft werden?**
+
+Die Outlook Microsoft Azure App muss verwenden werden.
+
+Neben dem Email-Bot kann man dann zusätzlich selbst schreiben auf z.B. einem Sammelpostfach. Allerdings wird Bots4You die einkommenden E-Mails auslesen und darauf direkt reagieren.
