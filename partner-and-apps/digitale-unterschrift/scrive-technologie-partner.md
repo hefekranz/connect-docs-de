@@ -38,13 +38,13 @@ Diese Schritte müssen Sie nur einmalig durchführen, um danach die integrierte 
 
 1. Kurz nachdem Sie den Digitalen Unterschrifts-Vertrag abgeschlossen haben, erhalten Sie eine Einladungs-E-Mail wie diese von Scrive:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Nachdem Sie auf **Kontoaktivierung** klicken, können Sie ein Passwort und weitere Informationen hinterlegen:
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="534"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="534"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Im Hintergrund haben wir für Sie nach Vertragsabschluss ein Account bei Scrive angelegt und einen initialen Admin Nutzer erstellt. Dieser initiale Nutzer erhält die gezeigte E-Mail.
@@ -114,7 +114,7 @@ Nachdem Sie die [#initiale-einrichtung-in-scrive](scrive-technologie-partner.md#
 
     1. Wie in [#3.-nutzer-einladen](scrive-technologie-partner.md#3.-nutzer-einladen "mention") beschrieben, empfehlen wir, dass Sie einen Admin Nutzer speziell für die Integration nutzen um Probleme bei z.B. Passwort Änderung eines regulären Nutzers zu vermeiden
 
-    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4. Klicken Sie auf **Autorisieren**
    1. Die Nutzerdaten werden direkt überprüft und bei falschen Informationen erhalten Sie eine Meldung mit weiteren Informationen
 5. Die Integration ist nun aktiviert
