@@ -120,6 +120,15 @@ Ja, dies kann man wie [hier beschrieben](https://helpcenter.scrive.com/kb/guide/
 
 </details>
 
+<details>
+
+<summary>Ist es zwingend notwendig, den Mietvertrag sofort zu archivieren oder kann auch nach einer Weiterbearbeitung des Dokumentes archiviert werden?</summary>
+
+Das Dokument muss vor der Nutzung der Digitalen Unterschrift archiviert werden.\
+Nach der initialen Dokument Erstellung können Sie somit eine Weiterbearbeitung vornehmen und das Dokument danach archivieren und dann mit der Digitalen Unterschrift nutzen.
+
+</details>
+
 ## Sicherheitsstufen
 
 <details>
