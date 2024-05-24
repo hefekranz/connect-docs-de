@@ -249,6 +249,25 @@ Dabei müssen Sie ihre Ihre interne E-Mail Domain angeben (z.B. `@wohnungs-unter
 Diese Prüfung läuft automatisch alle 24 Stunden.
 {% endhint %}
 
+## Nutzer Gruppen
+
+Sie können in Scrive Nutzer Gruppen erstellen um die Nutzerverwaltung zu vereinfachen.
+
+Gruppen können verschaltet sein, eine mögliche Struktur wäre somit z.B.:
+
+* Vertrieb
+  * Vertrieb Nord
+  * Vertrieb Süd
+* Administration
+* Vertragsmanagement
+  * Vertragsmanagement Team 1
+  * Vertragsmanagement Team 2
+
+Um Nutzer Gruppen zu erstellen müssen Sie ein E-Mail (auf Englisch) an [support@scrive.com](mailto:support@scrive.com) schreiben und die gewünschte Gruppen Struktur nennen.\
+Der Scrive Support wird die Gruppenstruktur dann für Sie anlegen.
+
+Die Nutzer können Sie dann wie [hier beschrieben](https://helpcenter.scrive.com/kb/guide/en/user-administration-hu176Qf8cO/Steps/1446349,2168971) in die Gruppen einordnen.
+
 ## Standalone - Nutzung ohne ERP System
 
 Sie können Scrive auch direkt in der Scrive Oberfläche nutzen, dies ist in folgenden Fällen hilfreich:
