@@ -91,6 +91,11 @@ Um unterschriebene Dokumente auch außerhalb des ERPs einzusehen oder zu versend
 
 Für die Aktivierung der Digitalen Unterschrift mit Scrive in Aareon Connect, empfehlen wir zudem einen Admin Nutzer anzulegen, welcher nur für die Integration genutzt wird.
 
+{% hint style="info" %}
+Der Name des Nutzers, den sie für die Aktivierung nutzen wird in allen Scrive E-Mails versendet.\
+Deshalb empfehlen wir, den für die Integration erstellten Admin-Nutzer mit Ihrem Firmennamen als Vornamen zu benennen und das Feld für den Nachnamen leer zu lassen.
+{% endhint %}
+
 1. Im linken Seitenmenü auf [**Konto** > **Nutzer und Gruppen**](https://scrive.com/new/users) gehen
 2. Oben links **NEUE NUTZER** klicken
 3. Nötige Felder ausfüllen
