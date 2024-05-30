@@ -14,9 +14,12 @@ Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](..
 2. Setzen Sie **Digitale Unterschrift** auf **Konfigurieren**
 3. Wählen Sie **Scrive** bei **Technologiepartner** aus
 4. Tragen sie den **Benutzernamen**, **Passwort** und **Integrations ID** ein, welche Sie nach der [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") erhalten haben
-5. Klicken Sie auf **Speichern**
+5. Unter der Integrations-ID können Sie bei **Vorbelegung Versandreihenfolge** die standard **Reihenfolge** nach Unterzeichner Gruppe (Intern und Extern) bestimmen, in der die Vertragsparteien unterzeichnen sollen.\
+   Bei **Versand pro Gruppe** können Sie bestimmen, ob alle Unterzeichner der jeweiligen Gruppe **Gleichzeitig** oder basierend auf der Reihenfolge in der Aktivität unterzeichnen sollen.\
+   Diese standard Reihenfolge können Sie, wenn gewünscht, in jedem einzelnem Vorgang überschreiben.
+6. Klicken Sie auf **Speichern**
 
-<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Arbeitsaufträge Einrichten
 
@@ -88,6 +91,9 @@ Bei dem Schriftverkehr Erstellungs-Prozess müssen Sie dafür folgende Dinge bea
 4. In der Sektion **Digitale Signatur** können Sie alle Unterzeichner hinzufügen
    1. Bei **Intern** wählen Sie einen oder mehrere Yuneo Benutzer (Unternehmensinterne Person) aus
    2. Bei **Extern** wählen Sie einen oder mehrere Kontakt(e) aus (externe Personen)
+5. In dem Feld **Reihenfolge** können Sie auswählen, ob Sie Ihre Auswahl aus den Standardeinstellungen übernehmen wollen oder eine andere Reihenfolge bestimmen.
+
+<figure><img src="../../../.gitbook/assets/MicrosoftTeams-image.png" alt=""><figcaption></figcaption></figure>
 
 #### Vor-Ort-Unterschrift
 
