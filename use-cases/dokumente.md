@@ -8,7 +8,7 @@ description: >-
 
 ## Übersicht
 
-* **Interval**: Täglich / Echtzeit
+* **Interval**: 3x pro Woche / Echtzeit
 * **Richtung**: ERP -> Partnersystem
 * **Entitäten**:
   * Archive

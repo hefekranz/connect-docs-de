@@ -8,7 +8,7 @@ description: >-
 
 ## Übersicht
 
-* **Intervall**: Täglich
+* **Intervall**: 3x pro Woche
 * **Richtung**: ERP -> Partnersystem
 * **Entitäten**:
   * [Wirtschaftseinheiten](../entitaeten/wirtschaftseinheiten.md)
