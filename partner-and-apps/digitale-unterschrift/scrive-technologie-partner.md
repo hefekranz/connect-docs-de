@@ -240,9 +240,11 @@ Sie können die Unterschriftsreihenfolge der Unterzeichner festlegen, sodass z.B
 
 Dabei können mehrere Unterzeichner die selbe Reihenfolge haben, z.B. können zweit externe Unterzeichner die Reihenfolge 1 haben und der interne Unterzeichner die Reihenfolge 2, somit müssen die externen Unterzeichner nicht auf die Unterschrift des jeweils anderen externen Unterzeichners warten und im Anschluss kann der interne Unterzeichner unterzeichnen.
 
-### Erinnerung nach Unterzeichnung von externen Unterzeichnern (Temporäre Alternative für WODIS ERPs)
+### Erinnerung nach Unterzeichnung von externen Unterzeichnern
 
-Da in den WODIS ERPs die Unterschriftsreihenfolge aktuell noch in Planung ist (mehr Details:[#funktionsumfang-und-roadmap-je-erp](erps/#funktionsumfang-und-roadmap-je-erp "mention")), wird dort, als temporäre Alternative, die Funktion angeboten, dass interne Unterzeichner nach der Unterzeichnung aller externen Unterzeichner eine Erinnerung erhalten, sodass diese automatisch benachrichtigt werden, sobald sie unterzeichnen sollen:
+Zusätzlich zu der Unterschriftsreihenfolge, bieten wir, optional, die folgende Funktion an:
+
+Nach der Unterzeichnung aller externen Unterzeichner, können die internen Unterzeichner eine Erinnerung erhalten, sodass die internen Unterschriften möglichst zeitnah durchgeführt werden und Sie so Ihre Prozesslaufzeit weiter verringern können.
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt="" width="563"><figcaption></figcaption></figure>
 

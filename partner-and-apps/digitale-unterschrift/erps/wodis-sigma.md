@@ -26,6 +26,12 @@ Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](..
 Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Signatur Tenant Id** können Sie leer lassen.
 {% endhint %}
 
+### Aktivitäten Einrichten
+
+{% hint style="warning" %}
+Dokumentation folgt in Kürze
+{% endhint %}
+
 ### Arbeitsaufträge Einrichten
 
 {% hint style="warning" %}
@@ -88,12 +94,16 @@ Die Anchor Tags sollten mit weißer Schrift in den Dokumenten hinterlegt werden,
 6. Setzen Sie einen Haken bei **Serienbrief sofort archivieren**.
 7. Gehen Sie zurück auf **Dokumente > Schriftverkehr > Anschreiben** und wählen Sie **Anschreiben drucken**. Damit wird der Serienbrief erstellt.
 
-#### **2. Dokument-ID ermitteln**
+#### **2. Dokument-ID ermitteln (**_**optional**_**)**
 
 1. Kehren Sie zum Menü **Mietenbuchhaltung** > **Stammdaten** > **Mietvertrag** zurück.
 2. Wählen Sie oben **Dokumente > Recherche**.
 3. Unter **Dokumententyp** wählen Sie **Mietvertrag** und geben das Erstellungsdatum ein.
 4. Klicken Sie auf **Ausführen** und notieren Sie sich die Dokumentennummer des passenden Dokuments.
+
+{% hint style="success" %}
+Sie können die Dokumenten-ID auch direkt während der Aktivitäten Erstellung in Schritt 4. über verschiedene Filter-Parameter suchen.
+{% endhint %}
 
 #### 3.  Aktivität anlegen
 
