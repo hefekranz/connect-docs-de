@@ -8,7 +8,7 @@ description: >-
 
 ## Übersicht
 
-* **Interval**: 3x pro Woche / Echtzeit
+* **Interval**: Täglich / Echtzeit
 * **Richtung**: ERP -> Partnersystem
 * **Entitäten**:
   * Archive
@@ -23,7 +23,7 @@ description: >-
 
 Der Dokumente Use Case umfasst die Synchronisation von Archiven, Ordnern und Dokumenten in die jeweiligen Partnersysteme.
 
-Dabei werden die Archiv und/oder Ordnerstrukturen aus dem ERP im Partnersystem gespiegelt (Aktualisierung 3x pro Woche).\
+Dabei werden die Archiv und/oder Ordnerstrukturen aus dem ERP im Partnersystem gespiegelt (Tägliche Aktualisierung).\
 Die Dokumenten Speicherung funktioniert je nach Partnersystem unterschiedlich:
 
 1. **Echtzeit-Abruf**: Im Partnersystem werden Datei-Metadaten (z.B. Titel, Erstellungsdatum) abgespeichert und beim Anklicken einer Datei in dem Partnersystem, wird das Dokumente vom jeweiligen ERP in Echtzeit abgerufen und im Partnersystem angezeigt
