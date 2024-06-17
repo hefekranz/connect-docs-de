@@ -19,7 +19,7 @@ Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](..
    Diese standard Reihenfolge können Sie, wenn gewünscht, in jedem einzelnem Vorgang überschreiben.
 6. Klicken Sie auf **Speichern**
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Arbeitsaufträge Einrichten
 

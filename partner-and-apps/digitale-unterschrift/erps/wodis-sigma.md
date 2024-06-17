@@ -28,15 +28,62 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
 
 ### Aktivitäten Einrichten
 
-{% hint style="warning" %}
-Dokumentation folgt in Kürze
-{% endhint %}
+1. Gehen Sie über auf **Aktivitätenmanagement > Stammdaten > Anlage von Aktivitäts-Standardwerten**
+2. Klicken Sie im Reiter **Anlage von Aktivitätstypen** auf das Feld mit dem Typnamen **Aufgabe** und fügen Sie über das Hauptmenü eine neue hinzu.
 
-### Arbeitsaufträge Einrichten
+#### Einrichten der Aktivität "Anfrage Digitale Signatur"
 
-{% hint style="warning" %}
-Dokumentation folgt in Kürze
-{% endhint %}
+1. Setzen Sie im Bereich **Allgemein** den Haken bei **Der Aktivitätstyp gehört zur Kategorie:**
+   1. Wählen Sie anschließend im **Dropdown-Menü** "**Externer Service**" aus
+2. Setzen Sie im Bereich **Vorbelegungen** den Haken bei:
+   1. **Benutze Standard-Betreff für neue Aktivitäten:** und tragen im freien Textfeld der Begriff **Anfrage Digitale Signatur** ein
+   2. **Benutze Informationen über das Stammdatum im Betreff für neue Aktivitäten**
+   3. **Benutze Standard-Fälligkeiten für neue Aktivitäten (in Tagen):** mit einem Interval von **5** Tagen
+3.  Jegliche Haken in den anderen Bereichen wie "Outlook Synchronisation" können Sie entfernen. Ihre Einstellungen sollten nun der Abbildung gleichen:
+
+
+
+    <div align="left">
+
+    <figure><img src="../../../.gitbook/assets/Aktivität Anlagen 1.png" alt="" width="536"><figcaption></figcaption></figure>
+
+    </div>
+
+#### Einrichten der Aktivität "Antwort Digitale Signatur"
+
+1. Setzen Sie im Bereich **Allgemein** den Haken bei **Der Aktivitätstyp gehört zur Kategorie:**
+   1. Wählen Sie anschließend im **Dropdown-Menü** "**Externer Service**" aus
+2. Setzen Sie im Bereich **Vorbelegungen** den Haken bei "**Benutze Informationen über das Stammdatum im Betreff für neue Aktivitäten**"
+3. Alle anderen Haken in den Einstellungen sind zu entfernen. Ihre Einstellungen sollten nun der Abbildung gleichen:
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/Aktivität Anlagen 2.png" alt="" width="548"><figcaption></figcaption></figure>
+
+</div>
+
+### Jobplanung Einrichten
+
+Gehen Sie in den Modulen über **Vorgangsmanagement** in das Fenster **Job Planung**. Hier drücken Sie auf **Neu** und richten die folgenden Jobs ein:
+
+1.  Digitale Unterschrift in Scrive übertragen
+
+    Um die Dokumente versenden zu lassen, geben Sie bitte zunächst die Bezeichnung "**Digitale Unterschrift Scrive verschicken**" ein, anschließend wählen Sie den **Jobtype** "**Aktivitätenmanagemant-DigitaleSignatur-Anfrage**" aus und setzen den **Status** auf "**Freigegeben**"
+
+    Nach unseren **Best Practices** empfehlen wir Ihnen einen **Zeitplan**, der in einem **Intervall** von **12 Stunden** auslöst. Setzen Sie hierfür Ihre Auswahl im **Dropdown-Menü** auf "**Stuendlich**" und bestimmen Sie die Abstände, in denen die Schriftstücke an Scrive übermittelt werden sollen.
+
+    Im nächsten Schritt geben Sie im Bereich **Konfiguration** Ihren Benutzer in Blockschrift bei "**Ausführen als Benutzer:**" an. Den im Vorhinein eingerichteten Parameter "**Digitale Signatur Logins**" mit dem Wert **Scrive** ([siehe hier](wodis-sigma.md#verknuepfung-zwischen-wodis-sigma-und-aareon-connect-herstellen)) fügen Sie bitte in dem Feld unter Ihrem Namen ein. Anschließend **speichern** Sie den Job in der **Hauptmenüleiste**. Die nachfolgende Abbildung unterstütz Sie bei der Einrichtung.
+
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+2.  Digitale Unterschrift aus Scrive in Wodis übertragen
+
+    Zum Empfangen der unterschriebenen Dokumente geben Sie bitte zunächst die Bezeichnung "**Digitale Unterschrift Scrive abholen**" ein, anschließend wählen Sie "**Aktivitätenmanagemant-DigitaleSignatur-Antwort**" als **Jobtype** aus und setzen den **Status** auf "**Freigegeben**"
+
+    Für den Zeitplan können Sie wieder einen **Zeitplan** im **Intervall** von **12 Stunden** erstellen. Setzen Sie hierfür Ihre Auswahl im **Dropdown-Menü** auf "**Stuendlich**" und wählen Ihre präferierte Zeit aus.
+
+    Im nächsten Schritt geben Sie im Bereich **Konfiguration** Ihren Benutzer in Blockschrift bei "**Ausführen als Benutzer:**" an. Im weiteren Prozess fügen Sie Ihren eingerichteten Parameter "**Digitale Signatur Logins**" mit dem Wert **Scrive** ([siehe hier](wodis-sigma.md#verknuepfung-zwischen-wodis-sigma-und-aareon-connect-herstellen)) ein und speichern Ihren  Job im **Hauptmenü.** Ihr fertig eingerichteter Job sollte wie die Abbildung aussehen.
+
+    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Vorbereitung Ihrer Dokumente
 

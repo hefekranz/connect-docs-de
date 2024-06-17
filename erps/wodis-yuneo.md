@@ -17,7 +17,7 @@ Nachdem Sie den Aareon Connect Vertrag unterschrieben haben muss die Lizenz noch
 
 Um Aareon Connect in Wodis Yuneo zu öffnen und somit Integrationen zu aktivieren müssen Sie auf **Fachliche** **Einrichtung** > **Integrationen** > **Aareon Connect** gehen oder alternativ nach **Aareon Connect** in **YuSearch** suchen:
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Somit öffnen sich Aareon Connect direkt in Wodis Yuneo:
 

@@ -13,13 +13,13 @@ Als **DocuSign Bestandskunde** können Sie bis auf weiteres weiterhin DocuSign f
 3. Geben Sie bei der Integration **Digitale Unterschrift mit DocuSign** die Zugangsdaten für den DocuSign Nutzter ein (muss ein Admin Nutzer sein), den Sie für die Integration verwenden möchten
    1.  Wir empfehlen, dass Sie einen Admin Nutzer speziell für die Integration nutzen um Probleme bei z.B. Passwort Änderung eines regulären Nutzers zu vermeiden
 
-       <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 4. Klicken Sie auf **Autorisieren**
    1. Die Nutzerdaten werden direkt überprüft und bei falschen Informationen erhalten Sie eine Meldung mit weiteren Informationen
 5.  Suchen Sie nach dem DocuSign Account Namen den Sie verwenden wollen und suchen Sie den passenden Namen aus der Liste aus.\
     Wenn der Account Name nicht auftaucht, überprüfen Sie, dass Sie den Namen richtig eingegeben haben und das Sie sich in Schritt 4. erfolgreich autorisiert haben.
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 6. Optional: Geben Sie die Bezeichnung der von Ihnen genutzten QES Identitätsüberprüfung an, mehr Details in [#nutzung-von-qes](umstellung-docusign-integration.md#nutzung-von-qes "mention")
 7. Die Integration ist nun aktiviert
 8. Sie erhalten somit in den kommenden Stunden via E-Mail die nötigen Informationen um die Integration im ERP System fertig einzurichten
