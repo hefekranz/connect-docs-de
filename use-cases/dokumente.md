@@ -15,13 +15,14 @@ description: >-
   * Ordner
   * Dokumente
 * **Partner**:
-  * [facilioo.md](../partner-and-apps/facilioo.md "mention")
-  * [idwell.md](../partner-and-apps/idwell.md "mention")
-  * [spiri.bo.md](../partner-and-apps/spiri.bo.md "mention")
+* [casavi.md](../partner-and-apps/casavi.md "mention")
+* [facilioo.md](../partner-and-apps/facilioo.md "mention")
+* [idwell.md](../partner-and-apps/idwell.md "mention")
+* [spiri.bo.md](../partner-and-apps/spiri.bo.md "mention")
 
 ## Beschreibung
 
-Der Dokumente Use Case umfasst die Synchronisation von Archiven, Ordnern und Dokumenten in die jeweiligen Partnersysteme.
+Der Dokumente Use Case umfasst die Synchronisation von Archiven (im Fall von Archiv Kompakt), Ordnern und Dokumenten in die jeweiligen Partnersysteme.
 
 Dabei werden die Archiv und/oder Ordnerstrukturen aus dem ERP im Partnersystem gespiegelt (Tägliche Aktualisierung).\
 Die Dokumenten Speicherung funktioniert je nach Partnersystem unterschiedlich:
