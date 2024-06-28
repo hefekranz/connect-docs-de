@@ -64,26 +64,37 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
 
 ### Jobplanung Einrichten
 
-Gehen Sie in den Modulen über **Vorgangsmanagement** in das Fenster **Job Planung**. Hier drücken Sie auf **Neu** und richten die folgenden Jobs ein:
+1. Gehen Sie in den Modulen über **Vorgangsmanagement** in das Fenster **Job Planung**. Hier richten sie folgende **Jobs neu** ein:
 
-1.  Digitale Unterschrift in Scrive übertragen
+<div align="left">
 
-    Um die Dokumente versenden zu lassen, geben Sie bitte zunächst die Bezeichnung "**Digitale Unterschrift Scrive verschicken**" ein, anschließend wählen Sie den **Jobtype** "**Aktivitätenmanagemant-DigitaleSignatur-Anfrage**" aus und setzen den **Status** auf "**Freigegeben**"
+<figure><img src="../../../.gitbook/assets/image (45).png" alt="" width="235"><figcaption></figcaption></figure>
 
-    Nach unseren **Best Practices** empfehlen wir Ihnen einen **Zeitplan**, der in einem **Intervall** von **12 Stunden** auslöst. Setzen Sie hierfür Ihre Auswahl im **Dropdown-Menü** auf "**Stuendlich**" und bestimmen Sie die Abstände, in denen die Schriftstücke an Scrive übermittelt werden sollen.
+</div>
 
-    Im nächsten Schritt geben Sie im Bereich **Konfiguration** Ihren Benutzer in Blockschrift bei "**Ausführen als Benutzer:**" an. Den im Vorhinein eingerichteten Parameter "**Digitale Signatur Logins**" mit dem Wert **Scrive** ([siehe hier](wodis-sigma.md#verknuepfung-zwischen-wodis-sigma-und-aareon-connect-herstellen)) fügen Sie bitte in dem Feld unter Ihrem Namen ein. Anschließend **speichern** Sie den Job in der **Hauptmenüleiste**. Die nachfolgende Abbildung unterstütz Sie bei der Einrichtung.
+2. **Serienbrief für die Digitale Unterschrift aus Wodis in Scrive übertragen**
+   1. Geben Sie die **Bezeichnung** **"Digitale Unterschrift Scrive verschicken"** ein
+   2. Wählen Sie den **Jobtyp "Aktivitätenmanagement-DigitaleSignatur-Anfrage"** aus
+   3. Setzen Sie den **Status** auf **"Freigegeben"**
+   4. Legen Sie einen **Zeitplan** im Intervall von **12 Stunden** fest:
+      * Wählen Sie im **Dropdown-Menü "Stündlich"** aus und bestimmen Sie die Abstände, in denen die Schriftstücke an Scrive übermittelt werden
+   5. Geben Sie im Bereich **Konfiguration** Ihren **Benutzer** in Blockschrift bei **"Ausführen als Benutzer:"** an.
+   6. Fügen Sie den **Parameter "Digitale Signatur Logins"** mit dem **Wert Scrive** ([siehe hier](wodis-sigma.md#verknupfung-zwischen-wodis-sigma-und-aareon-connect-herstellen)) in das entsprechende Feld ein.
+   7. **Speichern** Sie den Job über das **Hauptmenü**. Die nachfolgende Abbildung unterstützt Sie bei der Einrichtung.
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-2.  Digitale Unterschrift aus Scrive in Wodis übertragen
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-    Zum Empfangen der unterschriebenen Dokumente geben Sie bitte zunächst die Bezeichnung "**Digitale Unterschrift Scrive abholen**" ein, anschließend wählen Sie "**Aktivitätenmanagemant-DigitaleSignatur-Antwort**" als **Jobtype** aus und setzen den **Status** auf "**Freigegeben**"
+3. **Fertig unterschriebene Dokumente aus Scrive in Wodis übertragen**
+   1. Geben Sie die **Bezeichnung** **"Digitale Unterschrift Scrive abholen"** ein
+   2. Wählen Sie den **Jobtyp "Aktivitätenmanagement-DigitaleSignatur-Antwort"** aus
+   3. Setzen Sie den **Status** auf **"Freigegeben"**
+   4. Legen Sie einen **Zeitplan** im Intervall von **12 Stunden** fest:
+      * Wählen Sie im **Dropdown-Menü "Stündlich"** aus und bestimmen Sie Ihre präferierte Zeit
+   5. Geben Sie im Bereich **Konfiguration** Ihren **Benutzer** in Blockschrift bei **"Ausführen als Benutzer:"** an
+   6. Fügen Sie den **Parameter "Digitale Signatur Logins"** mit dem **Wert Scrive** (siehe hier) in das entsprechende Feld ein
+   7. **Speichern** Sie den Job über das **Hauptmenü**. Ihr fertig eingerichteter Job sollte wie die Abbildung aussehen
 
-    Für den Zeitplan können Sie wieder einen **Zeitplan** im **Intervall** von **12 Stunden** erstellen. Setzen Sie hierfür Ihre Auswahl im **Dropdown-Menü** auf "**Stuendlich**" und wählen Ihre präferierte Zeit aus.
-
-    Im nächsten Schritt geben Sie im Bereich **Konfiguration** Ihren Benutzer in Blockschrift bei "**Ausführen als Benutzer:**" an. Im weiteren Prozess fügen Sie Ihren eingerichteten Parameter "**Digitale Signatur Logins**" mit dem Wert **Scrive** ([siehe hier](wodis-sigma.md#verknuepfung-zwischen-wodis-sigma-und-aareon-connect-herstellen)) ein und speichern Ihren  Job im **Hauptmenü.** Ihr fertig eingerichteter Job sollte wie die Abbildung aussehen.
-
-    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Vorbereitung Ihrer Dokumente
 
