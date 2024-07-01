@@ -174,6 +174,10 @@ Wir empfehlen das herunterladen der App für alle Unterzeichner Ihres Unternehme
 5. Die Unterschrift wird durch Knopfdruck in der Mobile ID App bestätigt
 6. Das Dokument ist somit vom jeweiligem Unterzeichner unterschrieben
 
+{% hint style="success" %}
+Bei Problemen bei der initialen Registrierung hilft es [dieser Anleitung](https://trustservices.swisscom.com/de/support/help-center/der-identifizierungsprozess-ist-abgeschlossen-aber-ich-kann-immer-noch-nicht-elektronisch-unterschreiben) zu folgen und ggf. die Mobile ID App neu zu installieren (ohne Wiederherstellung der Daten).
+{% endhint %}
+
 ### Besonderheiten bei der Nutzung von QES
 
 Bei der Nutzung von QES sind folgende Besonderheiten zu beachten:
