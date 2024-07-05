@@ -96,6 +96,21 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+### Geschäftspartner Pflichtfelder befüllen
+
+Damit die Unterzeichner (intern und extern) automatisch in die Aktivität eingetragen werden, müssen folgende Felder für alle Geschäftspartner eingetragen sein, die Unterzeichner sein sollten:
+
+* Vorname
+* Nachname
+* Telefonnummer
+* E-Mail
+
+Dies können Sie hier in dem Geschäftspartner Modul eintragen:
+
+<figure><img src="../../../.gitbook/assets/Stammdaten.png" alt=""><figcaption><p>Vorname, Nachname, Telefonnummer Konfiguration | Übergang zu E-Mail via <strong>Kommunikation</strong></p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/E-Mail.png" alt=""><figcaption><p>E-Mail Konfiguration</p></figcaption></figure>
+
 ## Vorbereitung Ihrer Dokumente
 
 Für die Digitale Unterschrift nutzen Sie wie gewohnt den Schriftverkehr in WODIS Sigma ([weitere Informationen](https://www.aareon.de/Support\_und\_Wissen/Dossier\_Schriftverkehr\_mit\_Wodis\_Sigma.212684.html) \[Verlinkung auf Aareon Support und Beratung, Zugang nur mit Login möglich]).
