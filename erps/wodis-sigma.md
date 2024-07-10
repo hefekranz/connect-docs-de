@@ -80,3 +80,23 @@ Diese URL ist aus Sicherheitsgründen nur einige Stunden gültig, entsprechend k
 {% hint style="info" %}
 Alle Prüfungen sind unabhängig von Groß-und Kleinschreibung und werden in der dargestellten Reihenfolge ausgeführt (d.h. wenn "Erdgeschoss" gefunden wurde, werden die weiteren Prüfungen nicht mehr ausgeführt).
 {% endhint %}
+
+### Dokumente
+
+Bei Wodis Sigma läuft der Dokumente Use Case immer direkt über die AAK Schnitstelle und nicht über die Wodis Sigma Schnittstelle selber.\
+Deshalb bedarf es für die Nutzung immer eine zusätzliche Einrichtung, wofür wir Sie kontakieren werden.
+
+#### Einstellungen
+
+**Filter**
+
+Während der Aktivierung eines Wodis Sigma Dokumenten Use Cases müssen Sie immer die genauen Namen der Archive angeben,  aus welchem alle Dokumente in das jeweilige Partner System synchronisiert werden.
+
+**Indexe**
+
+Damit die Dokumente zu den passenden Stammdaten zugeordnet werden können, müssen Sie bei der Einrichtung die genauen Indexnamen für folgende Indexe angeben:
+
+* Wirtschaftseinheitsnummer
+* Gebäudenummer
+* Verwaltungseinheitsnummer
+* Mietvertragsnummer
