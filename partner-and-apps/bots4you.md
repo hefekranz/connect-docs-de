@@ -56,7 +56,23 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 
 
 
+### Voicebot: Fragen und Schritte zur Vorbereitung
+
+* Nennen Sie uns bitte einen Kontakt des Anbieters Ihrer Telefonanlage und den Namen der Anbieterfirma?
+* Wie lassen sie heute Anrufer sich authentifizieren?
+* In welche Sprachen lassen Sie rechtsverbindliche Aussagen am Telefon zu?
+* Wer reguliert Schäden - intern vs. extern?
+* Sind Sie selbst als Verwalter aktiv oder haben Sie Unterverwalter?
+
+
+
 ### FAQs
+
+
+
+**Wo stehen die Server?**\
+Europa, DSGVO-Konform.\
+
 
 **Wie sind die Authentifizierungsmöglichkeiten?**
 
@@ -70,17 +86,49 @@ Es gibt folgende Möglichkeiten:
 1. Weiterleitung einer Rufnummer and die Rufnummer des Bots. Diese wird von Bots4You eingerichtet.
 2. Man kann zu verschiedenen Telefonzeiten verschiedene Aktionen durchführen, wobei die  Möglichkeiten von der Telefonanlage abhängt.
 
-
-
 **Welche Telefonnummern kann man hinter den VoiceBot schalten?**
 
 1. Mit SIP Trunk kann man die Nummer einer Telefonanlage direkt nutzen.
 2. Ansonsten wird eine Nummer von Bots4You vorgegeben auf diese üblicherweise weitergeleitet.
-
-
 
 **EmailBot: Wie kann dieser mit Outlook verknüpft werden?**
 
 Die Outlook Microsoft Azure App muss verwenden werden.
 
 Neben dem Email-Bot kann man dann zusätzlich selbst schreiben auf z.B. einem Sammelpostfach. Allerdings wird Bots4You die einkommenden E-Mails auslesen und darauf direkt reagieren.
+
+
+
+**Erfolgt eine Aufzeichnung der Telefonate oder wird nur transkribiert?**\
+Es wird im Standard nur transkribiert.
+
+
+
+**Kann ein Telefonanlage schon vorab Anrufer authentifizieren und diese Identifizierung weitergeben an den Voicebot?**
+
+Ja, der einfachste Weg ist, wenn die Telefonanlage an den Voicebot anruft und dabei in Abhängigkeit des Authentifizierungsstatus die Rufnummer in der Weiterleitung mitschickt, wenn der Anrufer nicht authentifiziert ist und die Mietvertragsnummer, wenn der Anrufer authentifiziert ist.\
+\
+
+
+**Verlängert sich die Dauer eines Telefonast des Voicebots, wenn dieser den Mieter identifizieren soll?**\
+Ja, die Identifizierung kostet einige Sekunden.
+
+
+
+**Angenommen in der Telefonwarteschleife befinden sich 5 Wartende: Kann der Voicebot alle Mietenden gleichzeitig bedienen?**\
+&#x20;Ja, es können gleichzeitig verschiedne Anrufer weitergeleitet werden.
+
+
+
+**Was passiert, wenn der Voicebot ein Anliegen nicht versteht?**\
+Das kann im Dialog-Builder definiert werden. Z.B. kann eine Rückrufbitte eingestellt werden.
+
+
+
+**Müssen Audio-Dateien gelöscht werden?**\
+Nein, es werden keine Audio-Dateien aufgezeichnet. Daher muss nichts gelöscht werden.
+
+
+
+**Kann die anrufende Telefonnummer im ERP aktualisiert werden, wenn unter der legitimierten Vertragsnummer noch eine alte Telefonnummer hinterlegt ist?**\
+Nein, nicht im Standard. Das wäre eine zusätzlich zu beauftragende Zusatzfunktion.
