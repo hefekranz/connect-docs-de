@@ -81,6 +81,10 @@ Diese URL ist aus Sicherheitsgründen nur einige Stunden gültig, entsprechend k
 Alle Prüfungen sind unabhängig von Groß-und Kleinschreibung und werden in der dargestellten Reihenfolge ausgeführt (d.h. wenn "Erdgeschoss" gefunden wurde, werden die weiteren Prüfungen nicht mehr ausgeführt).
 {% endhint %}
 
+### Leerstände und Interessenten
+
+Alle ERP spezifischen Details sind identisch zu denen bei [Wodis Yuneo, welche hier beschrieben sind](wodis-yuneo.md#leerstande).
+
 ### Dokumente
 
 Bei Wodis Sigma läuft der Dokumente Use Case immer direkt über die AAK Schnitstelle und nicht über die Wodis Sigma Schnittstelle selber.\
