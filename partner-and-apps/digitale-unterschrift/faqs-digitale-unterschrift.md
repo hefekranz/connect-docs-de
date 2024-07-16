@@ -94,7 +94,7 @@ Alle Dokumente, unabhängig vom ERP, können zudem direkt in Scrive mit [#standa
 
 <summary>Kann die Reihenfolge der Personen die den Vertrag unterschreiben festgelegt werden?</summary>
 
-Dies ist Teil der Roadmap ( [#funktionsumfang-und-roadmap-je-erp](erps/#funktionsumfang-und-roadmap-je-erp "mention")) und aktuell noch nicht möglich.
+Ja, dies können Sie mit der Unterschrifts-Reihenfolge individuell festlegen.
 
 </details>
 
