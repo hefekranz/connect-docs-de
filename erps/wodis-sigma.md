@@ -87,8 +87,9 @@ Alle ERP spezifischen Details sind identisch zu denen bei [Wodis Yuneo, welche h
 
 ### Dokumente
 
-Bei Wodis Sigma läuft der Dokumente Use Case immer direkt über die AAK Schnitstelle und nicht über die Wodis Sigma Schnittstelle selber.\
-Deshalb bedarf es für die Nutzung immer eine zusätzliche Einrichtung, wofür wir Sie kontakieren werden.
+Bei Wodis Sigma läuft der Dokumente Use Case immer direkt über die AAK Schnitstelle und nicht über die Wodis Sigma Schnittstelle selber.
+
+Entsprechend ist eine besondere [#einrichtung-in-wodis-sigma-und-aak](wodis-sigma.md#einrichtung-in-wodis-sigma-und-aak "mention") nötig.
 
 #### Einstellungen
 
@@ -104,3 +105,71 @@ Damit die Dokumente zu den passenden Stammdaten zugeordnet werden können, müss
 * Gebäudenummer
 * Verwaltungseinheitsnummer
 * Mietvertragsnummer
+
+#### Einrichtung in Wodis Sigma und **Archiv-Manager**
+
+**Wodis Sigma**
+
+1. Legen Sie einen Sachbearbeiter an
+   1. _Hinweis_: PLZ, Ort und Land muss eingetragen werden
+   2. Klicken Sie auf **Speichern**
+
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
+2. Legen Sie einen Benutzer an
+   1. Ordnen Sie diesem einen Sachbearbeiter zu
+   2. Tragen Sie folgende Benutzerrechte ein:
+      1. Administrator Archivierung
+      2. Locoia Administrator
+   3. Klicken Sie auf **Speichern**
+
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+
+3. Weisen Sie dem Benutzer der passenden Organisationseinheit (Mandanten) zu
+   1. Angelegten Benutzer auswählen
+   2. Häkchenfeld setzen
+   3. Klicken Sie auf **Speichern**
+
+&#x20;
+
+4. Ordnern Sie dem Benutzer folgende Applikation zuL
+   1. Alle Module, in denen „Archivierung“ vorkommt zuweisenL
+      1. Archivierung (Aareon DMS)
+      2. Archivierung (Teil1)
+      3. Archivierung (Teil2)
+         1. _Hinweis_: Dies ist nicht immer vorhanden
+
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
+5. Dokumentenmanagement-> Rechteverwaltung
+   1. Auf BG-Admin klicken  &#x20;
+   2. Angelegten Benutzer zuordnen
+   3. Klicken Sie auf **Speichern**
+
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Mit den Zugangsdaten vom Benutzer erneut an Wodis anmelden und das Passwort ändern!
+
+Die Anmeldung in Aareon Connect läuft sonst auf einen Fehler.
+{% endhint %}
+
+**Archiv-Manager**
+
+1. Im Archiv-Manager
+   1. Benutzer: schauen, ob der Benutzer die zugeordnete Gruppe BG-Admin hat (falls die fehlt den Schritt 5. in Wodis nachholen)
+   2. In Anwendungsrechte: Das Anwendungsrecht REST-SS zuweisen&#x20;
+
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (52).png" alt="" width="563"><figcaption></figcaption></figure>
+
+2.  Archiv-Manager > Systeme > Lizenzen
+
+    1. Prüfen, ob die Lizenz für REST-SS freigeschaltet ist
+    2. Falls nein, Aareon kontaktieren
+
+
+
+    <figure><img src="../.gitbook/assets/Picture1.png" alt="" width="563"><figcaption></figcaption></figure>
+
