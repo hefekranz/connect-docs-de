@@ -8,7 +8,7 @@ Um Aareon Connect in SAP Blue Eagle zu öffnen und somit Integrationen zu aktivi
 
 Somit öffnen sich Aareon Connect direkt in SAP Blue Eagle:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Use Cases
 

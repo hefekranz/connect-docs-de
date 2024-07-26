@@ -21,7 +21,7 @@ Um Aareon Connect in Wodis Yuneo zu öffnen und somit Integrationen zu aktiviere
 
 Somit öffnen sich Aareon Connect direkt in Wodis Yuneo:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Use Cases
 

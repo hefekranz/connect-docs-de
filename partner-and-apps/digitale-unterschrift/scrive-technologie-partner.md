@@ -135,7 +135,7 @@ Der Ablauf von QES unterscheidet sich je nachdem, ob QES das erste Mal von den j
 2.  Auf der Seite zum Unterschreiben wird nach der Mobilnummer des Unterzeichners gefragt:\
 
 
-    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     1. Falls die Mobilnummer bereits im ERP hinterlegt ist, wird immer die Mobilnummer aus dem ERP genutzt
 3. Nun wird von Swisscom geprüft, ob die Mobilnummer bereits mit QES registriert wurde, wenn dies _nicht_ der Fall ist, ist, dann geht der Prozess bei [#initiale-nutzung-von-qes-inklusive-registrierung-qes-mit-srs](scrive-technologie-partner.md#initiale-nutzung-von-qes-inklusive-registrierung-qes-mit-srs "mention") weiter, ansonsten geht der Prozess bei [#erneute-nutzung-von-qes](scrive-technologie-partner.md#erneute-nutzung-von-qes "mention") weiter.
@@ -145,7 +145,7 @@ Der Ablauf von QES unterscheidet sich je nachdem, ob QES das erste Mal von den j
 4.  Der Unterzeichner erhält die Möglichkeit sich entweder via Video-Identifikation oder Persönlich auszuweisen:\
 
 
-    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Alle weiteren beschriebenen Prozessschritte basieren auf der Auswahl von **Video-Identifikation**
@@ -154,7 +154,7 @@ Alle weiteren beschriebenen Prozessschritte basieren auf der Auswahl von **Video
 5. Der Unterzeichner kann sich die **Mobile ID** App herunterladen ("Wallet") ODER später per Einmal-SMS-Code unterschreiben
    1. _Optional_: Der Unterzeichner folgt der Anleitung der Mobile ID App
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Wir empfehlen das herunterladen der App für alle Unterzeichner Ihres Unternehmens, dies ermöglicht bei [#erneute-nutzung-von-qes](scrive-technologie-partner.md#erneute-nutzung-von-qes "mention") einen sehr schnellen und bequemen Prozess um Dokumente mit QES zu unterschreiben

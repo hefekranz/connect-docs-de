@@ -68,7 +68,7 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (45).png" alt="" width="235"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45) (1).png" alt="" width="235"><figcaption></figcaption></figure>
 
 </div>
 
@@ -82,7 +82,7 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
    6. Fügen Sie den **Parameter "Digitale Signatur Logins"** mit dem **Wert Scrive** ([siehe hier](wodis-sigma.md#verknupfung-zwischen-wodis-sigma-und-aareon-connect-herstellen)) in das entsprechende Feld ein.
    7. **Speichern** Sie den Job über das **Hauptmenü**. Die nachfolgende Abbildung unterstützt Sie bei der Einrichtung.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 3. **Fertig unterschriebene Dokumente aus Scrive in Wodis übertragen**
    1. Geben Sie die **Bezeichnung** **"Digitale Unterschrift Scrive abholen"** ein
@@ -94,7 +94,7 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
    6. Fügen Sie den **Parameter "Digitale Signatur Logins"** mit dem **Wert Scrive** (siehe hier) in das entsprechende Feld ein
    7. **Speichern** Sie den Job über das **Hauptmenü**. Ihr fertig eingerichteter Job sollte wie die Abbildung aussehen
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Geschäftspartner Pflichtfelder befüllen
 
