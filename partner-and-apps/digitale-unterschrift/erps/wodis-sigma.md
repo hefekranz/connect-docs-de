@@ -1,6 +1,6 @@
 # WODIS Sigma
 
-## Initiale Einrichtung
+Initiale Einrichtung
 
 ### Lizenzen Einlesen
 
@@ -8,7 +8,7 @@ Lesen Sie wie [hier beschrieben](../../../erps/wodis-sigma.md#aareon-connect-in-
 
 ### Verknüpfung zwischen WODIS Sigma und Aareon Connect herstellen
 
-Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") beschrieben aktiviert haben muss zuletzt die Verknüpfung zwischen WODIS Sigma und Aareon Connect eingerichtet werden.
+Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") beschrieben aktiviert haben, muss zuletzt die Verknüpfung zwischen WODIS Sigma und Aareon Connect eingerichtet werden.
 
 1. Gehen Sie auf **Zentrale Funktionen** > **Aktivitätenmanagement** > **Stammdaten** > **Aktivitätenmanagement Einstellungen**
 2.  Tragen Sie für das Feld **Digitale Signatur Logins** den Wert **Scrive** in die Spalte **Benutzerwert** ein\
@@ -16,7 +16,7 @@ Nachdem Sie die Digitale Unterschrift wie in [#aktivierung-in-aareon-connect](..
 
     <figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 3. Somit erscheinen die benötigten Felder
-4. Tragen sie die Daten welche Sie nach der [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") erhalten haben in die entsprechenden Felder ein:
+4. Tragen Sie die Daten, welche Sie nach der [#aktivierung-in-aareon-connect](../scrive-technologie-partner.md#aktivierung-in-aareon-connect "mention") erhalten haben in die entsprechenden Felder ein:
    1. **Benutzernamen** in das Feld **Scrive: Digitale Signatur User**
    2. das **Passwort** in das Feld **Scrive: Digitale Signatur Password**
    3. die **URL** in das Feld **Scrive: Digitale Signatur Url**
@@ -28,18 +28,28 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
 
 ### Aktivitäten Einrichten
 
-1. Gehen Sie über auf **Aktivitätenmanagement > Stammdaten > Anlage von Aktivitäts-Standardwerten**
+Um im Nachgang Aktivitäten für die digitale Unterschrift erstellen zu können, müssen diese zunächst erstellt werden. Es werden insgesamt 2 Aktivitäten benötigt, eine Aktivität für die **Anfrage der digitalen Signatur** und eine zur **Antwort auf die digitale Signaturanfrage**:
+
+1. Gehen Sie auf **Aktivitätenmanagement > Stammdaten > Anlage von Aktivitäts-Standardwerten**
 2. Klicken Sie im Reiter **Anlage von Aktivitätstypen** auf das Feld mit dem Typnamen **Aufgabe** und fügen Sie über das Hauptmenü eine neue hinzu.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (53).png" alt="" width="247"><figcaption></figcaption></figure>
+
+</div>
 
 #### Einrichten der Aktivität "Anfrage Digitale Signatur"
 
-1. Setzen Sie im Bereich **Allgemein** den Haken bei **Der Aktivitätstyp gehört zur Kategorie:**
+1. Die Berechtigungen für die Aktivität können im Reiter **Rechte** individuell vergeben werden
+2. Im Reiter **Einstellungen** nehmen Sie die folgenden Änderungen vor
+3. Setzen Sie im Bereich **Allgemein** den Haken bei **Der Aktivitätstyp gehört zur Kategorie:**
    1. Wählen Sie anschließend im **Dropdown-Menü** "**Externer Service**" aus
-2. Setzen Sie im Bereich **Vorbelegungen** den Haken bei:
-   1. **Benutze Standard-Betreff für neue Aktivitäten:** und tragen im freien Textfeld der Begriff **Anfrage Digitale Signatur** ein
+4. Setzen Sie im Bereich **Vorbelegungen** den Haken bei:
+   1. **Benutze Standard-Betreff für neue Aktivitäten:** und tragen im freien Textfeld den Begriff **Anfrage Digitale Signatur** ein
    2. **Benutze Informationen über das Stammdatum im Betreff für neue Aktivitäten**
-   3. **Benutze Standard-Fälligkeiten für neue Aktivitäten (in Tagen):** mit einem Interval von **5** Tagen
-3.  Jegliche Haken in den anderen Bereichen wie "Outlook Synchronisation" können Sie entfernen. Ihre Einstellungen sollten nun der Abbildung gleichen:
+   3. **Benutze Standard-Fälligkeiten für neue Aktivitäten (in Tagen):** mit einem Intervall von **5** Tagen
+5.  Jegliche Haken in den anderen Bereichen wie Outlook Synchronisation können Sie nach Belieben entfernen. Ihre Einstellungen sollten nun der Abbildung gleichen:
 
 
 
@@ -49,12 +59,14 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
 
     </div>
 
-#### Einrichten der Aktivität "Antwort Digitale Signatur"
+#### Einrichten der Aktivität "Antwort auf digitale Signaturanfrage"
+
+Wie auch bei der Einrichtung der vorherigen Aktivität können Sie zunächst Ihre gewünschten Berechtigungen vergeben und belegen dann die **Einstellungen** wie folgt:
 
 1. Setzen Sie im Bereich **Allgemein** den Haken bei **Der Aktivitätstyp gehört zur Kategorie:**
    1. Wählen Sie anschließend im **Dropdown-Menü** "**Externer Service**" aus
 2. Setzen Sie im Bereich **Vorbelegungen** den Haken bei "**Benutze Informationen über das Stammdatum im Betreff für neue Aktivitäten**"
-3. Alle anderen Haken in den Einstellungen sind zu entfernen. Ihre Einstellungen sollten nun der Abbildung gleichen:
+3. Alle anderen Haken in den Einstellungen können Sie entfernen. Ihre Einstellungen sollten nun der Abbildung gleichen:
 
 <div align="left">
 
@@ -64,7 +76,9 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
 
 ### Jobplanung Einrichten
 
-1. Gehen Sie in den Modulen über **Vorgangsmanagement** in das Fenster **Job Planung**. Hier richten sie folgende **Jobs neu** ein:
+Die Jobs dienen dazu, die leeren Dokumente an Scrive zu übermitteln und die unterschriebenen Dateien von dem Technologiepartner abzufragen. Deshalb richten Sie in diesem Schritt **zwei Jobtypen** ein. Die Einrichtung mit unseren empfohlenen Einstellungen läuft wie folgt ab:
+
+1. Gehen Sie in den Modulen über **Vorgangsmanagement** in das Fenster **Job Planung**. Hier richten sie die beiden nachfolgenden Jobs neu ein
 
 <div align="left">
 
@@ -72,29 +86,31 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
 
 </div>
 
-2. **Serienbrief für die Digitale Unterschrift aus Wodis in Scrive übertragen**
-   1. Geben Sie die **Bezeichnung** **"Digitale Unterschrift Scrive verschicken"** ein
-   2. Wählen Sie den **Jobtyp "Aktivitätenmanagement-DigitaleSignatur-Anfrage"** aus
-   3. Setzen Sie den **Status** auf **"Freigegeben"**
-   4. Legen Sie einen **Zeitplan** im Intervall von **12 Stunden** fest:
-      * Wählen Sie im **Dropdown-Menü "Stündlich"** aus und bestimmen Sie die Abstände, in denen die Schriftstücke an Scrive übermittelt werden
-   5. Geben Sie im Bereich **Konfiguration** Ihren **Benutzer** in Blockschrift bei **"Ausführen als Benutzer:"** an.
-   6. Fügen Sie den **Parameter "Digitale Signatur Logins"** mit dem **Wert Scrive** ([siehe hier](wodis-sigma.md#verknupfung-zwischen-wodis-sigma-und-aareon-connect-herstellen)) in das entsprechende Feld ein.
-   7. **Speichern** Sie den Job über das **Hauptmenü**. Die nachfolgende Abbildung unterstützt Sie bei der Einrichtung.
+2.  **Serienbrief für die Digitale Unterschrift aus Wodis in Scrive übertragen**
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+    1. Geben Sie die **Bezeichnung** **"Digitale Unterschrift Scrive verschicken"** ein
+    2. Wählen Sie den **Jobtyp "Aktivitätenmanagement-DigitaleSignatur-Anfrage"** aus
+    3. Setzen Sie den **Status** auf **"Freigegeben"**
+    4. Legen Sie Ihren **Zeitplan** fest:
+       * Wählen Sie im **Dropdown-Menü "Stuendlich"** oder **"Minuetlich"** aus und bestimmen Sie die Abstände, in denen die Schriftstücke an Scrive übermittelt werden (Best Practice: **12h**)
+       * Achten Sie darauf, dass der Job mindestens an **allen Arbeitstagen** ausgeführt wird
+    5. Geben Sie im Bereich **Konfiguration** Ihren gewünschten **Benutzer** in Blockschrift bei **"Ausführen als Benutzer:"** an.
+    6. Fügen Sie den **Parameter "Digitale Signatur Logins"** mit dem **Wert "Scrive"** ([siehe hier](wodis-sigma.md#verknupfung-zwischen-wodis-sigma-und-aareon-connect-herstellen)) in das entsprechende Feld ein.
+    7. **Speichern** Sie den Job über das **Hauptmenü**. Die nachfolgende Abbildung unterstützt Sie bei der Einrichtung.
 
+    <figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 3. **Fertig unterschriebene Dokumente aus Scrive in Wodis übertragen**
    1. Geben Sie die **Bezeichnung** **"Digitale Unterschrift Scrive abholen"** ein
    2. Wählen Sie den **Jobtyp "Aktivitätenmanagement-DigitaleSignatur-Antwort"** aus
    3. Setzen Sie den **Status** auf **"Freigegeben"**
-   4. Legen Sie einen **Zeitplan** im Intervall von **12 Stunden** fest:
-      * Wählen Sie im **Dropdown-Menü "Stündlich"** aus und bestimmen Sie Ihre präferierte Zeit
+   4. Legen Sie einen **Zeitplan** fest:
+      * Wählen Sie im **Dropdown-Menü "Stuendlich"** oder **"Minuetlich"** aus und bestimmen Sie die Abstände, in denen die Schriftstücke an Wodis übermittelt werden (Best Practice: **12h**)
+      * Achten Sie darauf, dass der Job mindestens an **allen Arbeitstagen** ausgeführt wird
    5. Geben Sie im Bereich **Konfiguration** Ihren **Benutzer** in Blockschrift bei **"Ausführen als Benutzer:"** an
-   6. Fügen Sie den **Parameter "Digitale Signatur Logins"** mit dem **Wert Scrive** (siehe hier) in das entsprechende Feld ein
+   6. Fügen Sie den **Parameter "Digitale Signatur Logins"** mit dem **Wert Scrive** ([siehe hier](wodis-sigma.md#verknupfung-zwischen-wodis-sigma-und-aareon-connect-herstellen)) in das entsprechende Feld ein
    7. **Speichern** Sie den Job über das **Hauptmenü**. Ihr fertig eingerichteter Job sollte wie die Abbildung aussehen
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ### Geschäftspartner Pflichtfelder befüllen
 
@@ -137,7 +153,7 @@ Dabei gibt es folgende Möglichkeiten:
   * \* _- Das Feld muss zwingend ausgefüllt werden_
   * ? _- Das Feld kann ausgefüllt werden_
 
-Dies muss in dem folgendem Syntax zusammengesetzt werden (die einzelnen Bestandsteile sind farblich markiert), hier z.B. für das erste Unterschriftsfeld für den ersten internen Unterzeichner:
+Dies muss in der folgenden Syntax zusammengesetzt werden (die einzelnen Bestandsteile sind farblich markiert), hier z.B. für das erste Unterschriftsfeld für den ersten internen Unterzeichner:
 
 DU.<mark style="background-color:blue;">Intern</mark>.<mark style="background-color:purple;">01</mark>.<mark style="background-color:orange;">Unterschrift</mark>.<mark style="background-color:green;">01</mark><mark style="background-color:red;">\*</mark>
 
@@ -146,7 +162,7 @@ Das dritte optionale E-Mail Feld für den zweiten externen Unterzeichner muss en
 DU.<mark style="background-color:blue;">Extern</mark>.<mark style="background-color:purple;">02</mark>.<mark style="background-color:orange;">Email</mark>.<mark style="background-color:green;">03</mark><mark style="background-color:red;">?</mark>
 
 {% hint style="warning" %}
-Der Syntax muss genau befolgt werden (inkl. Groß- und Kleinschreibung), damit die Anchor Tags ausgelesen werden können.
+Die Syntax muss genau befolgt werden (inkl. Groß- und Kleinschreibung), damit die Anchor Tags ausgelesen werden können.
 
 Alle Anchor Tags müssen mit **DU.** starten.
 {% endhint %}
@@ -192,7 +208,7 @@ Sie können die Dokumenten-ID auch direkt während der Aktivitäten Erstellung i
 9. Wählen Sie eine Authentifizierungsart unter **Authentifizierung zum Signieren**
 10. Klicken Sie auf **Speichern**, um die Aktivität abzuspeichern und das Dokument zu versenden.
 
-#### 4. Versenden des Dokumente
+#### 4. Versenden der Dokumente
 
 Das Dokument wird mit der nächsten geplanten Ausführung des Arbeitsauftrags ([#arbeitsauftraege-einrichten](wodis-sigma.md#arbeitsauftraege-einrichten "mention")) versendet.
 
@@ -219,7 +235,7 @@ Die Aktivitäten Erstellung erfolgt immer in dem Mietvertrag, von dort können e
    * Gehen Sie in das Modul, das für Kautionsverträge vorgesehen ist.
    * Erstellen Sie den Schriftverkehr für den Kautionsvertrag. Dieser Schritt erfolgt ähnlich wie bei einem Mietvertrag. Beachten Sie, dass die Benutzeroberfläche hier leicht abweichend gestaltet ist.
 2. #### **Dokument-ID ermitteln**
-   * Ermitteln Sie die ID des erstellten Dokument, genau wie Sie es bei einem Mietvertrag tun würden.
+   * Ermitteln Sie die ID des erstellten Dokuments, genau wie Sie es bei einem Mietvertrag tun würden.
 
 **Integration mit Mietvertrag**
 
