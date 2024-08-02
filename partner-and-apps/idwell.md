@@ -64,3 +64,35 @@ Bitte überprüfen Sie, ob die übertragenen Informationen in den Reitern Info, 
 
 Bitte überprüfen Sie bei den Mietern, sowie Eigentümern, die Reiter Kontaktdaten, Info und Einheiten.
 
+
+
+2. ### Dokumente
+
+#### Übersicht
+
+* [Allgemeine Informationen](../use-cases/dokumente.md)
+
+In iDWELL lassen sich Dokumente mit Objekte, Einheiten, Eigentümern und Mietern verknüpfen. Zusätzlich werden in iDWELL Ordner für die Dokumente angelegt.
+
+#### Einstellungen
+
+**UTS KARTHAGO**
+
+Bei der UTS KARTHAGO Integration für Dokumente können Sie bestimmen für welche Mandanten die Dokumente übertragen werden sollen. Hierzu muss die Mandanten ID / Firmen ID angegeben werden. Zusätzlich lässt sich ein Datumsfilter bestimmen, sodass nur Dokumente ab Tag X synchronisiert werden. Die Integration synchronisiert neben den Dokumenten auch die Ordnerstruktur aus dem ERP nach iDWELL.
+
+**Archiv Kompakt**
+
+Bei der AAK Integration für Dokumente müssen Sie folgende Informationen teilen, damit die Integration die Dokumente korrekt überträgt:
+
+* Archiv IDs pro Träger: Welche Archive werden welchem Träger zugeordnet?
+* Index IDs: Welche Index IDs werden genutzt?
+* Datumsfilter: Ab welchem Datum sollen Dokumente übertragen werden?
+* Trennzeichen: Welches Trennzeichen wird in der Stammdatenintegration verwendet?
+
+**Beispiel**:
+
+Sie können folgende Archiv IDs angeben.
+
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+
+Folglich rufen wir alle Dokumente aus den Archiven 1 & 2 ab und vernküpfen diese in iDWELL mit den entsprechenden Mietern. nach dem gleichen Prinzip verknüpfen wir alle Dokumente aus den Archiven 59, 63 & 65 mit den entsprechenden Objekten in iDWELL. Damit alles korrekt verknüpft werden kann, brauchen wir die Archiv Index Details.&#x20;
