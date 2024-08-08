@@ -43,12 +43,12 @@ Um im Nachgang Aktivitäten für die digitale Unterschrift erstellen zu können,
 
 1. Die Berechtigungen für die Aktivität können im Reiter **Rechte** individuell vergeben werden
 2. Im Reiter **Einstellungen** nehmen Sie die folgenden Änderungen vor
-3. Setzen Sie im Bereich **Allgemein** den Haken bei **Der Aktivitätstyp gehört zur Kategorie:**
-   1. Wählen Sie anschließend im **Dropdown-Menü** "**Externer Service**" aus
-4. Setzen Sie im Bereich **Vorbelegungen** den Haken bei:
-   1. **Benutze Standard-Betreff für neue Aktivitäten:** und tragen im freien Textfeld den Begriff **Anfrage Digitale Signatur** ein
-   2. **Benutze Informationen über das Stammdatum im Betreff für neue Aktivitäten**
-   3. **Benutze Standard-Fälligkeiten für neue Aktivitäten (in Tagen):** mit einem Intervall von **5** Tagen
+3. Setzen Sie im Bereich **Allgemein** den Haken bei **Der Aktivitätstyp gehört zur Kategorie:**&#x20;
+   * Wählen Sie anschließend im **Dropdown-Menü** "**Externer Service**" aus
+4. Setzen Sie im Bereich **Vorbelegungen** den Haken bei:&#x20;
+   * **Benutze Standard-Betreff für neue Aktivitäten:** und tragen im freien Textfeld den Begriff **Anfrage Digitale Signatur** ein
+   * **Benutze Informationen über das Stammdatum im Betreff für neue Aktivitäten**
+   * **Benutze Standard-Fälligkeiten für neue Aktivitäten (in Tagen):** mit einem Intervall von **5** Tagen
 5.  Jegliche Haken in den anderen Bereichen wie Outlook Synchronisation können Sie nach Belieben entfernen. Ihre Einstellungen sollten nun der Abbildung gleichen:
 
 
@@ -64,7 +64,7 @@ Um im Nachgang Aktivitäten für die digitale Unterschrift erstellen zu können,
 Wie auch bei der Einrichtung der vorherigen Aktivität können Sie zunächst Ihre gewünschten Berechtigungen vergeben und belegen dann die **Einstellungen** wie folgt:
 
 1. Setzen Sie im Bereich **Allgemein** den Haken bei **Der Aktivitätstyp gehört zur Kategorie:**
-   1. Wählen Sie anschließend im **Dropdown-Menü** "**Externer Service**" aus
+   * Wählen Sie anschließend im **Dropdown-Menü** "**Externer Service**" aus
 2. Setzen Sie im Bereich **Vorbelegungen** den Haken bei "**Benutze Informationen über das Stammdatum im Betreff für neue Aktivitäten**"
 3. Alle anderen Haken in den Einstellungen können Sie entfernen. Ihre Einstellungen sollten nun der Abbildung gleichen:
 
@@ -202,11 +202,10 @@ Sie können die Dokumenten-ID auch direkt während der Aktivitäten Erstellung i
 4. Geben Sie die notierte Nummer ein und klicken Sie auf **Suchen**.
 5. Neben **Dokumentauswahl** klicken Sie auf das **+** und dann auf **Übernehmen**.
 6. Unter **Digitale Signaturanker** sehen Sie das automatische Auslesen und die Zuordnung der Anchors
-7. Geben Sie einen Betreff für die Aufgabe ein.
-8. _Optional:_ Geben Sie unter **Email-Adresse für vor Ort Unterschrift** eine E-Mail Adresse (z.B. E-Mail die auf einem iPad angezeigt wird) ein, damit ein Mieter direkt vor Ort unterschreiben kann. Fügen Sie hinter dem Unterzeichner-Tag des Mieters ein Komma, ein Leerzeichen und „vor Ort“ ein.
+7. _Optional:_ Geben Sie unter **Email-Adresse für vor Ort Unterschrift** eine E-Mail Adresse (z.B. E-Mail die auf einem iPad angezeigt wird) ein, damit ein Mieter direkt vor Ort unterschreiben kann. Fügen Sie hinter dem Unterzeichner-Tag des Mieters ein Komma, ein Leerzeichen und „vor Ort“ ein.
    * Mehr Details zur [#vor-ort-unterschrift](../scrive-technologie-partner.md#vor-ort-unterschrift "mention")
-9. Wählen Sie eine Authentifizierungsart unter **Authentifizierung zum Signieren**
-10. Klicken Sie auf **Speichern**, um die Aktivität abzuspeichern und das Dokument zu versenden.
+8. Wählen Sie eine Authentifizierungsart unter **Authentifizierung zum Signieren**
+9. Klicken Sie auf **Speichern**, um die Aktivität abzuspeichern und das Dokument zu versenden.
 
 #### 4. Versenden der Dokumente
 
