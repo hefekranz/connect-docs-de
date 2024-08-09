@@ -207,6 +207,10 @@ Sie können die Dokumenten-ID auch direkt während der Aktivitäten Erstellung i
 8. Wählen Sie eine Authentifizierungsart unter **Authentifizierung zum Signieren**
 9. Klicken Sie auf **Speichern**, um die Aktivität abzuspeichern und das Dokument zu versenden.
 
+{% hint style="info" %}
+Die Reihenfolge der hinzugefügten Anhänge in Wodis Sigma entspricht der Reihenfolge der Dokumente in Scrive.
+{% endhint %}
+
 #### 4. Versenden der Dokumente
 
 Das Dokument wird mit der nächsten geplanten Ausführung des Arbeitsauftrags ([#arbeitsauftraege-einrichten](wodis-sigma.md#arbeitsauftraege-einrichten "mention")) versendet.
