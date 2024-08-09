@@ -36,3 +36,9 @@ Dies hat den Vorteil, dass Sie das Mapping zwischen ERP und Partner Lösung ganz
 Für das Mapping wird sich der Partner an Sie mit einer Mapping Tabelle wenden, welche dann an die Wodis Beratung weitergegeben wird, welche dieses Mapping entsprechend der Tabelle in Ihrem ERP vornehmen.
 
 Entsprechend dauert der Go-Live Prozess in der Regel etwas länger als bei anderen Use Cases.
+
+{% hint style="warning" %}
+Das Trennzeichen der Objektnr. ist bei Wodis Yuneo immer `/`. Bei Wodis Sigma ist dieses frei konfigurierbar.
+
+Je nach Partner gibt es ggf. bestimmte Vorschriften für das Trennzeichen.
+{% endhint %}
