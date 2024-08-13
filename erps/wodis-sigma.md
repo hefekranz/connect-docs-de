@@ -87,24 +87,19 @@ Alle ERP spezifischen Details sind identisch zu denen bei [Wodis Yuneo, welche h
 
 ### Dokumente
 
-Bei Wodis Sigma läuft der Dokumente Use Case immer direkt über die AAK Schnitstelle und nicht über die Wodis Sigma Schnittstelle selber.
+Bei Wodis Sigma läuft der Dokumente Use Case immer direkt über die AAK Schnittstelle und nicht über die Wodis Sigma Schnittstelle selber.
 
-Entsprechend ist eine besondere [#einrichtung-in-wodis-sigma-und-aak](wodis-sigma.md#einrichtung-in-wodis-sigma-und-aak "mention") nötig.
+Entsprechend ist die zusätzliche [#einrichtung-in-wodis-sigma-und-archiv-manager](wodis-sigma.md#einrichtung-in-wodis-sigma-und-archiv-manager "mention") nötig.
 
 #### Einstellungen
 
-**Filter**
+Im Zuge der Aktivierung des Dokumenten Use Cases, müssen Sie folgende Einstellungen ausfüllen:
 
-Während der Aktivierung eines Wodis Sigma Dokumenten Use Cases müssen Sie immer die genauen Namen der Archive angeben,  aus welchem alle Dokumente in das jeweilige Partner System synchronisiert werden.
+<table><thead><tr><th width="151">Name</th><th width="487.33333333333326">Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td>Separator für zusammengesetzte IDs</td><td>Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind.</td><td><code>-</code>, <code>_</code>, <code>.</code>, <code>/</code>, <code>|</code></td></tr><tr><td>Relevante Archiv Namen </td><td>Namen der Archive von welchen Dokumente übertragen werden sollen. </td><td></td></tr><tr><td>Wirtschaftseinheits Index Name</td><td>Index Name der Wirtschaftseinheitsnummer. </td><td></td></tr><tr><td>Gebäude Index Name</td><td>Index Name der Gebäudenummer. </td><td></td></tr><tr><td>Verwaltungseinheits Index Name</td><td>Index Name der Verwaltungseinheitsnummer. </td><td></td></tr><tr><td>Mietvertrags Index Name</td><td>Index Name der Mietvertragsnummer. </td><td></td></tr></tbody></table>
 
-**Indexe**
+#### Voraussetzungen
 
-Damit die Dokumente zu den passenden Stammdaten zugeordnet werden können, müssen Sie bei der Einrichtung die genauen Indexnamen für folgende Indexe angeben:
-
-* Wirtschaftseinheitsnummer
-* Gebäudenummer
-* Verwaltungseinheitsnummer
-* Mietvertragsnummer
+* Indexe für Stammdatennummern müssen gesetzt sein
 
 #### Einrichtung in Wodis Sigma und **Archiv-Manager**
 
