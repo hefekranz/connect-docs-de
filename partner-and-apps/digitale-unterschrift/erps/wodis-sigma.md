@@ -205,7 +205,9 @@ Sie können die Dokumenten-ID auch direkt während der Aktivitäten Erstellung i
 7. _Optional:_ Geben Sie unter **Email-Adresse für vor Ort Unterschrift** eine E-Mail Adresse (z.B. E-Mail die auf einem iPad angezeigt wird) ein, damit ein Mieter direkt vor Ort unterschreiben kann. Fügen Sie hinter dem Unterzeichner-Tag des Mieters ein Komma, ein Leerzeichen und „vor Ort“ ein.
    * Mehr Details zur [#vor-ort-unterschrift](../scrive-technologie-partner.md#vor-ort-unterschrift "mention")
 8. Wählen Sie eine Authentifizierungsart unter **Authentifizierung zum Signieren**
-9. Klicken Sie auf **Speichern**, um die Aktivität abzuspeichern und das Dokument zu versenden.
+9. Die Unterschrifts-Reihenfolge wird mit den letzten Zahlen jeder Zeile angegeben. Diese können Sie frei bearbeiten.
+   1. Standardmäßig haben alle externen Unterzeichner die Reihenfolge 1 und alle internen Unterzeichner die Reihenfolge 2.
+10. Klicken Sie auf **Speichern**, um die Aktivität abzuspeichern und das Dokument zu versenden.
 
 {% hint style="info" %}
 Die Reihenfolge der hinzugefügten Anhänge in Wodis Sigma entspricht der Reihenfolge der Dokumente in Scrive.

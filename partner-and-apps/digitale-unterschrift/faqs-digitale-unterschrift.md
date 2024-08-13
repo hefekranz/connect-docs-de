@@ -94,7 +94,11 @@ Alle Dokumente, unabhängig vom ERP, können zudem direkt in Scrive mit [#standa
 
 <summary>Kann die Reihenfolge der Personen die den Vertrag unterschreiben festgelegt werden?</summary>
 
-Ja, dies können Sie mit der Unterschrifts-Reihenfolge individuell festlegen.
+Ja, dies können Sie mit der Unterschrifts-Reihenfolge individuell festlegen.\
+Dabei können auch mehrere Personen die selbe Unterschrifts-Reihenfolge haben, in diesem Fall erhalten diese das Dokument zur selben Zeit.\
+z.B. können zwei externe Unterzeichner die Reihenfolge `1` haben, ein interner Unterzeichner `2` und ein weiterer interner Unterzeichner `3`.
+
+Weitere ERP spezifische Informationen zur Unterschrifts-Reihenfolge finden Sie unter den jeweiligen [erps](erps/ "mention").
 
 </details>
 
@@ -141,9 +145,10 @@ Dies ist grundsätzlich Ihnen überlassen, wir empfehlen folgende Handhabung: [#
 
 <details>
 
-<summary>Sicherheitsstufen - Werden diese auf den kompletten Umschlag übernommen, oder kann ich diese auch einzelnen Personen zuweisen?</summary>
+<summary>Werden die Sicherheitsstufen auf den kompletten Umschlag übernommen, oder kann ich diese auch einzelnen Parteien zuweisen?</summary>
 
-Die Sicherheitsstufe gilt für alle Personen eines Umschlags.
+Bei Scrive gilt die Sicherheitsstufe für alle Parteien eines Umschlags, wenn sie für eine Partei festgelegt ist.\
+Dies stellt sicher, dass das Dokument ordnungsgemäß validiert werden kann, wodurch die Integrität des Dokuments erhöht wird.
 
 </details>
 
