@@ -72,7 +72,7 @@ Jede Vertragspartei durchläuft den Unterschriftsprozess individuell. Dadurch k�
 
 <details>
 
-<summary><strong>Wie viele Unterzeichner können je Dokument hinterlegt werden?</strong></summary>
+<summary>Wie viele Unterzeichner können je Dokument hinterlegt werden?</summary>
 
 Es können theoretisch unbegrenzt Unterzeichner eingetragen werden. Das Produkt wurde ausgibig für bis zu 10 Unterzeichnern getestet. Bei deutlich mehr Unterzeichnern könnte es zu zu langen Wartezeiten der Job Bearbeitung kommen, sodass diese abbricht.
 
