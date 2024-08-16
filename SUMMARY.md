@@ -72,6 +72,7 @@
   * [Vermögensverwaltung](kategorien/vermoegensverwaltung.md)
   * [Zugangsmanagement](kategorien/zugangsmanagement.md)
 * [FAQ](faq.md)
+* [Dokumentation Bearbeiten und Ergänzen](dokumentation-bearbeiten-und-erganzen.md)
 
 ## Rechtliche Informationen
 
