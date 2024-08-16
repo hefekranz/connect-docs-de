@@ -4,7 +4,7 @@ description: Synchronisierung von Interessenten aus dem Partnersystem in das ERP
 
 # Interessenten
 
-* **Intervall**: Täglich
+* **Intervall**: Standard: Täglich; maximal Stündlich
 * **Richtung**: Partnersystem -> ERP
 * **Entitäten**:
   * [Interessenten](../entitaeten/interessenten.md)
