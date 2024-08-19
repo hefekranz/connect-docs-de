@@ -23,7 +23,7 @@ COUNT IT letterscan, ein Produkt von d.velop documents, bietet Dokumentenmanagem
 
 ## Use Cases
 
-### 1.
+### 1. Stammdaten
 
 #### Übersicht
 
@@ -32,16 +32,31 @@ COUNT IT letterscan, ein Produkt von d.velop documents, bietet Dokumentenmanagem
 
 #### Entitäten
 
-| ERP | AktivBo Analytics |
-| --- | ----------------- |
-|     |                   |
-|     |                   |
-|     |                   |
-|     |                   |
-|     |                   |
+| ERP | COUNT IT letterscan |
+| --- | ------------------- |
+|     |                     |
+|     |                     |
+|     |                     |
+|     |                     |
+|     |                     |
 
 #### Einstellungen
 
 
 
 #### Voraussetzungen
+
+
+
+### 2. Kreditoren
+
+Kreditoren werden aus dem ERP nach letterscan übertragen. Das Anlegen von Kreditoren erfolgt im ERP. Unter diesem [**Link**](https://docs.google.com/spreadsheets/d/1fLwCGcttemtlDpznO3O00352cZZ5SPJXBPv6IRWQ6Bk/edit?exids=71685786%2C71685780\&pli=1\&gid=48544661#gid=48544661) kann man die ERP's einsehen, für die der use case zur Verfügung steht.
+
+### 3. Aufträge
+
+Aufträge, die in letterscan erzeugt werden, werden ins ERP übertragen. In letterscan wird die im ERP-System erzeugte Auftragsnummer nach letterscan zurückgeschrieben. Aufträge, die im ERP erfasst werden, werden nicht nach letterscan übertragen. Aktualisierungen der Aufträge werden nicht ins ERP übertragen. Unter diesem [**Link**](https://docs.google.com/spreadsheets/d/1fLwCGcttemtlDpznO3O00352cZZ5SPJXBPv6IRWQ6Bk/edit?exids=71685786%2C71685780\&pli=1\&gid=48544661#gid=48544661) kann man die ERP's einsehen, für die der Use Case zur Verfügung steht.
+
+### 4. Rechnungen
+
+Rechnungen, die in letterscan erzeugt werden, werden ins ERP übertragen. In letterscan wird die im ERP-System erzeugte Rechnungsnummer nach letterscan zurückgeschrieben. Rechnungen, die im ERP erfasst werden, werden nicht nach letterscan übertragen. Rechnungen können mit oder ohne Auftragsbezug übertragen werden. Aktualisierungen der Rechnungnen werden nicht ins ERP übertragen. Unter diesem [**Link**](https://docs.google.com/spreadsheets/d/1fLwCGcttemtlDpznO3O00352cZZ5SPJXBPv6IRWQ6Bk/edit?exids=71685786%2C71685780\&pli=1\&gid=48544661#gid=48544661) kann man die ERP's einsehen, für die der use case zur Verfügung steht.
+
