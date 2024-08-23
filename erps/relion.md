@@ -1,6 +1,6 @@
-# RELion
+# RELion One
 
-## Aareon Connect in RELion aktivieren
+## Aareon Connect in RELion One aktivieren
 
 ### Azure-Portal
 

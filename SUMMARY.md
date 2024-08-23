@@ -42,7 +42,7 @@
   * [Yarowa](partner-and-apps/yarowa.md)
 * [ERPs](erps/README.md)
   * [GAP immotion](erps/gap-immotion.md)
-  * [RELion](erps/relion.md)
+  * [RELion One](erps/relion.md)
   * [SAP Blue Eagle](erps/sap-blue-eagle.md)
   * [UTS KARTHAGO](erps/uts-karthago.md)
   * [Wodis Sigma](erps/wodis-sigma.md)
