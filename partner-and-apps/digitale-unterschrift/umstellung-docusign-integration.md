@@ -19,11 +19,13 @@ Als **DocuSign Bestandskunde** können Sie bis auf weiteres weiterhin DocuSign f
 5.  Suchen Sie nach dem DocuSign Account Namen den Sie verwenden wollen und suchen Sie den passenden Namen aus der Liste aus.\
     Wenn der Account Name nicht auftaucht, überprüfen Sie, dass Sie den Namen richtig eingegeben haben und das Sie sich in Schritt 4. erfolgreich autorisiert haben.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-6. Optional: Geben Sie die Bezeichnung der von Ihnen genutzten QES Identitätsüberprüfung an, mehr Details in [#nutzung-von-qes](umstellung-docusign-integration.md#nutzung-von-qes "mention")
-7. Die Integration ist nun aktiviert
-8. Sie erhalten somit in den kommenden Stunden via E-Mail die nötigen Informationen um die Integration im ERP System fertig einzurichten
-9. Folgen Sie den Anleitungen der jeweiligen ERPs für die weiteren Einrichtungsschritte (Scrive kann dabei mit DocuSign ersetzt werden)
+    <figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+
+    1. _Optional_: Geben Sie die Bezeichnung der von Ihnen genutzten QES Identitätsüberprüfung an, mehr Details in [#nutzung-von-qes](umstellung-docusign-integration.md#nutzung-von-qes "mention")
+    2. _Optional_: Setzen Sie einen benutzerdefinierten E-Mail Betreff und/oder E-Mail Text, mehr Details in [#benutzerdefinierter-e-mail-betreff-und-text](umstellung-docusign-integration.md#benutzerdefinierter-e-mail-betreff-und-text "mention")
+6. Die Integration ist nun aktiviert
+7. Sie erhalten somit in den kommenden Stunden via E-Mail die nötigen Informationen um die Integration im ERP System fertig einzurichten
+8. Folgen Sie den Anleitungen der jeweiligen ERPs für die weiteren Einrichtungsschritte (Scrive kann dabei mit DocuSign ersetzt werden)
 
 ### Nutzung von QES
 
@@ -36,3 +38,17 @@ Um diese integriert Nutzen zu können müssen Sie den genauen Namen im 6. Schrit
 Den genauen Namen können Sie bei DocuSign unter **Einstellungen** > **Identitätsüberprüfung** sehen, wo sie die passende Identitätsüberprüfung aus der Liste auswählen können und diese dann so markieren und kopieren können:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-05-15 at 17.14.58.png" alt=""><figcaption></figcaption></figure>
+
+### Benutzerdefinierter E-Mail Betreff und Text
+
+Sie können während der Aktivierung einen benutzerdefinierten E-Mail Betreff und/oder E-Mail Text setzen:
+
+<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+
+Jeder Umschlag der über das ERP verschickt wird, wird diesen Betreff und/oder Text in der E-Mail von DocuSign haben und somit den Standard von DocuSign überschreiben.
+
+{% hint style="info" %}
+Der Betreff und Text kann keine Variablen enthalten und ist somit für jeden Umschlag und jeden Empfänger der E-Mail identisch.
+
+Entsprechend sollte der Betreff und Text möglichst generisch sein, sodass diese für alle Situationen passen.
+{% endhint %}
