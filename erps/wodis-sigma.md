@@ -93,7 +93,7 @@ Entsprechend ist die zusätzliche [#einrichtung-in-wodis-sigma-und-archiv-manage
 
 #### Einstellungen
 
-Im Zuge der Aktivierung des Dokumenten Use Cases, müssen Sie folgende Einstellungen ausfüllen:
+Im Zuge der Aktivierung des Dokumenten Use Cases, müssen Sie folgende Tabelle ausfüllen:
 
 <table><thead><tr><th width="151">Name</th><th width="487.33333333333326">Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td>Separator für zusammengesetzte IDs</td><td>Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind.</td><td><code>-</code>, <code>_</code>, <code>.</code>, <code>/</code>, <code>|</code></td></tr><tr><td>Relevante Archiv Namen </td><td>Namen der Archive von welchen Dokumente übertragen werden sollen. </td><td></td></tr><tr><td>Wirtschaftseinheits Index Name</td><td>Index Name der Wirtschaftseinheitsnummer. </td><td></td></tr><tr><td>Gebäude Index Name</td><td>Index Name der Gebäudenummer. </td><td></td></tr><tr><td>Verwaltungseinheits Index Name</td><td>Index Name der Verwaltungseinheitsnummer. </td><td></td></tr><tr><td>Mietvertrags Index Name</td><td>Index Name der Mietvertragsnummer. </td><td></td></tr></tbody></table>
 
