@@ -101,6 +101,44 @@ Im Zuge der Aktivierung des Dokumenten Use Cases, müssen Sie folgende Einstellu
 
 * Indexe für Stammdatennummern müssen gesetzt sein
 
+Eine Übersicht der der Archive und Indizes finden Sie im Archiv kompakt Manager und auch im Archiv kompakt Client
+
+1. **Kompakt Manager- hier haben nur Admins Zugang**
+
+&#x20;
+
+<figure><img src="../.gitbook/assets/kompact Manager.png" alt=""><figcaption></figcaption></figure>
+
+**Archive**
+
+Im Menüband oben unter Archive werden die Einträge angezeigt
+
+<figure><img src="../.gitbook/assets/kompact Archive Manager.png" alt=""><figcaption></figcaption></figure>
+
+**Indizes**
+
+Im weißen Menüband **Indexdefinition** findet man die Indizes (werden für die [#einstellungen](wodis-sigma.md#einstellungen "mention") benötigt) zum links angeklickten Archiv.
+
+<figure><img src="../.gitbook/assets/kompact Indizes Manager.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;**3. Kompakt Client**
+
+Öffnen Sie den **Kompakt Client**
+
+<figure><img src="../.gitbook/assets/kompact client.png" alt=""><figcaption></figcaption></figure>
+
+**Archive**
+
+Im Register Recherche oder Archivierung werden die Archive in den Suchkategorien oder auch in der Mitte unter dem Suchfeld Archiv angezeigt. Hier ein Demo-Archiv. Die Namen stimmen nicht mit Ihren überein.
+
+<figure><img src="../.gitbook/assets/kompact client Achive.png" alt=""><figcaption></figcaption></figure>
+
+**Indizes**
+
+Im Register Recherche oder Archivierung werden die Indizes der Archive angezeigt, sobald man ein Archiv auswählt
+
+<figure><img src="../.gitbook/assets/kompact client Indizes.png" alt=""><figcaption></figcaption></figure>
+
 #### Einrichtung in Wodis Sigma und **Archiv-Manager**
 
 **Wodis Sigma**
@@ -167,4 +205,3 @@ Die Anmeldung in Aareon Connect läuft sonst auf einen Fehler.
 
 
     <figure><img src="../.gitbook/assets/Picture1.png" alt="" width="563"><figcaption></figcaption></figure>
-
