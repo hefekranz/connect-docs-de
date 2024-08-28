@@ -66,13 +66,13 @@ In der YuSearch „Archiv“ eingeben.
 
 **2.Kompakt Manager- hier haben nur Admins Zugang**&#x20;
 
-<figure><img src="../.gitbook/assets/kompact Manager (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kompact Manager.png" alt=""><figcaption></figcaption></figure>
 
 **Archive**
 
 Im Menüband oben unter Archive werden die Einträge angezeigt
 
-<figure><img src="../.gitbook/assets/kompact Archive Manager (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kompact Archive Manager (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -80,10 +80,10 @@ Im Menüband oben unter Archive werden die Einträge angezeigt
 
 Öffnen Sie den **Kompakt Client**
 
-<figure><img src="../.gitbook/assets/kompact client (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kompact client.png" alt=""><figcaption></figcaption></figure>
 
 **Archive**
 
 Im Register Recherche oder Archivierung werden die Archive in den Suchkategorien oder auch in der Mitte unter dem Suchfeld Archiv angezeigt. Hier ein Demo-Archiv. Die Namen stimmen nicht mit Ihren überein.
 
-<figure><img src="../.gitbook/assets/kompact client Achive (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kompact client Achive.png" alt=""><figcaption></figcaption></figure>

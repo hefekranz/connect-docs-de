@@ -91,53 +91,50 @@ Bei Wodis Sigma läuft der Dokumente Use Case immer direkt über die AAK Schnitt
 
 Entsprechend ist die zusätzliche [#einrichtung-in-wodis-sigma-und-archiv-manager](wodis-sigma.md#einrichtung-in-wodis-sigma-und-archiv-manager "mention") nötig.
 
-#### Einstellungen
-
 Im Zuge der Aktivierung des Dokumenten Use Cases, müssen Sie folgende Tabelle ausfüllen:
 
-<table><thead><tr><th width="151">Name</th><th width="487.33333333333326">Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td>Separator für zusammengesetzte IDs</td><td>Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind.</td><td><code>-</code>, <code>_</code>, <code>.</code>, <code>/</code>, <code>|</code></td></tr><tr><td>Relevante Archiv Namen </td><td>Namen der Archive von welchen Dokumente übertragen werden sollen. </td><td></td></tr><tr><td>Wirtschaftseinheits Index Name</td><td>Index Name der Wirtschaftseinheitsnummer. </td><td></td></tr><tr><td>Gebäude Index Name</td><td>Index Name der Gebäudenummer. </td><td></td></tr><tr><td>Verwaltungseinheits Index Name</td><td>Index Name der Verwaltungseinheitsnummer. </td><td></td></tr><tr><td>Mietvertrags Index Name</td><td>Index Name der Mietvertragsnummer. </td><td></td></tr></tbody></table>
+Im Zuge der Aktivierung des Dokumenten Use Cases, müssen Sie folgende Einstellungen ausfüllen:
 
-#### Voraussetzungen
+#### Archive&#x20;
 
-* Indexe für Stammdatennummern müssen gesetzt sein
+Bei der Bereitstellung von Dokumenten in einer Mieter- oder Eigentümer-App muss definiert werden, aus welchen Archiven Dokumente veröffentlicht werden, damit der Mieter oder Eigentümer keine Dokumente erhält, die nur für den internen Gebrauch vorgesehen waren. Bitte übergeben Sie uns eine Liste der Archive, aus denen wir die Dokumente veröffentlichen sollen. Nutzen Sie dazu bitte dieses [Formular](https://ivlv.me/QpPEO).
 
-Eine Übersicht der der Archive und Indizes finden Sie im Archiv kompakt Manager und auch im Archiv kompakt Client
+| Zuordnungen                                           | Archivnamen                                                                                            |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Archive, die dem Mieter zugeordnet werden sollen      | <p>z.B. :</p><p>„Mietvertag“</p><p>„SEPA-Lastschrift“</p><p>usw.</p>                                   |
+| Archive, die den Eigentümern zugeordnet werden sollen | <p>z.B.:</p><p>„Eigentümerverträge“</p><p>„Eigentümerversammlung“</p><p>„WEG-Beschluss“</p><p>usw.</p> |
 
-1. **Kompakt Manager- hier haben nur Admins Zugang**
+Eine Übersicht der der Archive und Indizes finden Sie in Wodis Sigma, im Archiv kompakt Manager und auch im Archiv kompakt Client
+
+1. **Wodis Sigma**&#x20;
+
+In Wodis Sigma finden Sie die Archive (Dokumententypen) im Modul Dokumentenmanagement - Dokumententypen
+
+<figure><img src="../.gitbook/assets/Sigma Archive.png" alt=""><figcaption></figcaption></figure>
+
+2. **Kompakt Manager- hier haben nur Admins Zugang**
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/kompact Manager.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kompact Manager (2).png" alt=""><figcaption></figcaption></figure>
 
 **Archive**
 
 Im Menüband oben unter Archive werden die Einträge angezeigt
 
-<figure><img src="../.gitbook/assets/kompact Archive Manager.png" alt=""><figcaption></figcaption></figure>
-
-**Indizes**
-
-Im weißen Menüband **Indexdefinition** findet man die Indizes (werden für die [#einstellungen](wodis-sigma.md#einstellungen "mention") benötigt) zum links angeklickten Archiv.
-
-<figure><img src="../.gitbook/assets/kompact Indizes Manager.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kompact Archive Manager (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;**3. Kompakt Client**
 
 Öffnen Sie den **Kompakt Client**
 
-<figure><img src="../.gitbook/assets/kompact client.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kompact client (1).png" alt=""><figcaption></figcaption></figure>
 
 **Archive**
 
 Im Register Recherche oder Archivierung werden die Archive in den Suchkategorien oder auch in der Mitte unter dem Suchfeld Archiv angezeigt. Hier ein Demo-Archiv. Die Namen stimmen nicht mit Ihren überein.
 
-<figure><img src="../.gitbook/assets/kompact client Achive.png" alt=""><figcaption></figcaption></figure>
-
-**Indizes**
-
-Im Register Recherche oder Archivierung werden die Indizes der Archive angezeigt, sobald man ein Archiv auswählt
-
-<figure><img src="../.gitbook/assets/kompact client Indizes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kompact client Achive (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Einrichtung in Wodis Sigma und **Archiv-Manager**
 
