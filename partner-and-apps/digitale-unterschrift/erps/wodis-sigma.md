@@ -1,4 +1,4 @@
-# WODIS Sigma
+# Wodis Sigma
 
 Initiale Einrichtung
 
@@ -202,12 +202,17 @@ Sie können die Dokumenten-ID auch direkt während der Aktivitäten Erstellung i
 4. Geben Sie die notierte Nummer ein und klicken Sie auf **Suchen**.
 5. Neben **Dokumentauswahl** klicken Sie auf das **+** und dann auf **Übernehmen**.
 6. Unter **Digitale Signaturanker** sehen Sie das automatische Auslesen und die Zuordnung der Anchors
-7. _Optional:_ Geben Sie unter **Email-Adresse für vor Ort Unterschrift** eine E-Mail Adresse (z.B. E-Mail die auf einem iPad angezeigt wird) ein, damit ein Mieter direkt vor Ort unterschreiben kann. Fügen Sie hinter dem Unterzeichner-Tag des Mieters ein Komma, ein Leerzeichen und „vor Ort“ ein.
-   * Mehr Details zur [#vor-ort-unterschrift](../scrive-technologie-partner.md#vor-ort-unterschrift "mention")
-8. Wählen Sie eine Authentifizierungsart unter **Authentifizierung zum Signieren**
-9. Die Unterschrifts-Reihenfolge wird mit den letzten Zahlen jeder Zeile angegeben. Diese können Sie frei bearbeiten.
-   1. Standardmäßig haben alle externen Unterzeichner die Reihenfolge 1 und alle internen Unterzeichner die Reihenfolge 2.
-10. Klicken Sie auf **Speichern**, um die Aktivität abzuspeichern und das Dokument zu versenden.
+7. _Optional:_ Geben Sie unter **Email-Adresse für vor Ort Unterschrift** eine E-Mail Adresse (z.B. E-Mail die auf einem iPad angezeigt wird) ein, damit ein Mieter direkt vor Ort unterschreiben kann. Fügen Sie hinter dem Unterzeichner-Tag des Mieters ein Komma, ein Leerzeichen und „vor Ort“ ein.\
+   Mehr Details zur [#vor-ort-unterschrift](../scrive-technologie-partner.md#vor-ort-unterschrift "mention")
+8.  _Optional:_ Geben Sie unter **E-Mail Adressen für Beobachter** eine oder mehrere E-Mail Adressen kommasepariert ein, welche als Beobachter zu dem Umschlag hinzugefügt werden (ähnlich wie jemanden in einer E-Mail CC nehmen).
+
+    Diese Empfänger werden dann per E-Mail über den Vorgang informiert und können sich den Umschlag in Scrive / DocuSign ansehen, aber nicht unterschreiben.
+9. Wählen Sie eine Authentifizierungsart unter **Authentifizierung zum Signieren**
+10. Die Unterschrifts-Reihenfolge wird mit den letzten Zahlen jeder Zeile angegeben. Diese können Sie frei bearbeiten.
+    1. Standardmäßig haben alle externen Unterzeichner die Reihenfolge 1 und alle internen Unterzeichner die Reihenfolge 2.
+11. Klicken Sie auf **Speichern**, um die Aktivität abzuspeichern und das Dokument zu versenden.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Aktivitäten Aufgaben Tab mit ausgefüllten <strong>E-Mail Adressen für Beobachter</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 Die Reihenfolge der hinzugefügten Anhänge in Wodis Sigma entspricht der Reihenfolge der Dokumente in Scrive.
