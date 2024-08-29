@@ -40,21 +40,41 @@ Andere Produkte wie der VoiceBot oder Omni-Channel von Bots4You werden primär i
 * [Allgemeine Informationen](https://connect-docs-de.locoia.com/use-cases/stammdaten)
 * [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
 
+Die Stammdaten werden nur vom ERP zu Bots4You übertragen.
+
 #### Entitäten
 
-| ERP                                                                         | Boty   |
-| --------------------------------------------------------------------------- | ------ |
-| [Mieter](https://connect-docs-de.locoia.com/entitaeten/mieter)              | Mieter |
-| [Mietverträge](https://connect-docs-de.locoia.com/entitaeten/mietvertraege) | Mieter |
+| ERP                                                                         | Bots4You |
+| --------------------------------------------------------------------------- | -------- |
+| [Mieter](https://connect-docs-de.locoia.com/entitaeten/mieter)              | Mieter   |
+| [Mietverträge](https://connect-docs-de.locoia.com/entitaeten/mietvertraege) | Mieter   |
 
 #### Einstellungen
 
-Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellungen nutzen:\
+Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellungen nutzen:
 
+<table><thead><tr><th width="165">Name</th><th width="450.33333333333326">Beschreibung</th><th>Optionen</th></tr></thead><tbody><tr><td>Separator für zusammengesetzte IDs</td><td>Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind.</td><td><code>-</code>, <code>_</code>, <code>.</code>, <code>/</code>, <code>|</code></td></tr><tr><td>Mandanten Nummern</td><td>Es werden nur Daten für die eingetragenen Mandanten synchronisiert.</td><td></td></tr></tbody></table>
 
 ### 2. Tickets
 
+#### Übersicht
 
+* [Allgemeine Informationen](../use-cases/tickets.md)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
+
+Die Ticket Kategorien werden nur vom ERP zu Bots4You übertragen.
+
+Tickets die in Bots4You erstellt werden, werden an das ERP übertragen und der Status dieser Tickets wird zurück vom ERP an Bots4You übertragen.\
+Tickets die im ERP erstellt wurden, werden nicht an Bots4You übertragen.
+
+#### Entitäten
+
+| ERP               | Bots4You          |
+| ----------------- | ----------------- |
+| Tickets           | Tickets           |
+| Ticket Kategorien | Ticket Kategorien |
+
+## Sonstiges
 
 ### Voicebot: Fragen und Schritte zur Vorbereitung
 
