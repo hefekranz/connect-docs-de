@@ -13,15 +13,16 @@ Als **DocuSign Bestandskunde** können Sie bis auf weiteres weiterhin DocuSign f
 3. Geben Sie bei der Integration **Digitale Unterschrift mit DocuSign** die Zugangsdaten für den DocuSign Nutzter ein (muss ein Admin Nutzer sein), den Sie für die Integration verwenden möchten
    1.  Wir empfehlen, dass Sie einen Admin Nutzer speziell für die Integration nutzen um Probleme bei z.B. Passwort Änderung eines regulären Nutzers zu vermeiden
 
-       <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4. Klicken Sie auf **Autorisieren**
    1. Die Nutzerdaten werden direkt überprüft und bei falschen Informationen erhalten Sie eine Meldung mit weiteren Informationen
 5.  Suchen Sie nach dem DocuSign Account Namen den Sie verwenden wollen und suchen Sie den passenden Namen aus der Liste aus.\
-    Wenn der Account Name nicht auftaucht, überprüfen Sie, dass Sie den Namen richtig eingegeben haben und das Sie sich in Schritt 4. erfolgreich autorisiert haben.
+    Wenn der Account Name nicht auftaucht, überprüfen Sie, dass Sie den Namen richtig eingegeben haben und das Sie sich in Schritt 4. erfolgreich autorisiert haben.\
 
-    <figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-    1. _Optional_: Geben Sie die Bezeichnung der von Ihnen genutzten QES Identitätsüberprüfung an, mehr Details in [#nutzung-von-qes](umstellung-docusign-integration.md#nutzung-von-qes "mention")
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+    1. _Optional_: Geben Sie die Bezeichnung der von Ihnen genutzten (Alternativer) QES Identitätsüberprüfung an, mehr Details in [#nutzung-von-qes](umstellung-docusign-integration.md#nutzung-von-qes "mention")
     2. _Optional_: Setzen Sie einen benutzerdefinierten E-Mail Betreff und/oder E-Mail Text, mehr Details in [#benutzerdefinierter-e-mail-betreff-und-text](umstellung-docusign-integration.md#benutzerdefinierter-e-mail-betreff-und-text "mention")
 6. Die Integration ist nun aktiviert
 7. Sie erhalten somit in den kommenden Stunden via E-Mail die nötigen Informationen um die Integration im ERP System fertig einzurichten
@@ -38,6 +39,20 @@ Um diese integriert Nutzen zu können müssen Sie den genauen Namen im 6. Schrit
 Den genauen Namen können Sie bei DocuSign unter **Einstellungen** > **Identitätsüberprüfung** sehen, wo sie die passende Identitätsüberprüfung aus der Liste auswählen können und diese dann so markieren und kopieren können:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-05-15 at 17.14.58.png" alt=""><figcaption></figcaption></figure>
+
+#### QES Alternative Identitätsüberprüfung
+
+Wenn Sie für bestimmte Unterzeichner eine alternative QES Identitätsüberprüfung nutzen wollen, können Sie diese unter **QES Alternative Identitätsüberprüfung** konfigurieren.
+
+Geben Sie, wie bei der regulären QES Identitätsüberprüfung, den Namen der Identitätsüberprüfung ein und geben Sie unter **QES Alternative Identitätsüberprüfung - E-Mail Domain Filter** die E-Mail Domain als Filter für die Alternative QES Identitätsüberprüfung ein. Nur Unterzeichner mit dieser E-Mail Domain nutzen die alternative Identitätsüberprüfung, alle anderen Unterzeichner nutzen die reguläre QES Identitätsüberprüfung.
+
+Die Einstellungen könnten z.B. so aussehen:
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Beispielhafte QES Alternative Identitätsüberprüfung Einstellungen</p></figcaption></figure>
+
+In dem Fall nutzen alle Unterzeichner die Identitätsüberprüfung **IDV Premier Selfie Ident**, _außer_ die Unterzeichner die in ihrer E-Mail **@wodis-wohnau.de** enthalten haben, diese nutzen **IDNow (Video Ident)**.
+
+Dies kann z.B. nützlich sein, wenn Sie für Ihre internen Unterzeichner Video Ident nutzen wollen, da das Wallet länger gültig ist, aber Ihren Kunden den Komfort von Selfie Ident bieten wollen.
 
 ### Benutzerdefinierter E-Mail Betreff und Text
 

@@ -18,7 +18,7 @@ description: Synchronisierung von Interessenten aus dem Partnersystem in das ERP
 
 Unter „Planung Arbeitsaufträge“ lässt sich ein Job eingerichtet, der in festem Intervall die Interessentendaten nach Yuneo importiert (Empfehlung = Job stündlich oder halbstündlich laufen lassen).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Alternativ kann dieser Job manuell unter „Interessenten“ gestartet werden.
 
@@ -38,17 +38,17 @@ Im Angebot auf „Annehmen und Mietvertrag erstellen“ klicken, damit nun autom
 
 Unter dem Modul „Vermarktung / Wohnungsvermittlung / Verarbeitung / Schnittstelle Immobilienbörsen / Interessenten Import“. Wie im untenstehenden Bild abgebildet, wählen Sie das Portal „XYZ“ aus. Abschließend klicken Sie in oberer Symbolleiste auf „Ausführen“.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Interessentenimport
 
 Gehen Sie nun im Modulmenü links unter „Vermarktung / Wohnungsvermittlung / Stammdaten / Angebot“. Drücken Sie dort die „F6“-Taste (aktualisieren/suchen) Anschließend werden alle importierten Mieter angezeigt. Unter Datensatznavigation können Sie das/den entsprechende Angebot/Mieter auswählen/markieren.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Anschließend den „Status“ auf „angenommen“ setzen und Speichern. Hinweis: Beim Import eines Geschäftspartners wird eine sogenannte Dubletten Prüfung durchgeführt. Das bedeutet, es wird überprüft, ob der Geschäftspartner bereits besteht, um eine fälschliche erneute Anlage zu verhindern. Standardmäßig wird nach Vorname, Nachname und Geburtsdatum geprüft. Dies kann aber auch geändert werden. Sprechen Sie uns dazu gerne an. Es ist wichtig zu wissen, dass die Überprüfung sensibel auf Leerzeichen reagiert.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Beschreibung
 
