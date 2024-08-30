@@ -47,12 +47,11 @@ Je nach Partner gibt es ggf. bestimmte Vorschriften für das Trennzeichen.
 
 #### Archive&#x20;
 
-Bei der Bereitstellung von Dokumenten in einer Mieter- oder Eigentümer-App muss definiert werden, aus welchen Archiven Dokumente veröffentlicht werden, damit der Mieter oder Eigentümer keine Dokumente erhält, die nur für den internen Gebrauch vorgesehen waren. Bitte übergeben Sie uns eine Liste der Archive, aus denen wir die Dokumente veröffentlichen sollen. Nutzen Sie zur Übertragung bitte dieses [Formular](https://ivlv.me/OzjIv).
+Bei der Bereitstellung von Dokumenten in einer Mieter- oder Eigentümer-App muss definiert werden, aus welchen Archiven Dokumente veröffentlicht werden, damit der Mieter oder Eigentümer keine Dokumente erhält, die nur für den internen Gebrauch vorgesehen waren. Bitte übergeben Sie uns eine Liste der **Suchkategorien**, welche in den zu übertragenden Archiven hinterlegt sind, aus denen wir die Dokumente veröffentlichen sollen. Nutzen Sie zur Übertragung bitte dieses [Formular](https://ivlv.me/OzjIv).
 
-| Zuordnungen                                           | Archivnamen                                                                                            |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Archive, die dem Mieter zugeordnet werden sollen      | <p>z.B. :</p><p>„Mietvertag“</p><p>„SEPA-Lastschrift“</p><p>usw.</p>                                   |
-| Archive, die den Eigentümern zugeordnet werden sollen | <p>z.B.:</p><p>„Eigentümerverträge“</p><p>„Eigentümerversammlung“</p><p>„WEG-Beschluss“</p><p>usw.</p> |
+| Suchkategorien der Archive, die dem Mieter zugeordnet werden sollen      | <p>z.B. :</p><p>„Mieter Dokumente“,</p><p>„Mieter-Freigabe“,</p><p>usw.</p>         |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Suchkategorien der Archive, die den Eigentümern zugeordnet werden sollen | <p>z.B.:</p><p>„Eigentümer Dokumente“,</p><p>„Eigentümmer Freigabe“,</p><p>usw.</p> |
 
 &#x20;
 
