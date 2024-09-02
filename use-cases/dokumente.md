@@ -8,7 +8,7 @@ description: >-
 
 ## Übersicht
 
-* **Interval**: Täglich / Echtzeit
+* **Interval**: Täglich (Metadaten) / Echtzeit (Dokumenten Abfrage)
 * **Richtung**: ERP -> Partnersystem
 * **Entitäten**:
   * Archive

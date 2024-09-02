@@ -6,12 +6,13 @@ description: Synchronisierung von Meldungen aus dem Partnersystem in das ERP
 
 ## Übersicht
 
-* **Interval**: Echtzeit
+* **Interval**: 15 Minuten (Abruf/Erstellung) / Echtzeit (Erstellung via Webhook)
 * **Richtung**: Partnersystem --> ERP
 * **Entitäten**:
   * Tickets/Meldungen
 * **Partner**:
   * [Spiri.bo](../partner-and-apps/spiri.bo.md)
+  * [Casavi](../partner-and-apps/casavi.md)
 
 ## Beschreibung
 
