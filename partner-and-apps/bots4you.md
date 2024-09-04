@@ -17,8 +17,6 @@ description: >-
 
 Bots4You bietet K.I.-gestützte Chatbots und Voicebots, die speziell für den Einsatz im Immobilienmanagement entwickelt wurden. Diese Technologie zielt darauf ab, die Kommunikation zwischen Immobilienunternehmen und ihren Kunden oder Mitarbeitern zu verbessern. Die Plattform von Bots4You, die keine Programmierkenntnisse erfordert, ermöglicht es Nutzern, K.I.-Lösungen einfach zu implementieren. Die Bots sind mehrsprachig, anpassbar und können auf verschiedenen Plattformen wie Websites oder als Telefon-Assistenten eingesetzt werden, wobei sie stets datenschutzkonforme Richtlinien befolgen. Durch die Integration mit internen Systemen der Unternehmen können die Bots effektiv Informationen austauschen, wodurch Prozesse optimiert und die Kundenzufriedenheit potenziell gesteigert wird. Bots4You bietet somit eine Vielzahl von Anwendungsmöglichkeiten für die interne und externe Kommunikation im Immobiliensektor. Bei weiteren Fragen zur Anbindung melden Sie sich direkt bei Bots4You.
 
-
-
 ## Server und Hosting
 
 Die [KI-basierte virtuelle Assistentin Neela](https://einfach.aareon.de/CRM-Portal-App.727021.html), die mit dem Aareon CRM. erworben wird, ist im Aareon-Rechenzentrum gehostet (die Server betrieben).
@@ -73,6 +71,33 @@ Tickets die im ERP erstellt wurden, werden nicht an Bots4You übertragen.
 | ----------------- | ----------------- |
 | Tickets           | Tickets           |
 | Ticket Kategorien | Ticket Kategorien |
+
+## Best Practices
+
+### In der Vorbereitung
+
+* Nur **ein Projektleiter** aus der Abteilung für Mieterkommunikation kann **bis zu 80 % des gesamten Go-Live-Prozesses eigenständig** steuern. Es benötigt keine große Projektteams oder lange Implementierungszeiten.
+* **Beginnen Sie** schrittweise **mit einem bestimmten Anwendungsfall**, z. B. der Bearbeitung von Schadensmeldungen außerhalb der Bürozeiten, um sich an die Technologie und den Prozess zu gewöhnen.
+* Verlassen Sie sich auf die **umfangreiche FAQ- und Dialogaufbau-Erfahrung** etablierter Player, die Anpassungen gehen schneller als bei 0 anzufangen. Somit können Sie mit wenig Aufwand schnell live gehen.
+* Entscheiden Sie intern, die **gewollte Kommunikationssprache**. Wollen Sie nur auf Deutsch kommunizieren oder wollen Sie beispielsweise den VoiceBot auch in mehreren Sprachen anbieten. Ein **Großteil der WoWi-Kunden** entscheidet sich **nur Deutsch**, um bei den Mietern nicht die Erwartung zu wecken, dass mehrere Sprachen im Team gesprochen werden können.
+* Machen Sie sich bewusst, dass **sich Mieter an den neuen Prozess** und die Stimme des virtuellen Agenten **gewöhnen** müssen, kommunizieren Sie die Änderungen weiterhin aktiv und stellen Sie sicher, dass die Mieter ständig informiert sind. Die Anliegen der Mieter können somit deutlich schneller bearbeitet werden.
+
+### Während der Implementierung
+
+* **Kanalisieren Sie alle Einträge über einen Bot** (z. B. eine Nummer für alle Schadensmeldungen oder eine zentrale E-Mail-Adresse). Dies kostet am Anfang möglicherweise etwas Zeit, automatisiert jedoch den Prozess und schafft hohe Synergien. Nutzung von Sammel-Postfächern und weg von einzelnen Mitarbeiter-Emails
+* Ermitteln Sie gemeinsam mit Ihrem KI-Partner **alle möglichen Dialogsituationen**, sodass, wenn beispielsweise der VoiceBot den Anliegen nicht erkennen kann, ein klarer Prozess festgelegt wird. Ein klarer Fallback-Szenerio über alle Kommunikationskanäle hinweg.
+* Verlassen Sie sich auf eine **eindeutige Authentifizierungsmethode** (z. B. Mieternummer oder PLZ und Hausnummer) und schulen Sie Ihre Mieter, indem Sie ihnen beispielsweise empfehlen, die Mieternummer in ihren Kontaktdaten zu speichern.
+
+### In der kontinuierlichen Optimierung
+
+* Legen Sie intern klar fest, wer dafür verantwortlich ist, **gemeinsam mit dem Partner die KI kontinuierlich zu optimieren** (Dialoge, FAQs, etc.). Es ist eine gemeinsame Arbeit, die Leistung der verschiedenen Bots weiterzuentwickeln.
+* **Kommunizieren Sie intern** klar und deutlich zwischen den verschiedenen Teams, welche **neuen Prozesse vom KI-Bot abgedeckt werden** und wie sich dieser positiv auf die Kollegen auswirkt
+* Hinweise an Ihre Mieter um die virtuellen Assistenten zu nutzen:
+  * im **Impressum** der Webseite und auf der „Kontakt“-Webseite
+  * in der normalen **Telefonanlagen-Schleife** (während der Öffnungszeiten), „über unseren virtuellen Telefon-Assistenten Neela können sie fast alle Anliegen rund um die Uhr an uns übermitteln oder bekommen sofort eine Antwort auf Ihre Frage.“
+  * ein “wie funktioniert unser Bot“ **Video**, dass sich Mieter ansehen können
+  * Newsletter **Rundmail**
+  * Hinweis im **CRM-Portal**
 
 ## Sonstiges
 
