@@ -212,6 +212,10 @@ Sie können die Dokumenten-ID auch direkt während der Aktivitäten Erstellung i
     1. Standardmäßig haben alle externen Unterzeichner die Reihenfolge 1 und alle internen Unterzeichner die Reihenfolge 2.
 11. Klicken Sie auf **Speichern**, um die Aktivität abzuspeichern und das Dokument zu versenden.
 
+{% hint style="warning" %}
+Der Wert für den **Aufgabenstatus** der Aktivität muss leer gelassen werden.
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Aktivitäten Aufgaben Tab mit ausgefüllten <strong>E-Mail Adressen für Beobachter</strong></p></figcaption></figure>
 
 {% hint style="info" %}
