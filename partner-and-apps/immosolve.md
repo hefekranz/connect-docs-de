@@ -28,4 +28,4 @@ Seit 2005 stattet Immosolve Wohnungsunternehmen, Genossenschaften und Hausverwal
 #### Übersicht
 
 * [Allgemeine Informationen](../entitaeten/leerstaende.md)
-* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=96033489\&fvid=276732562)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1fLwCGcttemtlDpznO3O00352cZZ5SPJXBPv6IRWQ6Bk/edit?gid=1046693259#gid=1046693259)

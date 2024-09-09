@@ -32,7 +32,7 @@ PriceHubble ist ein B2B-Unternehmen, das innovative digitale Lösungen für die 
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/stammdaten.md)
-* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1fLwCGcttemtlDpznO3O00352cZZ5SPJXBPv6IRWQ6Bk/edit?gid=1022321755#gid=1022321755)
 
 #### Entitäten
 
@@ -43,4 +43,4 @@ PriceHubble ist ein B2B-Unternehmen, das innovative digitale Lösungen für die 
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/tickets.md)
-* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=388591826\&fvid=1169857418)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1fLwCGcttemtlDpznO3O00352cZZ5SPJXBPv6IRWQ6Bk/edit?gid=1996564035#gid=1996564035)

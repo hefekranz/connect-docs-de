@@ -36,7 +36,7 @@ Andere Produkte wie der VoiceBot oder Omni-Channel von Bots4You werden primär i
 #### Übersicht
 
 * [Allgemeine Informationen](https://connect-docs-de.locoia.com/use-cases/stammdaten)
-* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1fLwCGcttemtlDpznO3O00352cZZ5SPJXBPv6IRWQ6Bk/edit?gid=1022321755#gid=1022321755)
 
 Die Stammdaten werden nur vom ERP zu Bots4You übertragen.
 
@@ -58,7 +58,7 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 #### Übersicht
 
 * [Allgemeine Informationen](../use-cases/tickets.md)
-* [Feld Mapping](https://docs.google.com/spreadsheets/d/1b5iCRsnGxBGTXNzHzaNm0SlfRoIpbRofghzS-7HwbVc/edit#gid=1213044489\&fvid=23969279)
+* [Feld Mapping](https://docs.google.com/spreadsheets/d/1fLwCGcttemtlDpznO3O00352cZZ5SPJXBPv6IRWQ6Bk/edit?gid=1996564035#gid=1996564035)
 
 Die Ticket Kategorien werden nur vom ERP zu Bots4You übertragen.
 

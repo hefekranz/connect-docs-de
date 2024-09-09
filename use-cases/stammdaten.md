@@ -22,7 +22,7 @@ description: >-
 * **Partner**:
   * [AktivBo Analytics](../partner-and-apps/aktivbo-analytics.md)
   * [casavi](../partner-and-apps/casavi.md)
-  * [dormakaba](broken-reference)
+  * [dormakaba](../partner-and-apps/dormakaba.md)
   * [etg24](../partner-and-apps/etg24.md)
   * [EverReal](../partner-and-apps/everreal.md)
   * [facilioo](../partner-and-apps/facilioo.md)
