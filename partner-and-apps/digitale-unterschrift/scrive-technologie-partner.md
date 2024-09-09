@@ -182,9 +182,20 @@ Bei Problemen bei der initialen Registrierung hilft es [dieser Anleitung](https:
 
 Bei der Nutzung von QES sind folgende Besonderheiten zu beachten:
 
-* Die zu unterschreibenden Dokumente dürfen keine auszufüllenden Felder enthalten und die Unterschrift erfolgt visuell nicht auf dem Dokument direkt
 * Alle Unterzeichner des Dokumentes müssen mit QES unterschreiben
 * Alle Unterzeichner benötigen eine gültige Mobilnummer (es ist _nicht_ erforderlich, dass dies im ERP hinterlegt ist)
+* Unterstütze Anchortag Feldarten (die aktuell nicht unterstützen Feldarten werden bei der Nutzung von QES ignoriert):
+
+| Feldart            | Unterstützt bei QES  |
+| ------------------ | -------------------- |
+| Unterschrift       | September 2024       |
+| Unterschriftsdatum | TBD                  |
+| Datum              | :white\_check\_mark: |
+| Name               | :white\_check\_mark: |
+| Checkbox           | Q4 2024              |
+| Text               | :white\_check\_mark: |
+| Email              | :white\_check\_mark: |
+| Initialen          | :white\_check\_mark: |
 
 ## Vor-Ort-Unterschrift
 
