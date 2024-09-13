@@ -31,7 +31,7 @@ Die Felder **Scrive: Digitale Signatur Fingerprint** und **Scrive: Digitale Sign
 Um im Nachgang Aktivitäten für die digitale Unterschrift erstellen zu können, müssen diese zunächst erstellt werden. Es werden insgesamt 2 Aktivitäten benötigt, eine Aktivität für die **Anfrage der digitalen Signatur** und eine zur **Antwort auf die digitale Signaturanfrage**:
 
 1. Gehen Sie auf **Aktivitätenmanagement > Stammdaten > Anlage von Aktivitäts-Standardwerten**
-2. Klicken Sie im Reiter **Anlage von Aktivitätstypen** auf das Feld mit dem Typnamen **Aufgabe** und fügen Sie über das Hauptmenü eine neue hinzu.
+2. Klicken Sie im Reiter **Anlage von Aktivitätstypen** auf das Feld mit dem Typnamen **Aufgabe** und fügen Sie über das Hauptmenü eine Neue hinzu.
 
 <div align="left">
 
@@ -64,13 +64,17 @@ Um im Nachgang Aktivitäten für die digitale Unterschrift erstellen zu können,
 Wie auch bei der Einrichtung der vorherigen Aktivität können Sie zunächst Ihre gewünschten Berechtigungen vergeben und belegen dann die **Einstellungen** wie folgt:
 
 1. Setzen Sie im Bereich **Allgemein** den Haken bei **Der Aktivitätstyp gehört zur Kategorie:**
-   * Wählen Sie anschließend im **Dropdown-Menü** "**Externer Service**" aus
-2. Setzen Sie im Bereich **Vorbelegungen** den Haken bei "**Benutze Informationen über das Stammdatum im Betreff für neue Aktivitäten**"
-3. Alle anderen Haken in den Einstellungen können Sie entfernen. Ihre Einstellungen sollten nun der Abbildung gleichen:
+   1. Wählen Sie anschließend im **Dropdown-Menü** "**Externer Service**" aus
+2. Haken Sie außerdem **Aktivitäten dieses Typs werden standardmäßig im Aktionenbereich angezeigt** an
+3. Wählen Sie **Benutze Standard-Betreff für neue Aktivitäten:** aus und geben Sie im Textfeld **Antwort auf digitale Signaturanfrage** ein
+4. Setzen Sie den Haken bei **Benutze Informationen über das Stammdatum im Betreff für neue Aktivitäten**
+5. Wir empfehlen Ihnen eine **Standard-Fälligkeit** von **einem Tag** für die Aktivität einzustellen
+
+Alle anderen Haken in den Einstellungen können Sie entfernen. Ihre Einstellungen sollten nun wie die Abbildung aussehen.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/Aktivität Anlagen 2.png" alt="" width="548"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Überschrift hinzufügen (1) (1).png" alt="" width="536"><figcaption></figcaption></figure>
 
 </div>
 
@@ -78,7 +82,7 @@ Wie auch bei der Einrichtung der vorherigen Aktivität können Sie zunächst Ihr
 
 Die Jobs dienen dazu, die leeren Dokumente an Scrive zu übermitteln und die unterschriebenen Dateien von dem Technologiepartner abzufragen. Deshalb richten Sie in diesem Schritt **zwei Jobtypen** ein. Die Einrichtung mit unseren empfohlenen Einstellungen läuft wie folgt ab:
 
-1. Gehen Sie in den Modulen über **Vorgangsmanagement** in das Fenster **Job Planung**. Hier richten sie die beiden nachfolgenden Jobs neu ein
+1. Gehen Sie in den Modulen den Pfad **Zentrale Funktionen** > **Vorgangsmanagement** > **Job Planung**. Hier richten sie die beiden nachfolgenden Jobs ein.
 
 <div align="left">
 
