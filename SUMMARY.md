@@ -32,6 +32,7 @@
   * [Immomio](partner-and-apps/immomio.md)
   * [iwb & IGISˢᶦˣ](partner-and-apps/iwb-and-igis.md)
   * [KIWI](partner-and-apps/kiwi.md)
+  * [Mietz](partner-and-apps/mietz.md)
   * [OWNER TIME](partner-and-apps/owner-time.md)
   * [Plentific](partner-and-apps/plentific.md)
   * [PriceHubble](partner-and-apps/pricehubble.md)
