@@ -84,10 +84,13 @@ Sollte Ihr Immomio Account über ein altes DIT System laufen, werden sie zusätz
 
 #### Einstellungen
 
-| Name                               | Beschreibung                                                                                                                        | Optionen                 |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| Separator für zusammengesetzte IDs | Dieser Separator wird genutzt um die IDs in dem Partner System aus den ERP Nummern zusammenzusetzen, sodass die IDs eindeutig sind. | `-`, `_`, `.`, `/`, `\|` |
-| Mandanten Nummern                  | Es werden nur Daten für die eingetragenen Mandanten synchronisiert.                                                                 |                          |
+| Name                               | Beschreibung                                                                                                                             | Optionen                 |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| Separator für zusammengesetzte IDs | Dieser Separator zwischen der Nummer der Mandanten, Wirtschaftseinheinten, Gebäuden und Einheiten und wird in Immomio als ID angezeigt.  | `-`, `_`, `.`, `/`, `\|` |
+
+#### Voraussetzungen
+
+* Die Leerstände müssen mit einer Nettokaltmiete übertragen werden
 
 #### Test der Integration: Leerstand von ERP nach Immomio
 
