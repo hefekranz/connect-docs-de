@@ -24,6 +24,7 @@ Als **DocuSign Bestandskunde** können Sie bis auf weiteres weiterhin DocuSign f
 
     1. _Optional_: Geben Sie die Bezeichnung der von Ihnen genutzten (Alternativer) QES Identitätsüberprüfung an, mehr Details in [#nutzung-von-qes](umstellung-docusign-integration.md#nutzung-von-qes "mention")
     2. _Optional_: Setzen Sie einen benutzerdefinierten E-Mail Betreff und/oder E-Mail Text, mehr Details in [#benutzerdefinierter-e-mail-betreff-und-text](umstellung-docusign-integration.md#benutzerdefinierter-e-mail-betreff-und-text "mention")
+    3. _Optional_: Defineren Sie eine Signiergruppe für bestimmte Unterziechern, mehr Details in [#nutzung-von-signiergruppen](umstellung-docusign-integration.md#nutzung-von-signiergruppen "mention")
 6. Die Integration ist nun aktiviert
 7. Sie erhalten somit in den kommenden Stunden via E-Mail die nötigen Informationen um die Integration im ERP System fertig einzurichten
 8. Folgen Sie den Anleitungen der jeweiligen ERPs für die weiteren Einrichtungsschritte (Scrive kann dabei mit DocuSign ersetzt werden)
@@ -67,3 +68,13 @@ Der Betreff und Text kann keine Variablen enthalten und ist somit für jeden Ums
 
 Entsprechend sollte der Betreff und Text möglichst generisch sein, sodass diese für alle Situationen passen.
 {% endhint %}
+
+### Nutzung von Signiergruppen
+
+Wenn Sie für bestimmte Unterzeichner aus dem ERP System eine Signiergruppe benutzen wollen, müssen Sie beide Felder ausfüllen:
+
+*   **Signiergruppen-ID**: Diese finden Sie in den DocuSign Einstellungen unter **Benutzer und Gruppen** > **Signiergruppen** > **Signiergruppen-ID**\
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-09-13 at 17.42.12.png" alt=""><figcaption></figcaption></figure>
+* **Signiergruppe - E-Mail Domain Filter**: E-Mail Domain als Filter für die Signiergruppe. Nur Unterzeichner mit dieser E-Mail Domain werden durch die Signiergruppe ersetzt, alle anderen Unterzeichner werden wie im ERP System definiert zu dem Umschlag hinzugefügt.
