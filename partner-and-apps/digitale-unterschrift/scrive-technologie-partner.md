@@ -188,7 +188,7 @@ Bei der Nutzung von QES sind folgende Besonderheiten zu beachten:
 
 | Feldart            | Unterstützt bei QES  |
 | ------------------ | -------------------- |
-| Unterschrift       | September 2024       |
+| Unterschrift       | :white\_check\_mark: |
 | Unterschriftsdatum | TBD                  |
 | Datum              | :white\_check\_mark: |
 | Name               | :white\_check\_mark: |
