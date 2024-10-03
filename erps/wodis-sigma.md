@@ -91,18 +91,19 @@ Bei Wodis Sigma läuft der Dokumente Use Case immer direkt über die AAK Schnitt
 
 Entsprechend ist die zusätzliche [#einrichtung-in-wodis-sigma-und-archiv-manager](wodis-sigma.md#einrichtung-in-wodis-sigma-und-archiv-manager "mention") nötig.
 
-Im Zuge der Aktivierung des Dokumenten Use Cases, müssen Sie folgende Tabelle ausfüllen:
-
 Im Zuge der Aktivierung des Dokumenten Use Cases, müssen Sie folgende Einstellungen ausfüllen:
+
+| Name               | Beschreibung                                                     | Optionen                                                                                               |
+| ------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Mieter Archive     | Archive, die dem Mieter zugeordnet werden sollen                 | <p>z.B. :</p><p>„Mietvertag“</p><p>„SEPA-Lastschrift“</p><p>usw.</p>                                   |
+| Eigentümer Archive | Archive, die den Eigentümern zugeordnet werden sollen            | <p>z.B.:</p><p>„Eigentümerverträge“</p><p>„Eigentümerversammlung“</p><p>„WEG-Beschluss“</p><p>usw.</p> |
+| Schlagwort-Filter  | Schlagwörter/Begriffe die in dem Feld "Bemerkung" enthalten sind |                                                                                                        |
+
+Nutzen Sie dazu bitte dieses [Formular](https://ivlv.me/QpPEO).
 
 #### Archive&#x20;
 
-Bei der Bereitstellung von Dokumenten in einer Mieter- oder Eigentümer-App muss definiert werden, aus welchen Archiven Dokumente veröffentlicht werden, damit der Mieter oder Eigentümer keine Dokumente erhält, die nur für den internen Gebrauch vorgesehen waren. Bitte übergeben Sie uns eine Liste der Archive, aus denen wir die Dokumente veröffentlichen sollen. Nutzen Sie dazu bitte dieses [Formular](https://ivlv.me/QpPEO).
-
-| Zuordnungen                                           | Archivnamen                                                                                            |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Archive, die dem Mieter zugeordnet werden sollen      | <p>z.B. :</p><p>„Mietvertag“</p><p>„SEPA-Lastschrift“</p><p>usw.</p>                                   |
-| Archive, die den Eigentümern zugeordnet werden sollen | <p>z.B.:</p><p>„Eigentümerverträge“</p><p>„Eigentümerversammlung“</p><p>„WEG-Beschluss“</p><p>usw.</p> |
+Bei der Bereitstellung von Dokumenten in einer Mieter- oder Eigentümer-App muss definiert werden, aus welchen Archiven Dokumente veröffentlicht werden, damit der Mieter oder Eigentümer keine Dokumente erhält, die nur für den internen Gebrauch vorgesehen waren. Bitte übergeben Sie uns eine Liste der Archive, aus denen wir die Dokumente veröffentlichen sollen.
 
 Eine Übersicht der der Archive und Indizes finden Sie in Wodis Sigma, im Archiv kompakt Manager und auch im Archiv kompakt Client
 

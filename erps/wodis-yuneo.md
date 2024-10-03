@@ -45,15 +45,19 @@ Je nach Partner gibt es ggf. bestimmte Vorschriften für das Trennzeichen.
 
 ### Dokumente
 
-#### Archive&#x20;
+Im Zuge der Aktivierung des Dokumenten Use Cases, müssen Sie folgende Einstellungen ausfüllen:
 
-Bei der Bereitstellung von Dokumenten in einer Mieter- oder Eigentümer-App muss definiert werden, aus welchen Archiven Dokumente veröffentlicht werden, damit der Mieter oder Eigentümer keine Dokumente erhält, die nur für den internen Gebrauch vorgesehen waren. Bitte übergeben Sie uns eine Liste der **Suchkategorien**, welche in den zu übertragenden Archiven hinterlegt sind, aus denen wir die Dokumente veröffentlichen sollen. Nutzen Sie zur Übertragung bitte dieses [Formular](https://ivlv.me/OzjIv).
+| Name                      | Beschreibung                                                             | Optionen                                                                            |
+| ------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Mieter Suchkategorien     | Suchkategorien der Archive, die dem Mieter zugeordnet werden sollen      | <p>z.B. :</p><p>„Mieter Dokumente“,</p><p>„Mieter-Freigabe“,</p><p>usw.</p>         |
+| Eigentümer Suchkategorien | Suchkategorien der Archive, die den Eigentümern zugeordnet werden sollen | <p>z.B.:</p><p>„Eigentümer Dokumente“,</p><p>„Eigentümmer Freigabe“,</p><p>usw.</p> |
+| Schlagwort-Filter         | Schlagwörter/Begriffe die in dem Feld "Bemerkung" enthalten sind         |                                                                                     |
 
-| Suchkategorien der Archive, die dem Mieter zugeordnet werden sollen      | <p>z.B. :</p><p>„Mieter Dokumente“,</p><p>„Mieter-Freigabe“,</p><p>usw.</p>         |
-| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| Suchkategorien der Archive, die den Eigentümern zugeordnet werden sollen | <p>z.B.:</p><p>„Eigentümer Dokumente“,</p><p>„Eigentümmer Freigabe“,</p><p>usw.</p> |
+Nutzen Sie zur Übertragung bitte dieses [Formular](https://ivlv.me/OzjIv).
 
-&#x20;
+#### Archive
+
+Bei der Bereitstellung von Dokumenten in einer Mieter- oder Eigentümer-App muss definiert werden, aus welchen Archiven Dokumente veröffentlicht werden, damit der Mieter oder Eigentümer keine Dokumente erhält, die nur für den internen Gebrauch vorgesehen waren. Bitte übergeben Sie uns eine Liste der **Suchkategorien**, welche in den zu übertragenden Archiven hinterlegt sind, aus denen wir die Dokumente veröffentlichen sollen.
 
 Die vorhandenen Archive finden Sie in Yuneo, im kompakt Manager und im kompakt Client.
 
