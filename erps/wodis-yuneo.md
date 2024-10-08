@@ -90,3 +90,17 @@ Im Menüband oben unter Archive werden die Einträge angezeigt
 Im Register Recherche oder Archivierung werden die Archive in den Suchkategorien oder auch in der Mitte unter dem Suchfeld Archiv angezeigt. Hier ein Demo-Archiv. Die Namen stimmen nicht mit Ihren überein.
 
 <figure><img src="../.gitbook/assets/kompact client Achive.png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Protocols
+
+Über den Use Case Protocols können Dokumente vom Partnersystem in Archiv kompakt übertragen werden. Bei der Übertragung des Dokumentes muss angegeben werden, in welches Archiv das Dokument abgelegt werden soll. Die Dokumente werden automatisch verschlagwortet. Dazu ist eine Einrichtung in Yuneo notwendig, damit das System die Indexwerte aus dem jeweiligen Stammdaten in Yuneo zuordnen kann.
+
+Öffnen sie das Archiv in Yuneo zu dem Dokumente übertragen werden sollen, indem sie in der YuSearch "Archive" eingeben.
+
+Im Register „Einstellungen Drittanbieter“ fügen sie ein neuen Eintrag in „Stammdatum hinzu und wählen den Stammdateneintrag aus, aus dem die Indexdaten bei der Ablage des Dokumentes gezogen werden sollen. Beispiel: Es sollen Dokumente in das Archiv Mietvertrag-Schriftwechsel übertragen werden, die Indexdaten sollen aus dem Mietvertrag gezogen werden.
+
+Voraussetzung: Der Benutzer, mit dem die Dokumente übertragen werden, muss auch Archivrechte analog Use Case Dokumente haben.
+
+<figure><img src="../.gitbook/assets/Protocols_Yuneo.png" alt=""><figcaption></figcaption></figure>
