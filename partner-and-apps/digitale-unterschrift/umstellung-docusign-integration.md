@@ -69,6 +69,14 @@ Der Betreff und Text kann keine Variablen enthalten und ist somit für jeden Ums
 Entsprechend sollte der Betreff und Text möglichst generisch sein, sodass diese für alle Situationen passen.
 {% endhint %}
 
+### Marken Nutzung
+
+Wenn Sie in DocuSign eine Marke erstellt haben ([mehr Details](https://support.docusign.com/s/document-item?language=de\&bundleId=pik1583277475390\&topicId=lfr1583277366660.html&\_LANG=dede)), können Sie die ID der Marke, die Sie für alle Umschläge nutzen wollen, die mit der Digitalen Signatur versendet werden, in der **Marken ID** Einstellung hinzufügen.
+
+Die Marken ID finden Sie hier in DocuSign:
+
+<figure><img src="../../.gitbook/assets/Arc 2024-10-29 14.26.24.png" alt=""><figcaption><p>Marken-ID in DocuSign einsehen</p></figcaption></figure>
+
 ### Nutzung von Signiergruppen
 
 Wenn Sie für bestimmte Unterzeichner aus dem ERP System eine Signiergruppe benutzen wollen, müssen Sie beide Felder ausfüllen:
