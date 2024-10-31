@@ -192,7 +192,7 @@ Bei der Nutzung von QES sind folgende Besonderheiten zu beachten:
 | Unterschriftsdatum | TBD                  |
 | Datum              | :white\_check\_mark: |
 | Name               | :white\_check\_mark: |
-| Checkbox           | Q4 2024              |
+| Checkbox           | :white\_check\_mark: |
 | Text               | :white\_check\_mark: |
 | Email              | :white\_check\_mark: |
 | Initialen          | :white\_check\_mark: |
