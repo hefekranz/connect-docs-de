@@ -9,9 +9,9 @@ description: >-
 ## Übersicht
 
 * **Kategorien**: [Mieterkommunikation](../kategorien/mieterkommunikation.md)
-* **Use Cases**: [Stammdaten](spiri.bo.md#stammdaten), [Tickets](../use-cases/tickets.md)
+* **Use Cases**: [Stammdaten](spiri.bo.md#stammdaten), [Tickets](../use-cases/tickets.md), [Dokumente](../use-cases/documents.md)
 * **Marketplace**: [Spiri.Bo](https://marketplace.aareon.com/de/listings/spiribo)
-* **API Dokumentation**: [Link](https://api.spiri.bo/v1/docs/silo#tag/building)
+* **API Dokumentation**: [Link](https://api.spiri.bo/v1/docs/silo)
 
 ## Beschreibung
 
@@ -20,7 +20,7 @@ Spiri.Bo ist ein PropTech-Unternehmen der meravis Immobiliengruppe. Spiri.Bo dig
 ## Mit Spiri.Bo verbinden
 
 1. Um einen Spiri.Bo-Use-Case zu nutzen benötigen Sie zur Aktivierung die **Spiri.Bo API Zugansdaten**. Diese erhalten Sie folgendermaßen:
-   1. Fordern Sie per Email an [dev+api-key@spiri.bo](mailto:dev+api-key@spiri.bo) mit dem Betreff "API-Key Aareon Connect" und Inhalt "Hallo, bitte sendet mir einen API-Key für Aareon Connect zu. Vielen Dank" den API Key an.&#x20;
+   1. Fordern Sie per Email an [dev+api-key@spiri.bo](mailto:dev+api-key@spiri.bo) mit dem Betreff "API-Key Aareon Connect" den API Key an.&#x20;
 2. Nachdem Sie Aareon Connect Kunde geworden sind, können Sie die verfügbaren **Spiri.Bo Integrationen innerhalb Ihres ERP-Systems** auswählen und aktivieren.
 
 ## Use Cases
